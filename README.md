@@ -1,4 +1,6 @@
 # hsp
-Repositório de desenvolvimento do soft-HSP
+## Repositório de desenvolvimento do soft-HSP e da pesquisa de curso
 
-Este repositório serve para o desenvolvimento da plataforma HSP
+Este repositório serve para o desenvolvimento da plataforma HSP. A plataforma é uma aplicação web baseada em Python-Flask para a gestão de coleções de substâncias e a interpretação de compatibilidade entre elas a partir das suas propriedades. O principal conjunto de propriedades utilizado para inferir a compatibilidade entre as substâncias são os Parâmetros de Solubilidade de Hansen (HSP).
+A plataforma HSP auxiliará o pesquisador organizando coleções de substâncias que terão sua compatibilidade analisada. As substâncias presentes na coleção poderão ter determinados seus parâmetros de solubilidade de Hansen (HSP) através de mais de um método e para isso o pesquisador poderá contar com a busca de propriedades e susbstâncias em bases de dados eletrônicas, além de modelo de machine learning. A produção de gráficos e relatórios comparativos das propriedades das substâncias subsidiará o trabalho de seleção de conjuntos soluto-solventes que atendam os pré-requisitos propostos em cada projeto de coleção. Com isso se pretende otimizar o trabalho do pesquisador, reduzindo o custo e o consumo de reagentes e seus descartes decorrentes dos ensaios em bancada, promovendo a química verde e o planejamento dos experimentos em laboratório.
+Este trabalho está em andamento!
