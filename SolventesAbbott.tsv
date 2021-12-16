@@ -1,0 +1,1219 @@
+Smile	Nome	CID	CAS	Apelido	semaforo_NEV	semaforo_4BZC	semaforo_BZC	semaforo_TEO	semaforo_AS	semaforo_CAF	semaforo_ASC	semaforo_ADPC	semaforo_AAS	dd	dp	dh	classe	Metodo
+C(C(Cl)(Cl)Cl)Cl	1,1,1,2-Tetrachloroethane	12418	630-20-6		None	None	None	None	None	None	None	None	None	18	4.4	4.2	solv	Abbott
+CC(Cl)(Cl)Cl	1,1,1-Trichloroethane	6278	71-55-6		None	None	None	None	None	None	None	None	None	16.8	4.3	2	solv	Abbott
+CC(F)(F)F	1,1,1-Trifluoroethane	9868	420-46-2		None	None	None	None	None	None	None	None	None	14.6	10	0	solv	Abbott
+C(C(Br)Br)(Br)Br	1,1,2,2-Tetrabromoethane	6588	79-27-6		None	None	None	None	None	None	None	None	None	21	7	8.2	solv	Abbott
+C(C(Cl)Cl)(Cl)Cl	1,1,2,2-Tetrachloroethane	6591	79-34-5		None	None	None	None	None	None	None	None	None	18.8	5.1	5.3	solv	Abbott
+CC(C(Cl)Cl)(Cl)Cl	1,1,2,2-Tetrachloropropane	83154	13116-60-4		None	None	None	None	None	None	None	None	None	17.9	6.7	3.3	solv	Abbott
+C(=C(Br)Br)Br	1,1,2-Tribromo Ethylene	11712	598-16-3		None	None	None	None	None	None	None	None	None	18.3	9.4	8	solv	Abbott
+CC(=C(Cl)Cl)Cl	1,1,2-Trichloro Propene	30616	21400-25-9		None	None	None	None	None	None	None	None	None	17.7	15.7	3.4	solv	Abbott
+C(C(Cl)Cl)Cl	1,1,2-Trichloroethane	6574	79-00-5		None	None	None	None	None	None	None	None	None	18.2	5.3	6.8	solv	Abbott
+C(C(F)(Cl)Cl)(F)(F)Cl	1,1,2-Trichlorotrifluoroethane (Freon113)	6428	76-13-1		None	None	None	None	None	None	None	None	None	14.7	1.6	0	solv	Abbott
+COC(CC(OC)OC)OC	1,1,3,3-Tetramethoxypropane	66019	102-52-3		None	None	None	None	None	None	None	None	None	15	7.1	6.8	solv	Abbott
+CC(OCC=C)OCC=C	1,1-Diallyloxyethane	225379	20682-69-3		None	None	None	None	None	None	None	None	None	15.4	5.1	4.8	solv	Abbott
+CC(Br)Br	1,1-Dibromoethane	11201	557-91-5		None	None	None	None	None	None	None	None	None	18.5	8.4	8.8	solv	Abbott
+C=C(Br)Br	1,1-Dibromoethylene	11652	593-92-0		None	None	None	None	None	None	None	None	None	16.2	4.8	7	solv	Abbott
+CC([N+](=O)[O-])(Cl)Cl	1,1-Dichloro-1-Nitroethane	11674	594-72-9		None	None	None	None	None	None	None	None	None	16.8	12.1	4.3	solv	Abbott
+CC(=O)C(Cl)Cl	1,1-Dichloroacetone	10567	513-88-2		None	None	None	None	None	None	None	None	None	17.1	7.6	5.4	solv	Abbott
+CC(Cl)Cl	1,1-Dichloroethane	6365	75-34-3		None	None	None	None	None	None	None	None	None	16.5	7.8	3	solv	Abbott
+C=C(Cl)Cl	1,1-Dichloroethylene	6366	75-35-4		None	None	None	None	None	None	None	None	None	16.4	5.2	2.4	solv	Abbott
+CCC(Cl)Cl	1,1-Dichloropropane	6573	78-99-9		None	None	None	None	None	None	None	None	None	16.1	7.8	3.5	solv	Abbott
+CC=C(Cl)Cl	1,1-Dichloropropene	11245	563-58-6		None	None	None	None	None	None	None	None	None	16.9	6.7	2.9	solv	Abbott
+CCCC(OCC)OCC	1,1-Diethoxy Butane	77225	3658-95-5		None	None	None	None	None	None	None	None	None	15.4	4.9	4.6	solv	Abbott
+CCOC(C)OCC	1,1-Diethoxy Ethane	7765	105-57-7		None	None	None	None	None	None	None	None	None	15	3.4	4	solv	Abbott
+CC(F)F	1,1-Difluoroethane	6368	75-37-6		None	None	None	None	None	None	None	None	None	14.9	9.3	2.9	solv	Abbott
+C=C(F)F	1,1-Difluoroethylene	6369	75-38-7		None	None	None	None	None	None	None	None	None	15	5.7	3.6	solv	Abbott
+CC(OC)OC	1,1-Dimethoxy Ethane	10795	534-15-6		None	None	None	None	None	None	None	None	None	15.1	4.9	4.9	solv	Abbott
+CN(C)N	1,1-Dimethyl Hydrazine	5976	57-14-7		None	None	None	None	None	None	None	None	None	15.3	5.9	11	solv	Abbott
+CC1=C(C(=C(C=C1)C)C)C	1,2,3,4-Tetramethylbenzene	10263	488-23-3		None	None	None	None	None	None	None	None	None	18.8	0.5	0.5	solv	Abbott
+CC1=CC(=C(C(=C1)C)C)C	1,2,3,5-Tetramethylbenzene	10695	527-53-7		None	None	None	None	None	None	None	None	None	18.6	0.5	0.5	solv	Abbott
+C1=CC2=NNN=C2C=C1	1,2,3-Benzotriazole	7220	95-14-7		None	None	None	None	None	None	None	None	None	18.7	15.6	12.4	solv	Abbott
+C1=NNN=C1	1,2,3-Triazole	67516	288-36-8		None	None	None	None	None	None	None	None	None	20.7	8.8	15	solv	Abbott
+C(C(=CCl)Cl)Cl	1,2,3-Trichloro Propene	7286	96-19-5		None	None	None	None	None	None	None	None	None	17.8	7.8	3.4	solv	Abbott
+C(C(CCl)Cl)Cl	1,2,3-Trichloropropane	7285	96-18-4		None	None	None	None	None	None	None	None	None	17.8	12.3	3.4	solv	Abbott
+C1=C(C(=CC(=C1Cl)Cl)Cl)Cl	1,2,4,5-Tetrachlorobenzene	7270	95-94-3		None	None	None	None	None	None	None	None	None	21.2	10.7	3.4	solv	Abbott
+C1=CC(=C(C=C1Cl)Cl)Cl	1,2,4-Trichlorobenzene	13	120-82-1		None	None	None	None	None	None	None	None	None	20.2	4.2	3.2	solv	Abbott
+CC=C=C	1,2-Butadiene	11535	590-19-2		None	None	None	None	None	None	None	None	None	15	1.7	6.2	solv	Abbott
+0	1,2-Chlorobromoethylene	0	408590		None	None	None	None	None	None	None	None	None	17.2	6.6	2.3	solv	Abbott
+C1CCC(C(C1)O)O	1,2-Cyclohexanediol	13601	931-17-9		None	None	None	None	None	None	None	None	None	17.4	9.8	18.3	solv	Abbott
+C1CCC(=O)C(=O)C1	1,2-Cyclohexanedione	13006	765-87-7		None	None	None	None	None	None	None	None	None	18.6	10.3	8	solv	Abbott
+C(=CBr)Br	1,2-Dibromoethylene	643776	540-49-8		None	None	None	None	None	None	None	None	None	17	4.9	3	solv	Abbott
+C(=CCl)Cl	1,2-Dichloroethylene (Cis)	643833	156-59-2		None	None	None	None	None	None	None	None	None	17	8	3.2	solv	Abbott
+CC(CCl)Cl	1,2-Dichloropropane	6564	78-87-5		None	None	None	None	None	None	None	None	None	17.3	7.1	2.9	solv	Abbott
+CC(=CCl)Cl	1,2-Dichloropropene (Cis)	5463459	6923-20-2		None	None	None	None	None	None	None	None	None	17	8.5	2.9	solv	Abbott
+C(C(F)(F)Cl)(F)(F)Cl	1,2-Dichlorotetrafluoroethane (Freon 114)	6429	76-14-2		None	None	None	None	None	None	None	None	None	12.6	1.8	0	solv	Abbott
+CCOC(=CCl)Cl	1,2-Dichlorovinyl Ethyl Ether	55250388	42345-82-4		None	None	None	None	None	None	None	None	None	16.9	10.5	6	solv	Abbott
+CCC1=CC=CC=C1CC	1,2-Diethyl Benzene	8657	135-01-3		None	None	None	None	None	None	None	None	None	17.7	0.1	1	solv	Abbott
+C1=CC=C(C(=C1)O)O	1,2-Dihydroxybenzene (Catechol)	289	120-80-9		None	None	None	None	None	None	None	None	None	20	11.3	21.8	solv	Abbott
+COC1=CC=CC=C1OC	1,2-Dimethoxybenzene	7043	91-16-7		None	None	None	None	None	None	None	None	None	19.2	4.4	9.4	solv	Abbott
+C1=CC=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-]	1,2-Dinitrobenzene	10707	528-29-0		None	None	None	None	None	None	None	None	None	20.6	11.6	3.9	solv	Abbott
+C=C1CO1	1,2-Epoxy-2-Propene	3029326	40079-14-9		None	None	None	None	None	None	None	None	None	16.5	8.6	6.7	solv	Abbott
+C(CS)S	1,2-Ethane Dithiol	10902	540-63-6		None	None	None	None	None	None	None	None	None	17.9	7.2	8.7	solv	Abbott
+C1OC2=CC=CC=C2O1	1,2-Methylenedioxybenzene (G.C.)	9229	274-09-9		None	None	None	None	None	None	None	None	None	19	6.7	5.9	solv	Abbott
+C=C=C	1,2-Propadiene (Allene)	10037	463-49-0		None	None	None	None	None	None	None	None	None	15.3	3	6.8	solv	Abbott
+C1OCOCO1	1,3,5-Trioxane	8081	110-88-3		None	None	None	None	None	None	None	None	None	18.7	9.2	8.6	solv	Abbott
+C1=CC(=CC(=C1)O)O	1,3-Benzenediol	5054	108-46-3		None	None	None	None	None	None	None	None	None	18.6	8.1	20.3	solv	Abbott
+C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F	1,3-Bis(Trifluoromethyl)Benzene	223106	402-31-3		None	None	None	None	None	None	None	None	None	17	6.8	0	solv	Abbott
+C=CC=C	1,3-Butadiene	7845	106-99-0		None	None	None	None	None	None	None	None	None	14.8	2.8	5.6	solv	Abbott
+C=CC(=CCl)Cl	1,3-Butadiene-1,2-Di-Chloro	5463151	3574-40-1		None	None	None	None	None	None	None	None	None	17	10.7	2.8	solv	Abbott
+C=CC=CCl	1,3-Butadiene-1-Chloro	5462923	627-22-5		None	None	None	None	None	None	None	None	None	15.6	8.5	2	solv	Abbott
+CC(CCO)O	1,3-Butanediol	7896	107-88-0		None	None	None	None	None	None	None	None	None	16.5	8.1	20.9	solv	Abbott
+C(CCl)CCl	1,3-Dichloro Propane	8881	142-28-9		None	None	None	None	None	None	None	None	None	18	8.2	3	solv	Abbott
+CC(=CCCl)Cl	1,3-Dichloro-2-Butene	637892	926-57-8		None	None	None	None	None	None	None	None	None	16.9	7.8	2.7	solv	Abbott
+0	1,3-Dichloro-2-Fluorobenzene	0	134536		None	None	None	None	None	None	None	None	None	19.4	9.1	2.7	solv	Abbott
+C(C(CCl)O)Cl	1,3-Dichloro-2-Propanol	7289	96-23-1		None	None	None	None	None	None	None	None	None	17.5	9.9	14.6	solv	Abbott
+CC(CCOC)OC	1,3-Dimethoxy Butane	25011	10143-66-5		None	None	None	None	None	None	None	None	None	15.6	5.5	5.2	solv	Abbott
+C1COCO1	1,3-Dioxolane	12586	646-06-0		None	None	None	None	None	None	None	None	None	18.1	6.6	9.3	solv	Abbott
+CC=CC=C	1,3-Pentadiene (Trans)	62204	2004-70-8		None	None	None	None	None	None	None	None	None	15	2.5	4	solv	Abbott
+C1COS(=O)(=O)C1	1,3-Propane Sultone	14264	1120-71-4		None	None	None	None	None	None	None	None	None	18.4	16	9	solv	Abbott
+C(CO)CO	1,3-Propanediol (Trimethyleneglycol)	10442	504-63-2		None	None	None	None	None	None	None	None	None	16.8	13.5	23.2	solv	Abbott
+C=CC(=O)OCCCCOC(=O)C=C	1,4-Butandiol Diacrylate	70613	1070-70-8		None	None	None	None	None	None	None	None	None	16.8	9.1	4.2	solv	Abbott
+C(CCO)CO	1,4-Butanediol	8064	110-63-4		None	None	None	None	None	None	None	None	None	16.6	11	20.9	solv	Abbott
+C(C=CCCl)Cl	1,4-Dichloro-2-Butene	6432115	764-41-0		None	None	None	None	None	None	None	None	None	17.8	7.6	2	solv	Abbott
+C(CCCl)CCl	1,4-Dichlorobutane	8059	110-56-5		None	None	None	None	None	None	None	None	None	18.3	7.7	2.8	solv	Abbott
+C1=CC(=CC=C1O)O	1,4-Dihydroxybenzene (1,4-Benzenediol)	785	123-31-9		None	None	None	None	None	None	None	None	None	21	10.2	27.2	solv	Abbott
+C1COCCO1	1,4-Dioxane	31275	123-91-1		None	None	None	None	None	None	None	None	None	17.5	1.8	9	solv	Abbott
+C1COCCO1	1,4-Dioxane (High P)	31275	123-91-1		None	None	None	None	None	None	None	None	None	17.1	6.8	7.8	solv	Abbott
+C1CSCCO1	1,4-Thioxane	27596	15980-15-1		None	None	None	None	None	None	None	None	None	19	6.6	7.7	solv	Abbott
+C(CCCl)CCCl	1,5-Dichloropentane	12353	628-76-2		None	None	None	None	None	None	None	None	None	18	7.8	1.5	solv	Abbott
+CC1(C2CCC(O1)(CC2)C)C	1,8-Cineole (Eucalyptol)	2758	470-82-6		None	None	None	None	None	None	None	None	None	16.7	4.6	3.4	solv	Abbott
+C(CCCCO)CCCCO	1,9-Nonanediol	19835	3937-56-2		None	None	None	None	None	None	None	None	None	15.7	7	15.1	solv	Abbott
+CC(=O)OC=CC=C	1-Acetoxy-1,3-Butadiene	5363433	1515-76-0		None	None	None	None	None	None	None	None	None	16.1	4.4	8.3	solv	Abbott
+C1CC1(C(=O)O)N	1-Aminocyclopropane Carboxylic Acid	535	22059-21-8		None	None	None	None	None	None	None	None	None	17	6.3	13.6	solv	Abbott
+CC=CBr	1-Bromo Propene (Cis)	639660	590-13-6		None	None	None	None	None	None	None	None	None	16.3	6.4	5	solv	Abbott
+CCOC1=CC=C(C=C1)Br	1-Bromo-4-Ethoxy Benzene	68523	588-96-5		None	None	None	None	None	None	None	None	None	19.5	7.7	5.3	solv	Abbott
+C1=CC=C2C(=C1)C=CC=C2Br	1-Bromonaphthalene	7001	90-11-9		None	None	None	None	None	None	None	None	None	20.6	3.1	4.1	solv	Abbott
+CCCBr	1-Bromopropane	7840	106-94-5		None	None	None	None	None	None	None	None	None	16.4	7.9	4.8	solv	Abbott
+CCCCS	1-Butanethiol	8012	109-79-5		None	None	None	None	None	None	None	None	None	16.3	5.3	4.5	solv	Abbott
+CCCCO	1-Butanol	263	71-36-3		None	None	None	None	None	None	None	None	None	16	5.7	15.8	solv	Abbott
+CCC=C	1-Butene	7844	106-98-9		None	None	None	None	None	None	None	None	None	13.2	1.3	3.9	solv	Abbott
+COCCC=C	1-Butenyl Methyl Ether	317680	4696-30-4		None	None	None	None	None	None	None	None	None	15.1	5.3	5.2	solv	Abbott
+CCCCCCl	1-Chloro Pentane	10977	543-59-9		None	None	None	None	None	None	None	None	None	16	6.9	1.9	solv	Abbott
+0	1-Chloro Vinyl Ethyl Ether	0	54722-81-5		None	None	None	None	None	None	None	None	None	16.8	6.5	5.7	solv	Abbott
+C=C(F)Cl	1-Chloro-1-Fluoro Ethylene	75344	2317-91-1		None	None	None	None	None	None	None	None	None	16	6.9	4	solv	Abbott
+CC([N+](=O)[O-])Cl	1-Chloro-1-Nitroethane	61149	598-92-5		None	None	None	None	None	None	None	None	None	16.8	13.5	4.7	solv	Abbott
+CCC([N+](=O)[O-])Cl	1-Chloro-1-Nitropropane	11750	600-25-9		None	None	None	None	None	None	None	None	None	16.8	13	4.5	solv	Abbott
+CC=CCCl	1-Chloro-2-Butene	5463237	591-97-9		None	None	None	None	None	None	None	None	None	16.2	7.7	2	solv	Abbott
+CCOC1=CC=CC=C1Cl	1-Chloro-2-Ethoxy Benzene	69197	614-72-2		None	None	None	None	None	None	None	None	None	19.2	8.1	4.4	solv	Abbott
+CCC1=CC=CC=C1Cl	1-Chloro-2-Ethyl Benzene	6995	89-96-3		None	None	None	None	None	None	None	None	None	18.9	4.9	2.2	solv	Abbott
+CC(=CCl)C	1-Chloro-2-Methyl Propene	10555	513-37-1		None	None	None	None	None	None	None	None	None	16.1	7.1	4.2	solv	Abbott
+CCOC1=CC=C(C=C1)Cl	1-Chloro-4-Ethoxy Benzene	69326	622-61-7		None	None	None	None	None	None	None	None	None	19.3	6.3	4.4	solv	Abbott
+CCCCCl	1-Chlorobutane	8005	109-69-3		None	None	None	None	None	None	None	None	None	16.2	5.5	2	solv	Abbott
+CCCCCCCl	1-Chlorohexane	10992	544-10-5		None	None	None	None	None	None	None	None	None	16.1	6.2	1.7	solv	Abbott
+C1=CC=C2C(=C1)C=CC=C2Cl	1-Chloronaphthalene	7003	90-13-1		None	None	None	None	None	None	None	None	None	20.5	4.9	2.5	solv	Abbott
+CC=CCl	1-Chloropropene	5326315	590-21-6		None	None	None	None	None	None	None	None	None	15.3	6.9	2.2	solv	Abbott
+CCCCCCCCCCO	1-Decanol	8174	112-30-1		None	None	None	None	None	None	None	None	None	16	4.7	10.5	solv	Abbott
+CCCCCCCCC=C	1-Decene	13381	872-05-9		None	None	None	None	None	None	None	None	None	15.6	1	2.2	solv	Abbott
+CCOCC(COCC)O	1-Ethoxy Ethoxy-2-Propanol	77664	4043-59-8		None	None	None	None	None	None	None	None	None	15.4	6.3	6	solv	Abbott
+CCC=COCC	1-Ethyl Vinyl Ethyl Ether	138375	1528-20-7		None	None	None	None	None	None	None	None	None	15.3	4.2	4.6	solv	Abbott
+C=C(C(=O)O)F	1-Fluoro Acrylic Acid	2782523	430-99-9		None	None	None	None	None	None	None	None	None	16	8.7	13	solv	Abbott
+C(=CF)C#N	1-Fluoro Acrylonitrile	6432432	430-49-9		None	None	None	None	None	None	None	None	None	14.1	15.4	5.7	solv	Abbott
+CCCCCCCO	1-Heptanol	8129	111-70-6		None	None	None	None	None	None	None	None	None	16	5.3	11.7	solv	Abbott
+CCCCCC=C	1-Heptene	11610	592-76-7		None	None	None	None	None	None	None	None	None	15	1.1	2.6	solv	Abbott
+CCCCCCO	1-Hexanol	8103	111-27-3		None	None	None	None	None	None	None	None	None	15.9	5.8	12.5	solv	Abbott
+CCCCC=C	1-Hexene	11597	592-41-6		None	None	None	None	None	None	None	None	None	14.7	1.1	3	solv	Abbott
+COC=CC=C	1-Methoxy-1,3-Butadiene	5354405	3036-66-6		None	None	None	None	None	None	None	None	None	15.5	8.3	5.4	solv	Abbott
+COC1=CC=CC=C1[N+](=O)[O-]	1-Methoxy-2-Nitrobenzene	7048	91-23-6		None	None	None	None	None	None	None	None	None	19.6	12.7	5.5	solv	Abbott
+CC1(CCCCC1)O	1-Methyl Cyclohexanol	11550	590-67-0		None	None	None	None	None	None	None	None	None	17.1	4	12	solv	Abbott
+CN1C=CN=C1	1-Methyl Imidazole	1390	616-47-7		None	None	None	None	None	None	None	None	None	19.7	15.6	11.2	solv	Abbott
+CC1=CC=CC2=CC=CC=C12	1-Methyl Naphthalene	7002	90-12-0		None	None	None	None	None	None	None	None	None	19.7	0.8	4.7	solv	Abbott
+CC(=C)OC	1-Methyl Vinyl Methyl Ether	8300	116-11-0		None	None	None	None	None	None	None	None	None	14.8	4.2	5.6	solv	Abbott
+C1=CC=C2C(=C1)C=CC=C2O	1-Naphthol	7005	90-15-3		None	None	None	None	None	None	None	None	None	19.7	6.3	12.3	solv	Abbott
+CCC[N+](=O)[O-]	1-Nitropropane	7903	108-03-2		None	None	None	None	None	None	None	None	None	16.6	12.3	5.5	solv	Abbott
+CCCCCCCCCO	1-Nonanol	8914	143-08-8		None	None	None	None	None	None	None	None	None	16	4.8	11	solv	Abbott
+CCCCCCCC=C	1-Nonene	31285	124-11-8		None	None	None	None	None	None	None	None	None	15.4	1	2.2	solv	Abbott
+CCCCCCCCO	1-Octanol	957	111-87-5		None	None	None	None	None	None	None	None	None	16	5	11.2	solv	Abbott
+CCCCCCC=C	1-Octene	8125	111-66-0		None	None	None	None	None	None	None	None	None	15.3	1	2.4	solv	Abbott
+CCCCCO	1-Pentanol	6276	71-41-0		None	None	None	None	None	None	None	None	None	15.9	5.9	13.9	solv	Abbott
+CCCC=C	1-Pentene	8004	109-67-1		None	None	None	None	None	None	None	None	None	13.9	1.4	3.8	solv	Abbott
+CCCS	1-Propanethiol	7848	107-03-9		None	None	None	None	None	None	None	None	None	16.1	5.8	5.7	solv	Abbott
+CCCO	1-Propanol	1031	71-23-8		None	None	None	None	None	None	None	None	None	16	6.8	17.4	solv	Abbott
+CCCCCCCCCCCCC=C	1-Tetradecene	14260	1120-36-1		None	None	None	None	None	None	None	None	None	16.1	0.5	1.9	solv	Abbott
+C1=CSC(=C2SC=CS2)S1	2,2',5,5'-Tetrathiafulvalen	99451	31366-25-3		None	None	None	None	None	None	None	None	None	21	8.2	8.4	solv	Abbott
+C(C(F)(F)F)O	2,2,2-Trifluoro Ethanol	6409	75-89-8		None	None	None	None	None	None	None	None	None	15.4	8.3	16.4	solv	Abbott
+CC(C)C(C(C)(C)COC(=O)C(C)C)O	2,2,4-Trimethyl-1,3-Pentanediol Monoisobutyrate (Texanol)	6490	25265-77-4		None	None	None	None	None	None	None	None	None	15.1	6.1	9.8	solv	Abbott
+CC(C)CC(C)(C)C	2,2,4-Trimethylpentane	10907	540-84-1		None	None	None	None	None	None	None	None	None	14.1	0	0	solv	Abbott
+C1CC(C(=O)C(C1)(Cl)Cl)(Cl)Cl	2,2,6,6-Tetrachlorocyclohexanone	77407	3776-30-5		None	None	None	None	None	None	None	None	None	19.5	14	6.3	solv	Abbott
+CC(C)(C)CO	2,2-Dimethyl-1-Propanol (Neopentyl Alc.)	6404	75-84-3		None	None	None	None	None	None	None	None	None	15.6	6.5	13.5	solv	Abbott
+C1=CC(=C(C(=C1[N+](=O)[O-])F)F)F	2,3,4-Trifluoro Nitrobenzene	69871	771-69-7		None	None	None	None	None	None	None	None	None	19.5	7.7	3.5	solv	Abbott
+C1=CC=C2C(=C1)C=CO2	2,3-Benzofuran (Cumaron)	9223	271-89-6		None	None	None	None	None	None	None	None	None	18.7	5.1	5.7	solv	Abbott
+C=C=CCO	2,3-Butadiene-1-ol	140447	18913-31-0		None	None	None	None	None	None	None	None	None	16.2	6.6	16.8	solv	Abbott
+CC1C(OC(=O)O1)C	2,3-Butylene Carbonate	536113	4437-70-1		None	None	None	None	None	None	None	None	None	18	16.8	3.1	solv	Abbott
+C=C(C(=C)Br)Br	2,3-Dibromoprene	21863425	34994-48-4		None	None	None	None	None	None	None	None	None	17.7	11.8	6.4	solv	Abbott
+C=C(C(=C)Cl)Cl	2,3-Dichloro-1,3-Butadiene	15447	1653-19-6		None	None	None	None	None	None	None	None	None	17.1	2.3	2.8	solv	Abbott
+C1=CC(=C(C(=C1)Cl)Cl)[N+](=O)[O-]	2,3-Dichloronitrobenzene	18555	3209-22-1		None	None	None	None	None	None	None	None	None	19.7	12.6	4.4	solv	Abbott
+C(C(CCl)Cl)O	2,3-Dichloropropanol	12018	616-23-9		None	None	None	None	None	None	None	None	None	17.5	9.2	14.6	solv	Abbott
+C=C(CCl)Cl	2,3-Dichloropropene	6565	78-88-6		None	None	None	None	None	None	None	None	None	16.2	7.8	3	solv	Abbott
+C1=C(C(=CC(=C1Cl)Cl)Cl)S	2,4,5-Trichlorothiophenol	19597	3773-14-6		None	None	None	None	None	None	None	None	None	21	4.5	9.1	solv	Abbott
+C1=C(C=C(C(=C1Br)O)Br)Br	2,4,6-Tribromo Phenol	1483	118-79-6		None	None	None	None	None	None	None	None	None	20.6	10.2	14.1	solv	Abbott
+COC1=C(C=C(C=C1Cl)Cl)Cl	2,4,6-Trichloroanisol	6884	87-40-1		None	None	None	None	None	None	None	None	None	21	3.9	7	solv	Abbott
+C1=C(C=C(C(=C1Cl)O)Cl)Cl	2,4,6-Trichlorophenol	6914	88-06-2		None	None	None	None	None	None	None	None	None	20.3	5.1	10.8	solv	Abbott
+C1=CC(=C(C(=C1[N+](=O)[O-])Cl)F)Cl	2,4-Dichloro-3-Fluoronitrobenzene	223081	393-79-3		None	None	None	None	None	None	None	None	None	19.9	7.2	4.2	solv	Abbott
+C1=C(C(=CC(=C1[N+](=O)[O-])Cl)Cl)C(F)(F)F	2,4-Dichloro-5-Nitrobenzotrifluoride	621179	400-70-4		None	None	None	None	None	None	None	None	None	19.9	7.6	3.7	solv	Abbott
+C1=CC(=C(C=C1Cl)Cl)N	2,4-Dichloroaniline	11123	554-00-7		None	None	None	None	None	None	None	None	None	20.9	6.2	10	solv	Abbott
+C1=CC(=C(C=C1Cl)Cl)C=O	2,4-Dichlorobenzaldehyde	13404	874-42-0		None	None	None	None	None	None	None	None	None	19.7	8.8	5.4	solv	Abbott
+C1=CC(=C(C=C1Cl)Cl)[N+](=O)[O-]	2,4-Dichloronitrobenzene	11899	611-06-3		None	None	None	None	None	None	None	None	None	20.4	8.7	4.2	solv	Abbott
+C1=CC(=C(C=C1Cl)Cl)O	2,4-Dichlorophenol	8449	120-83-2		None	None	None	None	None	None	None	None	None	20	7.2	13.1	solv	Abbott
+C1=CC(=C(C=C1F)F)[N+](=O)[O-]	2,4-Difluoronitrobenzene	67967	446-35-5		None	None	None	None	None	None	None	None	None	19.4	11	3.7	solv	Abbott
+CC1=CC(=C(C=C1)N)C	2,4-Dimethylaniline	7250	95-68-1		None	None	None	None	None	None	None	None	None	19.2	5.2	8.7	solv	Abbott
+CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]	2,4-Dinitrotoluene	8461	121-14-2		None	None	None	None	None	None	None	None	None	20	13.1	4.9	solv	Abbott
+C1=CC(=C(C=C1Cl)C(F)(F)F)Cl	2,5-Dichlorobenzotrifluoride	35360	320-50-3		None	None	None	None	None	None	None	None	None	20	4.7	2.4	solv	Abbott
+C1=CC(=C(C=C1Cl)O)Cl	2,5-Dichlorophenol	66	583-78-8		None	None	None	None	None	None	None	None	None	20	6.3	12.1	solv	Abbott
+CCOC1CCC(O1)OCC	2,5-Diethoxy Tetrahydrofuran	95500	3320-90-9		None	None	None	None	None	None	None	None	None	16.6	6.4	7.3	solv	Abbott
+COC1CCC(O1)OC	2,5-Dimethoxytetrahydrofuran	79098	696-59-3		None	None	None	None	None	None	None	None	None	16.8	7.2	8.2	solv	Abbott
+CC1=CC=C(N1)C	2,5-Dimethyl Pyrrole	12265	625-84-3		None	None	None	None	None	None	None	None	None	18.3	7.6	6.8	solv	Abbott
+C1CC(OC1CO)CO	2,5-Tetrahydrofuran Dimethanol	97792	104-80-3		None	None	None	None	None	None	None	None	None	17.9	8.5	18.9	solv	Abbott
+CN1C=NC2=C1C(=NC(=N2)Cl)Cl	2,6-Dichloro-7-Methyl Purine	75281	2273-93-0		None	None	None	None	None	None	None	None	None	20.5	11.7	14.2	solv	Abbott
+COC1=C(C=CC=C1Cl)Cl	2,6-Dichloroanisole	16127	1984-65-2		None	None	None	None	None	None	None	None	None	19.8	8.4	6.5	solv	Abbott
+C1=CC(=C(C(=C1)Cl)O)Cl	2,6-Dichlorophenol	6899	87-65-0		None	None	None	None	None	None	None	None	None	20.1	7.5	10.9	solv	Abbott
+C1=CC(=C(C(=C1)F)C#N)F	2,6-Difluorobenzonitrile	74695	1897-52-5		None	None	None	None	None	None	None	None	None	18.8	11.2	3.2	solv	Abbott
+COC1=C(C(=CC=C1)OC)O	2,6-Dimethoxy Phenol	7041	91-10-1		None	None	None	None	None	None	None	None	None	19.3	7.6	13.7	solv	Abbott
+CC1=C(C(=CC=C1)C)O	2,6-Dimethyl Phenol	11335	576-26-1		None	None	None	None	None	None	None	None	None	19.1	4.9	12.9	solv	Abbott
+CCN(CC)CCO	2-(Diethylamino)Ethanol	7497	100-37-8		None	None	None	None	None	None	None	None	None	15.7	5.8	12	solv	Abbott
+CC(=O)C1=CC=CS1	2-Acetyl Thiophene	6920	88-15-3		None	None	None	None	None	None	None	None	None	19.1	12.2	9.3	solv	Abbott
+C1=CC=NC(=C1)N	2-Amino Pyridine	10439	504-29-0		None	None	None	None	None	None	None	None	None	20.4	8.1	12.2	solv	Abbott
+C=C(CO)Br	2-Bromo Allyl Alcohol	446627	598-19-6		None	None	None	None	None	None	None	None	None	17.1	9.9	16.2	solv	Abbott
+CC(=C)Br	2-Bromo Propene	11202	557-93-7		None	None	None	None	None	None	None	None	None	16.1	6	4.9	solv	Abbott
+CCC(C)Br	2-Bromobutane	6554	78-76-2		None	None	None	None	None	None	None	None	None	16.3	7.7	4.4	solv	Abbott
+CC(C)Br	2-Bromopropane	6358	75-26-3		None	None	None	None	None	None	None	None	None	15.5	8.3	4.7	solv	Abbott
+C1=CSC(=C1)Br	2-Bromothiophene	13851	1003-09-4		None	None	None	None	None	None	None	None	None	20.1	5.2	4.6	solv	Abbott
+CCC(C)O	2-Butanol	6568	78-92-2		None	None	None	None	None	None	None	None	None	15.8	5.7	14.5	solv	Abbott
+CC=CC	2-Butene (Cis)	5287573	590-18-1		None	None	None	None	None	None	None	None	None	14.7	1.3	4.1	solv	Abbott
+CC=CC	2-Butene (Trans)	62695	624-64-6		None	None	None	None	None	None	None	None	None	14.6	0	2.9	solv	Abbott
+CC=C(C)OC	2-Butenyl Methyl Ether (Cis)	111206	25125-85-3		None	None	None	None	None	None	None	None	None	15.2	3.4	5	solv	Abbott
+CC=CCOC	2-Butenyl Methyl Ether (Trans)	5366216	10034-14-7		None	None	None	None	None	None	None	None	None	15.3	4.4	4.3	solv	Abbott
+C(#CC#N)C#N	2-Butynedinitrile	14068	1071-98-3		None	None	None	None	None	None	None	None	None	15.2	16.2	8	solv	Abbott
+C=C(CO)Cl	2-Chloro Allyl Alcohol	80076	5976-47-6		None	None	None	None	None	None	None	None	None	17.1	10.2	16.4	solv	Abbott
+CC(=C)Cl	2-Chloro Propene (Isopropenyl Chloride)	11203	557-98-2		None	None	None	None	None	None	None	None	None	15.5	6.7	2.2	solv	Abbott
+CC(C)(C)Cl	2-Chloro-2-Methyl Propane	10486	507-20-0		None	None	None	None	None	None	None	None	None	15.6	7.6	2	solv	Abbott
+CC1=CC(=C(C=C1)N)Cl	2-Chloro-4-Methylaniline	12007	615-65-6		None	None	None	None	None	None	None	None	None	19.7	7.4	8.9	solv	Abbott
+CC1=CC(=C(C=C1)Cl)O	2-Chloro-5-Methyl Phenol	12008	615-74-7		None	None	None	None	None	None	None	None	None	19	7.7	13.1	solv	Abbott
+C(C(=O)N)Cl	2-Chloroacetamide	6580	79-07-2		None	None	None	None	None	None	None	None	None	17.6	12.4	12.8	solv	Abbott
+CC(=O)OC(C(=C)Cl)OC(=O)C	2-Chloroallylidene Diacetate	79576	5459-90-5		None	None	None	None	None	None	None	None	None	16.7	7.3	8.8	solv	Abbott
+CCC(C)Cl	2-Chlorobutane	6563	78-86-4		None	None	None	None	None	None	None	None	None	15.8	7.6	2	solv	Abbott
+C1CCC(=O)C(C1)Cl	2-Chlorocyclohexanone	13203	822-87-7		None	None	None	None	None	None	None	None	None	18.5	13	5.1	solv	Abbott
+CC(=O)OCCCl	2-Chloroethyl Acetate	10959	542-58-5		None	None	None	None	None	None	None	None	None	16.7	9.6	8.8	solv	Abbott
+C1=CC=C(C=C1)CCCl	2-Chloroethyl Benzene	231496	622-24-2		None	None	None	None	None	None	None	None	None	19.3	6.3	2.2	solv	Abbott
+CCOCCCl	2-Chloroethyl Ethyl Ether	12341	628-34-2		None	None	None	None	None	None	None	None	None	16.3	7.9	4.6	solv	Abbott
+CCSCCCl	2-Chloroethyl Ethyl Sulfide	12733	693-07-2		None	None	None	None	None	None	None	None	None	17.2	5	6.1	solv	Abbott
+C1=CC=C(C(=C1)O)Cl	2-Chlorophenol	7245	95-57-8		None	None	None	None	None	None	None	None	None	19	5.5	13.9	solv	Abbott
+C=C(C=O)Cl	2-Chloropropenal	560790	683-51-2		None	None	None	None	None	None	None	None	None	17.1	12.9	8.1	solv	Abbott
+C=C(C(=O)O)Cl	2-Chloropropenoic Acid	11735	598-79-8		None	None	None	None	None	None	None	None	None	19.1	9.4	12.4	solv	Abbott
+C1=CSC(=C1)Cl	2-Chlorothiophene	7299	96-43-5		None	None	None	None	None	None	None	None	None	19.2	6.2	8	solv	Abbott
+C1CC(C=C1)O	2-Cyclopentenyl Alcohol	220164	3212-60-0		None	None	None	None	None	None	None	None	None	18.1	7.6	15.6	solv	Abbott
+CCCCCCCCC(C)O	2-Decanol	14254	1120-06-5		None	None	None	None	None	None	None	None	None	15.8	3.9	10	solv	Abbott
+CCC(=CC)C=O	2-Ethyl Croton Aldehyde	12469132	19780-25-7		None	None	None	None	None	None	None	None	None	16.1	8	5.5	solv	Abbott
+CCCCC(CC)COC(=O)C	2-Ethyl Hexyl Acetate	7635	103-09-3		None	None	None	None	None	None	None	None	None	15.8	2.9	5.1	solv	Abbott
+CCCCC(CC)COC(=O)C=C	2-Ethyl Hexyl Acrylate	7636	103-11-7		None	None	None	None	None	None	None	None	None	15.3	4.3	3	solv	Abbott
+CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)O	2-Ethyl Hexyl Phthalate (Mono)	20393	4376-20-9		None	None	None	None	None	None	None	None	None	17.3	6.2	6.8	solv	Abbott
+CCC(=C)C=C	2-Ethyl-1,3-Butadiene	18850	3404-63-5		None	None	None	None	None	None	None	None	None	15.3	1.6	3.8	solv	Abbott
+CCC(CC)CO	2-Ethyl-1-Butanol	7358	97-95-0		None	None	None	None	None	None	None	None	None	15.8	4.3	13.5	solv	Abbott
+CCC(=C)CC	2-Ethyl-1-Butene	12970	760-21-4		None	None	None	None	None	None	None	None	None	14.9	1.7	3.5	solv	Abbott
+CCCCC(CC)CO	2-Ethyl-Hexanol	7720	104-76-7		None	None	None	None	None	None	None	None	None	15.9	3.3	11.8	solv	Abbott
+CCCCCCNCC	2-Ethylhexyl Amine	546879	20352-67-4		None	None	None	None	None	None	None	None	None	15.7	4.2	6.1	solv	Abbott
+C1=COC(=C1)C#N	2-Furonitrile	69245	617-90-3		None	None	None	None	None	None	None	None	None	18.4	15	8.2	solv	Abbott
+CCCCCC(C)O	2-Heptanol	10976	543-49-7		None	None	None	None	None	None	None	None	None	15.7	5.4	11.7	solv	Abbott
+COC1CCCCO1	2-Methoxy Tetrahydropyrane	23057	6581-66-4		None	None	None	None	None	None	None	None	None	17.2	6.6	6	solv	Abbott
+COC1OCCO1	2-Methoxy-1,3-Dioxolane	29744	19693-75-5		None	None	None	None	None	None	None	None	None	17.8	8.4	7.7	solv	Abbott
+CC=CC(=O)O	2-Methyl (Cis) Acrylic Acid	19499	503-64-0		None	None	None	None	None	None	None	None	None	16.8	5.2	12.4	solv	Abbott
+CC1CCCCC1O	2-Methyl Cyclohexanol (Mix)	11418	583-59-5		None	None	None	None	None	None	None	None	None	17.1	6.5	12.5	solv	Abbott
+CC1CCCCC1=O	2-Methyl Cyclohexanone	11419	583-60-8		None	None	None	None	None	None	None	None	None	17.6	7.8	4.7	solv	Abbott
+CC1=NC=CN=C1	2-Methyl Pyrazine	7976	109-08-0		None	None	None	None	None	None	None	None	None	18.3	12.3	10.5	solv	Abbott
+CC1CCCO1	2-Methyl Tetrahydrofuran	7301	96-47-9		None	None	None	None	None	None	None	None	None	16.9	5	4.3	solv	Abbott
+CC1OCCO1	2-Methyl-1,3-Dioxolane	10342	497-26-7		None	None	None	None	None	None	None	None	None	17.3	4.8	5.8	solv	Abbott
+CCC(C)CO	2-Methyl-1-Butanol	8723	137-32-6		None	None	None	None	None	None	None	None	None	16	5.1	14.3	solv	Abbott
+CCC(=C)C	2-Methyl-1-Butene	11240	563-46-2		None	None	None	None	None	None	None	None	None	14.5	1.8	1.3	solv	Abbott
+CC=C(C=O)Cl	2-Methyl-1-Chloro Acrolein	5355510	53175-28-3		None	None	None	None	None	None	None	None	None	17.1	10.6	7.3	solv	Abbott
+CCCC(C)CO	2-Methyl-1-Pentanol	7745	105-30-6		None	None	None	None	None	None	None	None	None	15.8	4.9	13.5	solv	Abbott
+CCC(C)(C)O	2-Methyl-2-Butanol	6405	75-85-4		None	None	None	None	None	None	None	None	None	15.3	6.1	13.3	solv	Abbott
+CC=C(C)C	2-Methyl-2-Butene	10553	513-35-9		None	None	None	None	None	None	None	None	None	14.7	2	2.9	solv	Abbott
+CC1=CC=CO1	2-Methylfuran	10797	534-22-5		None	None	None	None	None	None	None	None	None	17.3	2.8	7.4	solv	Abbott
+CC(CO)[N+](=O)[O-]	2-Nitro-1-Propanol	92187	2902-96-7		None	None	None	None	None	None	None	None	None	16.1	13.7	15.4	solv	Abbott
+CC(C)[N+](=O)[O-]	2-Nitropropane	398	79-46-9		None	None	None	None	None	None	None	None	None	16.2	12.1	4.1	solv	Abbott
+C1=CSC(=C1)[N+](=O)[O-]	2-Nitrothiophene	11866	609-40-5		None	None	None	None	None	None	None	None	None	19.7	16.2	8.2	solv	Abbott
+CCCCCCC(C)O	2-Octanol	20083	123-96-6		None	None	None	None	None	None	None	None	None	16.1	4.9	11	solv	Abbott
+C1CC(=O)N(C1)CC(=O)N	2-Oxopyrrolidinacetamid	4843	7491-74-9		None	None	None	None	None	None	None	None	None	17.5	15.6	11.2	solv	Abbott
+CCCC(C)O	2-Pentanol	22386	6032-29-7		None	None	None	None	None	None	None	None	None	15.6	6.4	13.3	solv	Abbott
+C1=CC=C(C=C1)OCCO	2-Phenoxy Ethanol	31236	122-99-6		None	None	None	None	None	None	None	None	None	17.8	5.7	14.3	solv	Abbott
+C1=CC=C(C=C1)CCO	2-Phenyl Ethanol	6054	60-12-8		None	None	None	None	None	None	None	None	None	18.3	5.6	11.2	solv	Abbott
+CC1=CCC2CC1C2(C)C	2-Pinene (dl)	6654	80-56-8		None	None	None	None	None	None	None	None	None	16.9	1.8	3.1	solv	Abbott
+CC(C)S	2-Propanethiol	6364	75-33-2		None	None	None	None	None	None	None	None	None	16.3	6.8	6.5	solv	Abbott
+CC(C)O	2-Propanol	3776	67-63-0		None	None	None	None	None	None	None	None	None	15.8	6.1	16.4	solv	Abbott
+C#CCO	2-Propyn-1-ol	7859	107-19-7		None	None	None	None	None	None	None	None	None	16.1	8.7	18.8	solv	Abbott
+C1CC(=O)NC1	2-Pyrrolidone	12025	616-45-5		None	None	None	None	None	None	None	None	None	18.2	12	9	solv	Abbott
+CC1=CC(=C(C=C1)O)C(C)(C)C	2-t-Butyl-4-Methyl Phenol	17004	2409-55-4		None	None	None	None	None	None	None	None	None	17.3	3.7	10.5	solv	Abbott
+CCSC	2-Thiabutane	12230	624-89-5		None	None	None	None	None	None	None	None	None	16.2	5.9	5.3	solv	Abbott
+CC1=CC=CC=C1N	2-Toluidine	7242	95-53-4		None	None	None	None	None	None	None	None	None	19.4	5.8	9.4	solv	Abbott
+CC1=CC=CC=C1C=C	2-Vinyl Toluene	11904	611-15-4		None	None	None	None	None	None	None	None	None	18.6	1	3.8	solv	Abbott
+C=CC(Cl)(Cl)Cl	3,3,3-Trichloro Propene	16690	2233-00-3		None	None	None	None	None	None	None	None	None	17.7	15.5	3.4	solv	Abbott
+C1=CC(=C(C=C1C(F)(F)F)Cl)Cl	3,4-Dichloro Alpha,Alpha,A-Trifluorotoluene	9481	328-84-7		None	None	None	None	None	None	None	None	None	20	4.7	2.4	solv	Abbott
+C1=CC(=C(C=C1[N+](=O)[O-])Cl)Cl	3,4-Dichloronitrobenzene	7443	99-54-7		None	None	None	None	None	None	None	None	None	20.1	7.2	4.1	solv	Abbott
+C1=CC(=C(C=C1CC#N)Cl)Cl	3,4-Dichlorophenyl Acetonitrile	76690	3218-49-3		None	None	None	None	None	None	None	None	None	20.5	10.8	4.4	solv	Abbott
+CC1=CC(=C(C=C1)Cl)Cl	3,4-Dichlorotoluene	7256	95-75-0		None	None	None	None	None	None	None	None	None	19.8	9.8	2.5	solv	Abbott
+CC1=C(C=C(C=C1)O)C	3,4-Dimethyl Phenol	7249	95-65-8		None	None	None	None	None	None	None	None	None	19.2	6	13.4	solv	Abbott
+C1=CC(=C(C=C1O)[N+](=O)[O-])[N+](=O)[O-]	3,4-Dinitrophenol	11348	577-71-9		None	None	None	None	None	None	None	None	None	19.5	12.8	14.3	solv	Abbott
+C=CC1CO1	3,4-Epoxy-1-Butene	13586	930-22-3		None	None	None	None	None	None	None	None	None	16.6	7.7	7.4	solv	Abbott
+C1=C(C=C(C=C1F)F)C#N	3,5-Difluorobenzonitrile	587204	64248-63-1		None	None	None	None	None	None	None	None	None	18.8	11.2	3.2	solv	Abbott
+C1=C(C=C(C=C1[N+](=O)[O-])O)[N+](=O)[O-]	3,5-Dinitrophenol	11459	586-11-8		None	None	None	None	None	None	None	None	None	19.5	12.9	14.4	solv	Abbott
+C=CCN=[N+]=[N-]	3-Azidopropene	533456	821-13-6		None	None	None	None	None	None	None	None	None	16.8	7.7	13.4	solv	Abbott
+C#CCBr	3-Bromopropyne	7842	106-96-7		None	None	None	None	None	None	None	None	None	18.1	6.5	5.3	solv	Abbott
+C=CCC#N	3-Butenenitrile	8009	109-75-1		None	None	None	None	None	None	None	None	None	16.2	14.3	5.6	solv	Abbott
+0	3-Butoxybutanol	0	0		None	None	None	None	None	None	None	None	None	15.9	5.5	10.6	solv	Abbott
+C(C=CCl)O	3-Chloro Allyl Alcohol	91594	29560-84-7		None	None	None	None	None	None	None	None	None	17.2	10.3	16.5	solv	Abbott
+C(CO)CCl	3-Chloro-1-Propanol	12313	627-30-5		None	None	None	None	None	None	None	None	None	17.5	5.7	14.7	solv	Abbott
+CC(=C)CCl	3-Chloro-2-Methyl Propene	11241	563-47-3		None	None	None	None	None	None	None	None	None	16.2	5.6	2	solv	Abbott
+C1=CC(=CC(=C1)Cl)CCl	3-Chlorobenzylchloride	12103	620-20-2		None	None	None	None	None	None	None	None	None	19.9	9.3	2.6	solv	Abbott
+C(CCl)C=O	3-Chloropropionaldehyde	29596	19434-65-2		None	None	None	None	None	None	None	None	None	17	13.3	8.2	solv	Abbott
+C(CCl)C#N	3-Chloropropionitrile	10963	542-76-7		None	None	None	None	None	None	None	None	None	17.3	15.9	6.1	solv	Abbott
+C#CCCl	3-Chloropropyne	12221	624-65-7		None	None	None	None	None	None	None	None	None	16.7	7.4	2.3	solv	Abbott
+CCOCCC=O	3-Ethoxy Propionaldehyde	17755	2806-85-1		None	None	None	None	None	None	None	None	None	16	8.8	7.4	solv	Abbott
+CCCCC(CC)O	3-Heptanol	11520	589-82-2		None	None	None	None	None	None	None	None	None	15.9	5.4	11.7	solv	Abbott
+C1COCC1O	3-Hydroxy Tetrahydrofuran	9960	453-20-3		None	None	None	None	None	None	None	None	None	18.9	9.4	16.3	solv	Abbott
+CC(CCO)OC	3-Methoxy Butanol	17291	2517-43-3		None	None	None	None	None	None	None	None	None	15.3	5.4	13.6	solv	Abbott
+CC(CCOC(=O)C)OC	3-Methoxy Butyl Acetate	20498	4435-53-4		None	None	None	None	None	None	None	None	None	15.3	4.1	8.1	solv	Abbott
+CC(C)(CCO)OC	3-Methoxy-3-Methyl Butanol	62118	56539-66-3		None	None	None	None	None	None	None	None	None	16	6.3	12.9	solv	Abbott
+COCCC#N	3-Methoxypropionitrile	61032	110-67-8		None	None	None	None	None	None	None	None	None	16.6	14.4	7.8	solv	Abbott
+CC=CCO	3-Methyl Allyl Alcohol	637922	504-61-0		None	None	None	None	None	None	None	None	None	16	6	15.5	solv	Abbott
+CC1CCCC(C1)O	3-Methyl Cyclohexanol (Mix)	11566	591-23-1		None	None	None	None	None	None	None	None	None	17.2	6.4	12.5	solv	Abbott
+CC1CCCC(=O)C1	3-Methyl Cyclohexanone	11567	591-24-2		None	None	None	None	None	None	None	None	None	17.7	7.7	4.7	solv	Abbott
+CC1=NOC=C1	3-Methyl Isoxazole	96098	30842-90-1		None	None	None	None	None	None	None	None	None	19.4	14.8	11.8	solv	Abbott
+CC(=C=C)C	3-Methyl-1,2-Butadiene	11714	598-25-4		None	None	None	None	None	None	None	None	None	15.1	2.5	4.5	solv	Abbott
+CC(C)C=C	3-Methyl-1-Butene	11239	563-45-1		None	None	None	None	None	None	None	None	None	14	1.4	3.8	solv	Abbott
+CC(C)C(C)O	3-Methyl-2-Butanol	11732	598-75-4		None	None	None	None	None	None	None	None	None	15.6	5.2	13.4	solv	Abbott
+CC(=O)OCCC(C)(C)OC	3-Methyl-3-Methoxy Butyl Acetate	62308	103429-90-9		None	None	None	None	None	None	None	None	None	15.3	3.8	7.7	solv	Abbott
+CCCCC1=CC=CC(=C1)C	3-n-Butyl Toluene	15327	1595-04-6		None	None	None	None	None	None	None	None	None	17.4	0.1	1	solv	Abbott
+C1=CC(=CC(=C1)[N+](=O)[O-])N	3-Nitroaniline	7423	99-09-2		None	None	None	None	None	None	None	None	None	21.4	17.7	10.6	solv	Abbott
+C1=CC(=CC=C1CC2=CC=C(C=C2)N=C=O)N=C=O	4,4'-Methylenebis(Phenylisocyanate)	7570	101-68-8		None	None	None	None	None	None	None	None	None	19.5	4.1	1.7	solv	Abbott
+CC(=O)C1=CC=C(C=C1)C(F)(F)F	4-(Trifluoromethyl) Acetophenone	69731	709-63-7		None	None	None	None	None	None	None	None	None	18.8	6.1	3.5	solv	Abbott
+C1=CN=CC=C1N	4-Aminopyridine	1727	504-24-5		None	None	None	None	None	None	None	None	None	20.4	16.1	12.9	solv	Abbott
+C=C=CCBr	4-Bromo-1,2-Butadiene	10887951	18668-68-3		None	None	None	None	None	None	None	None	None	17	6.5	4.7	solv	Abbott
+C=CCCBr	4-Bromo-1-Butene	21241	5162-44-7		None	None	None	None	None	None	None	None	None	16.5	6	4.5	solv	Abbott
+C=C=CCCl	4-Chloro-1,2-Butadiene	33173	25790-55-0		None	None	None	None	None	None	None	None	None	16.6	8	6.7	solv	Abbott
+CC1=C(C=C(C=C1)Cl)[N+](=O)[O-]	4-Chloro-2-Nitrotoluene	6975	89-59-8		None	None	None	None	None	None	None	None	None	19.9	11.8	3.8	solv	Abbott
+COC1=CC=C(C=C1)Cl	4-Chloroanisole	12167	623-12-1		None	None	None	None	None	None	None	None	None	19.6	7.8	6.7	solv	Abbott
+C1=CC(=CC=C1C=O)Cl	4-Chlorobenzaldehyde	7726	104-88-1		None	None	None	None	None	None	None	None	None	19.9	7.2	5.6	solv	Abbott
+C1=CC(=CC=C1C#N)Cl	4-Chlorobenzonitrile	12163	623-03-0		None	None	None	None	None	None	None	None	None	19.5	8	4.1	solv	Abbott
+C1=CC(=CC=C1C(Cl)(Cl)Cl)Cl	4-Chlorobenzotrichloride	21277	5216-25-1		None	None	None	None	None	None	None	None	None	20.3	5.5	3.5	solv	Abbott
+C1=CC(=CC=C1CO)Cl	4-Chlorobenzyl Alcohol	13397	873-76-7		None	None	None	None	None	None	None	None	None	19.6	7.5	13	solv	Abbott
+C1=CC(=CC=C1S)Cl	4-Chlorothiophenol	7815	106-54-7		None	None	None	None	None	None	None	None	None	20.8	8.6	10.6	solv	Abbott
+CCOC1=CC=C(C=C1)C(=O)C	4-Ethoxy Acetophenone	72872	1676-63-7		None	None	None	None	None	None	None	None	None	18.8	10.3	6.4	solv	Abbott
+CCN1CCOCC1	4-Ethyl Morpholine	7525	100-74-3		None	None	None	None	None	None	None	None	None	17.7	5	6.6	solv	Abbott
+CCC1=CC=C(C=C1)O	4-Ethyl Phenol	31242	123-07-9		None	None	None	None	None	None	None	None	None	18.3	5.2	12.6	solv	Abbott
+CCC1COC(=O)O1	4-Ethyl-1,3-Dioxolane-2-One	107282	4437-85-8		None	None	None	None	None	None	None	None	None	17.5	9.8	3	solv	Abbott
+C1=CC(=C(C=C1F)[N+](=O)[O-])F	4-Fluoro-3-Nitrobenzofluoride	67767	364-74-9		None	None	None	None	None	None	None	None	None	19.4	7.2	3.7	solv	Abbott
+CCCC(=O)C1=CC=C(C=C1)F	4-Fluoropropiophenone	68498	582-83-2		None	None	None	None	None	None	None	None	None	19.6	7.1	3.5	solv	Abbott
+C1=CC(=CC=C1C=O)O	4-Hydroxy Benzaldehyde	126	123-08-0		None	None	None	None	None	None	None	None	None	19.4	15.2	14.5	solv	Abbott
+C1=CC(=CC=C1C=CC(=O)O)[O-]	4-Hydroxycinnamic Acid	54708745	7400-08-0		None	None	None	None	None	None	None	None	None	19.1	6.7	15.9	solv	Abbott
+0	4-Iodo-1,2-Butadiene	0	29871-57-6		None	None	None	None	None	None	None	None	None	17.4	6.3	6.2	solv	Abbott
+CC(=O)C1=CC=C(C=C1)OC	4-Methoxy Acetophenone	7476	100-06-1		None	None	None	None	None	None	None	None	None	18.9	11.2	7	solv	Abbott
+COC1=CC=C(C=C1)C#N	4-Methoxy Benzonitrile	70129	874-90-8		None	None	None	None	None	None	None	None	None	19.4	16.7	5.4	solv	Abbott
+CC1CCC(CC1)O	4-Methyl Cyclohexanol (Mix)	11524	589-91-3		None	None	None	None	None	None	None	None	None	17.2	6.3	12.5	solv	Abbott
+C1=CC(=CC=C1[N+](=O)[O-])O	4-Nitrophenol	980	100-02-7		None	None	None	None	None	None	None	None	None	20	14.5	14.2	solv	Abbott
+C=CCCC=O	4-Pentenal	16418	2100-17-6		None	None	None	None	None	None	None	None	None	15.5	8.1	6.8	solv	Abbott
+C=CC1=CC=NC=C1	4-Vinyl Pyridine	7502	100-43-6		None	None	None	None	None	None	None	None	None	18.1	7.2	6.8	solv	Abbott
+C1=CNC2=CC(=C(C=C21)O)O	5,6-Dihydroxyindole	114683	3131-52-0		None	None	None	None	None	None	None	None	None	19.5	8.8	17.9	solv	Abbott
+C1=C2C=C(NC2=CC(=C1O)O)C(=O)O	5,6-Dihydroxyindole-2-Carboxylic Acid	119405	4790-08-3		None	None	None	None	None	None	None	None	None	19.5	8.1	17.7	solv	Abbott
+0	5,6-Indolequinone	0	0		None	None	None	None	None	None	None	None	None	19.5	9.3	7.8	solv	Abbott
+0	5,6-Indolequinone-2-Carboxylic Acid	0	0		None	None	None	None	None	None	None	None	None	19.5	8.3	10.6	solv	Abbott
+C1=CC(=C(C=C1Br)C(F)(F)F)[N+](=O)[O-]	5-Bromo-2-Nitrobenzotrifluoride	136171	344-38-7		None	None	None	None	None	None	None	None	None	20	6	4.9	solv	Abbott
+CC1=C(C=CC=C1Cl)[N+](=O)[O-]	6-Chloro-2-Nitrotoluene	6740	83-42-1		None	None	None	None	None	None	None	None	None	20.3	9.6	3.8	solv	Abbott
+C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O	9,10-Anthraquinone	6780	84-65-1		None	None	None	None	None	None	None	None	None	20.3	7.6	4.8	solv	Abbott
+C1=CC=C2C(=C1)C3=CC=CC=C3C(=O)C2=O	9,10-Phenanthrenequinone	6763	84-11-7		None	None	None	None	None	None	None	None	None	20.3	17.1	4.8	solv	Abbott
+CC(=C)C1=CC=CC=C1	a-Methyl Styrene	7407	98-83-9		None	None	None	None	None	None	None	None	None	18.5	2.4	2.4	solv	Abbott
+CC=O	Acetaldehyde	177	75-07-0		None	None	None	None	None	None	None	None	None	14.7	12.5	7.9	solv	Abbott
+CC=NO	Acetaldoxime	5324280	107-29-9		None	None	None	None	None	None	None	None	None	16.3	4	20.2	solv	Abbott
+CC(=O)N	Acetamide	178	60-35-5		None	None	None	None	None	None	None	None	None	17.3	18.7	19.3	solv	Abbott
+CC(=O)NC1=CC=CC=C1	Acetanilide	904	103-84-4		None	None	None	None	None	None	None	None	None	20.6	14.4	13.5	solv	Abbott
+CC(=O)O	Acetic Acid	176	64-19-7		None	None	None	None	None	None	None	None	None	14.5	8	13.5	solv	Abbott
+CC(=O)OC(=O)C	Acetic Anhydride	7918	108-24-7		None	None	None	None	None	None	None	None	None	16	11.7	10.2	solv	Abbott
+CC(=O)C	Acetone	180	67-64-1		None	None	None	None	None	None	None	None	None	15.5	10.4	7	solv	Abbott
+CC(C)(C#N)O	Acetonecyanhydrin	6406	75-86-5		None	None	None	None	None	None	None	None	None	16.6	12.2	15.5	solv	Abbott
+CC(=NOC)C	Acetonemethyloxime	137909	3376-35-0		None	None	None	None	None	None	None	None	None	14.7	4.6	4.6	solv	Abbott
+CC#N	Acetonitrile	6342	75-05-8		None	None	None	None	None	None	None	None	None	15.3	18	6.1	solv	Abbott
+CC(=O)C1=CC=CC=C1	Acetophenone	7410	98-86-2		None	None	None	None	None	None	None	None	None	18.8	9	4	solv	Abbott
+CC(=NO)C	Acetoxime	67180	127-06-0		None	None	None	None	None	None	None	None	None	16.3	3.7	10.9	solv	Abbott
+CC(=O)OC1=CC=CC=C1C(=O)O	Acetyl Salicylic Acid	2244	50-78-2		None	None	None	None	None	None	None	None	None	19	6.9	9.7	solv	Abbott
+CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)OC(=O)C	Acetyl Triethyl Citrate	6504	77-89-4		None	None	None	None	None	None	None	None	None	16.6	3.5	8.6	solv	Abbott
+CC(=O)CC(=O)C	Acetylacetone	31261	123-54-6		None	None	None	None	None	None	None	None	None	16.1	10	6.2	solv	Abbott
+CC(=O)Br	Acetylbromide	10482	506-96-7		None	None	None	None	None	None	None	None	None	16.7	10.6	5.2	solv	Abbott
+CC(=O)Cl	Acetylchloride	6367	75-36-5		None	None	None	None	None	None	None	None	None	16.2	11.2	5.8	solv	Abbott
+0	Acetylene (Ethyne)	0	74-86-2		None	None	None	None	None	None	None	None	None	14.4	4.2	11.9	solv	Abbott
+CC(=O)F	Acetylfluoride	11204	557-99-3		None	None	None	None	None	None	None	None	None	14.7	14	5.7	solv	Abbott
+C1=CC=C2C(=C1)C=C3C=CC=CC3=N2	Acridine	9215	260-94-6		None	None	None	None	None	None	None	None	None	20	5.9	2	solv	Abbott
+C=CC=O	Acrolein	7847	107-02-8		None	None	None	None	None	None	None	None	None	15.5	10	8.6	solv	Abbott
+C=CC(=O)N	Acrylamide	6579	79-06-1		None	None	None	None	None	None	None	None	None	15.8	12.1	12.8	solv	Abbott
+C=CC(=O)O	Acrylic Acid	6581	79-10-7		None	None	None	None	None	None	None	None	None	16.6	6.4	10	solv	Abbott
+C=CC#N	Acrylonitrile	7855	107-13-1		None	None	None	None	None	None	None	None	None	16	12.8	6.8	solv	Abbott
+C=CC(=O)Cl	Acrylylchloride	13140	814-68-6		None	None	None	None	None	None	None	None	None	16.2	11.6	5.4	solv	Abbott
+C1=NC2=NC=NC(=C2N1)N	Adenine	190	73-24-5		None	None	None	None	None	None	None	None	None	20	16	14.9	solv	Abbott
+C(CCC(=O)O)CC(=O)O	Adipic Acid (1,6-Hexanedioic)	196	124-04-9		None	None	None	None	None	None	None	None	None	17.1	10	16.3	solv	Abbott
+C(C(C(C(CO)O)O)O)O	Adonitol	6912	488-81-3		None	None	None	None	None	None	None	None	None	18	12	36	solv	Abbott
+CNCC(C1=CC(=C(C=C1)O)O)O	Adrenalin	5816	51-43-4		None	None	None	None	None	None	None	None	None	20.5	8.7	19.9	solv	Abbott
+CC(=O)OCC=C	Allyl Acetate	11584	591-87-7		None	None	None	None	None	None	None	None	None	15.7	4.5	8	solv	Abbott
+C=CCCC(=O)O	Allyl Acetic Acid	61138	591-80-0		None	None	None	None	None	None	None	None	None	16.7	4.7	11.3	solv	Abbott
+CC(=O)CC(=O)OCC=C	Allyl Acetoacetate	70701	1118-84-9		None	None	None	None	None	None	None	None	None	15.9	6.9	8.6	solv	Abbott
+C=CCO	Allyl Alcohol	7858	107-18-6		None	None	None	None	None	None	None	None	None	16.2	10.8	16.8	solv	Abbott
+C=CCN	Allyl Amine	7853	107-11-9		None	None	None	None	None	None	None	None	None	15.5	5.7	10.6	solv	Abbott
+C=CCBr	Allyl Bromide (3-Bromoprene)	7841	106-95-6		None	None	None	None	None	None	None	None	None	16.5	7.3	4.9	solv	Abbott
+C=CCCl	Allyl Chloride	7850	107-05-1		None	None	None	None	None	None	None	None	None	17	6.2	2.3	solv	Abbott
+C=CCC#N	Allyl Cyanide	8009	109-75-1		None	None	None	None	None	None	None	None	None	16	14.3	5.6	solv	Abbott
+CCOCC=C	Allyl Ethylether	11191	557-31-3		None	None	None	None	None	None	None	None	None	15	4.8	5.1	solv	Abbott
+C=CCF	Allyl Fluoride	69958	818-92-8		None	None	None	None	None	None	None	None	None	14.9	6.4	1	solv	Abbott
+C=CCOC=O	Allyl Formate	61278	1838-59-1		None	None	None	None	None	None	None	None	None	15.7	5.4	8.8	solv	Abbott
+C=CCI	Allyl Iodide	11166	556-56-9		None	None	None	None	None	None	None	None	None	18.3	6.4	3.3	solv	Abbott
+C=CC[N+]#[C-]	Allyl Isocyanide	137740	2835-21-4		None	None	None	None	None	None	None	None	None	16.1	13	5.4	solv	Abbott
+CC(C)OCC=C	Allyl Isopropyl Ether	138673	6140-80-3		None	None	None	None	None	None	None	None	None	15	4.1	7.1	solv	Abbott
+C=CCN=C=S	Allyl Isothiocyanate	5971	57-06-7		None	None	None	None	None	None	None	None	None	17	11.3	8.5	solv	Abbott
+C=CCS	Allyl Mercaptan	13367	870-23-5		None	None	None	None	None	None	None	None	None	16.4	6.2	7.9	solv	Abbott
+CC(=C)C(=O)OCC=C	Allyl Methacrylate	7274	96-05-9		None	None	None	None	None	None	None	None	None	15.2	4.1	7.5	solv	Abbott
+COCC=C	Allyl Methyl Ether	69392	627-40-7		None	None	None	None	None	None	None	None	None	15	4.3	5.9	solv	Abbott
+C=CCCC#N	Allylacetonitrile (4-Pentenenitrile)	11604	592-51-8		None	None	None	None	None	None	None	None	None	16.3	11.2	5	solv	Abbott
+C1=CC=C(C=C1)C(F)(F)F	Alpha,Alpha,A-Trifluoro Toluene	7368	98-08-8		None	None	None	None	None	None	None	None	None	17.5	8.8	0	solv	Abbott
+N	Ammonia	222	7664-41-7		None	None	None	None	None	None	None	None	None	13.7	16.7	18.8	solv	Abbott
+CC(CC1=CC=CC=C1)N	Amphetamine	3007	300-62-9		None	None	None	None	None	None	None	None	None	17.5	4.3	6.3	solv	Abbott
+CCCCCOC(=O)C	Amyl Acetate	12348	628-63-7		None	None	None	None	None	None	None	None	None	15.8	3.3	6.1	solv	Abbott
+CC=CC1=CC=C(C=C1)OC	Anethole (Trans)	637563	104-46-1		None	None	None	None	None	None	None	None	None	18.5	4.3	6	solv	Abbott
+C1=CC=C(C=C1)N	Aniline	6115	62-53-3		None	None	None	None	None	None	None	None	None	20.1	5.8	11.2	solv	Abbott
+COC1=CC=CC=C1C=O	Anisaldehyde (2-Methoxy Benzaldehyde)	8658	135-02-4		None	None	None	None	None	None	None	None	None	19.4	11.9	8.3	solv	Abbott
+COC1=CC=CC=C1N	Anisidine (2-Methoxyaniline)	7000	90-04-0		None	None	None	None	None	None	None	None	None	19.5	5.4	11.4	solv	Abbott
+COC1=CC=CC=C1	Anisole	7519	100-66-3		None	None	None	None	None	None	None	None	None	17.8	4.4	6.9	solv	Abbott
+C(C(C1C(=C(C(=O)O1)O)O)O)O	Ascorbic Acid	54670067	50-81-7		None	None	None	None	None	None	None	None	None	18	11.7	25.5	solv	Abbott
+CCN=[N+]=[N-]	Azidoethane	79118	871-31-8		None	None	None	None	None	None	None	None	None	15.9	8.9	12.9	solv	Abbott
+C1=CC=C(C=C1)C(Cl)Cl	Benzal Chloride (Alpha,A-Dichlorobenzene)	7411	98-87-3		None	None	None	None	None	None	None	None	None	19	7.6	2.4	solv	Abbott
+C1=CC=C(C=C1)C=O	Benzaldehyde	240	100-52-7		None	None	None	None	None	None	None	None	None	19.4	7.4	5.3	solv	Abbott
+C1=CC=C(C=C1)C(=O)N	Benzamide	2331	55-21-0		None	None	None	None	None	None	None	None	None	21.2	14.7	11.2	solv	Abbott
+C1=CC=CC=C1	Benzene	241	71-43-2		None	None	None	None	None	None	None	None	None	18.4	0	2	solv	Abbott
+C1=CC=C2C(=C1)NC=N2	Benzimidazole	5798	51-17-2		None	None	None	None	None	None	None	None	None	20.6	14.9	11	solv	Abbott
+C1=CC2=CON=C2C=C1	Benzisoxazole	67498	271-58-9		None	None	None	None	None	None	None	None	None	20.6	11.5	8.8	solv	Abbott
+C1=CC=C(C=C1)C(=O)O	Benzoic Acid	243	65-85-0		None	None	None	None	None	None	None	None	None	20	6.9	10.8	solv	Abbott
+C1=CC=C(C=C1)C(C(=O)C2=CC=CC=C2)O	Benzoin	8400	119-53-9		None	None	None	None	None	None	None	None	None	19.9	9.7	10.7	solv	Abbott
+C1=CC=C(C=C1)C#N	Benzonitrile	7505	100-47-0		None	None	None	None	None	None	None	None	None	18.8	12	3.3	solv	Abbott
+C1=CC=C(C=C1)C(=O)C2=CC=CC=C2	Benzophenone	3102	119-61-9		None	None	None	None	None	None	None	None	None	19.5	7.2	5.1	solv	Abbott
+C1=CC=C2C(=C1)N=CS2	Benzothiazole	7222	95-16-9		None	None	None	None	None	None	None	None	None	20.6	5.2	8.4	solv	Abbott
+C1=CC=C(C=C1)C(Cl)(Cl)Cl	Benzotrichloride	7367	98-07-7		None	None	None	None	None	None	None	None	None	19.4	3.2	3.2	solv	Abbott
+C1=CC=C(C=C1)C(=O)Cl	Benzoyl Chloride	7412	98-88-4		None	None	None	None	None	None	None	None	None	19.3	6.8	4.5	solv	Abbott
+CC(=O)OCC1=CC=CC=C1	Benzyl Acetate	8785	140-11-4		None	None	None	None	None	None	None	None	None	18.3	5.7	6	solv	Abbott
+C1=CC=C(C=C1)CO	Benzyl Alcohol	244	100-51-6		None	None	None	None	None	None	None	None	None	18.4	6.3	13.7	solv	Abbott
+C1=CC=C(C=C1)CN	Benzyl Amine	7504	100-46-9		None	None	None	None	None	None	None	None	None	19	4.6	9.4	solv	Abbott
+C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2	Benzyl Benzoate	2345	120-51-4		None	None	None	None	None	None	None	None	None	20	5.1	5.2	solv	Abbott
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2	Benzyl Butyl Phthalate	2347	85-68-7		None	None	None	None	None	None	None	None	None	19	11.2	3.1	solv	Abbott
+C1=CC=C(C=C1)CCl	Benzyl Chloride	7503	100-44-7		None	None	None	None	None	None	None	None	None	18.8	7.1	2.6	solv	Abbott
+CCOCC1=CC=CC=C1	Benzyl Ethyl Ether	10873	539-30-0		None	None	None	None	None	None	None	None	None	18.4	3.8	3.8	solv	Abbott
+CC(=C)C(=O)OCC1=CC=CC=C1	Benzyl Methacrylate	17236	2495-37-6		None	None	None	None	None	None	None	None	None	16.8	4.1	4.1	solv	Abbott
+C1CCC(CC1)C2CCCCC2	Bicyclohexyl	7094	92-51-3		None	None	None	None	None	None	None	None	None	17	0	0	solv	Abbott
+C1=CC=C(C=C1)C2=CC=CC=C2	Biphenyl	7095	92-52-4		None	None	None	None	None	None	None	None	None	19.7	1	2	solv	Abbott
+C(OCCl)Cl	Bis(Chloromethyl)Ether	10967	542-88-1		None	None	None	None	None	None	None	None	None	17.2	8.2	7.6	solv	Abbott
+C1=CC=C(C=C1)OC2=CC(=CC=C2)OC3=CC=CC(=C3)OC4=CC=CC=C4	Bis-(M-Phenoxyphenyl) Ether	69781	748-30-1		None	None	None	None	None	None	None	None	None	19.6	3.1	5.1	solv	Abbott
+CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O	Bisphenol A	6623	80-05-7		None	None	None	None	None	None	None	None	None	19.2	5.9	13.8	solv	Abbott
+C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O	Bisphenol-S	6626	80-09-1		None	None	None	None	None	None	None	None	None	20	14.6	16.3	solv	Abbott
+C(=O)(N)NC(=O)N	Biuret	7913	108-19-0		None	None	None	None	None	None	None	None	None	20	14.6	18.8	solv	Abbott
+0	Borine Carbonyl	0	13205-44-2		None	None	None	None	None	None	None	None	None	17	10.2	6.9	solv	Abbott
+B(Cl)(Cl)Cl	Boron Trichloride	25135	10294-34-5		None	None	None	None	None	None	None	None	None	16.6	2.5	0	solv	Abbott
+BrBr	Bromine	24408	7726-95-6		None	None	None	None	None	None	None	None	None	18.2	14.9	0	solv	Abbott
+C#CBr	Bromoacetylene	136381	593-61-3		None	None	None	None	None	None	None	None	None	15.7	9.9	5.6	solv	Abbott
+C1=CC=C(C=C1)Br	Bromobenzene	7961	108-86-1		None	None	None	None	None	None	None	None	None	19.2	5.5	4.1	solv	Abbott
+C(Cl)Br	Bromochloromethane	6333	74-97-5		None	None	None	None	None	None	None	None	None	17.3	5.7	3.5	solv	Abbott
+C=CBr	Bromoethylene	11641	593-60-2		None	None	None	None	None	None	None	None	None	15.9	6.3	5.4	solv	Abbott
+C(Br)(Br)Br	Bromoform	5558	75-25-2		None	None	None	None	None	None	None	None	None	20	5	7	solv	Abbott
+COCBr	Bromomethyl Methyl Ether	83093	13057-17-5		None	None	None	None	None	None	None	None	None	16.9	8.5	7	solv	Abbott
+C=CC(=C)Br	Bromoprene	12302090	1822-86-2		None	None	None	None	None	None	None	None	None	16.9	6.4	4.7	solv	Abbott
+C(Cl)(Cl)(Cl)Br	Bromotrichloro Methane #1	6383	75-62-7		None	None	None	None	None	None	None	None	None	18.3	0.8	0	solv	Abbott
+C(Cl)(Cl)(Cl)Br	Bromotrichloro Methane #2-Gc	6383	75-62-7		None	None	None	None	None	None	None	None	None	18.3	8.1	6	solv	Abbott
+C(Cl)(Cl)(Cl)Br	Bromotrichloro Methane #3	6383	75-62-7		None	None	None	None	None	None	None	None	None	18.3	8.1	0	solv	Abbott
+C(F)(F)(F)Br	Bromotrifluoromethane (Freon 1381)	6384	75-63-8		None	None	None	None	None	None	None	None	None	14.3	2.4	0	solv	Abbott
+C=CC=CC#N	Butadiene-4-Cyano	5385799	1615-70-9		None	None	None	None	None	None	None	None	None	16.2	11.7	5.2	solv	Abbott
+C1C(O1)C2CO2	Butadienedioxide	11254	1464-53-5		None	None	None	None	None	None	None	None	None	18.3	14.4	6.2	solv	Abbott
+CC(=O)C(=O)C	Butadione	650	431-03-8		None	None	None	None	None	None	None	None	None	15.7	5.1	6.8	solv	Abbott
+CCCC	Butane	7843	106-97-8		None	None	None	None	None	None	None	None	None	14.1	0	0	solv	Abbott
+CCCCOCCOC(C)CO	Butoxy Ethoxy Propanol	62903	39332-55-3		None	None	None	None	None	None	None	None	None	15.5	6.5	10.2	solv	Abbott
+CCCCOC(=O)C1=CC=CC=C1	Butyl Benzoate	8698	136-60-7		None	None	None	None	None	None	None	None	None	18.3	5.6	5.5	solv	Abbott
+CCCCOC=O	Butyl Formate	11614	592-84-7		None	None	None	None	None	None	None	None	None	15.7	6.5	9.2	solv	Abbott
+0	Butyl Isopropenyl Ether	0	22022-33-9		None	None	None	None	None	None	None	None	None	14.8	5.3	5	solv	Abbott
+CCCCOC(=O)C(C)O	Butyl Lactate	8738	138-22-7		None	None	None	None	None	None	None	None	None	15.8	6.5	10.2	solv	Abbott
+CCCCCCCCC=CCCCCCCCC(=O)OCCCC	Butyl Oleate	5354342	142-77-8		None	None	None	None	None	None	None	None	None	16.3	3.7	4.2	solv	Abbott
+CCCCCCCCCCCCCCCCCC(=O)OCCCC	Butyl Stearate	31278	123-95-5		None	None	None	None	None	None	None	None	None	14.5	3.7	3.5	solv	Abbott
+0	Butyl-6-Methyl-3-Cyclohexene Carboxylate	0	0		None	None	None	None	None	None	None	None	None	16.1	2.5	5.7	solv	Abbott
+CCC1CO1	Butyleneoxide	7834	106-88-7		None	None	None	None	None	None	None	None	None	16.3	6.2	5.9	solv	Abbott
+CCCC=O	Butyraldehyde	261	123-72-8		None	None	None	None	None	None	None	None	None	15.6	10.1	6.2	solv	Abbott
+CCCC(=O)O	Butyric Acid	264	107-92-6		None	None	None	None	None	None	None	None	None	15.7	4.8	12	solv	Abbott
+CCCC(=O)OC(=O)CCC	Butyric Anhydride	7798	106-31-0		None	None	None	None	None	None	None	None	None	15.8	10.3	4.5	solv	Abbott
+CCCC#N	Butyronitrile	8008	109-74-0		None	None	None	None	None	None	None	None	None	15.3	12.4	5.1	solv	Abbott
+CCCC(=O)Cl	Butyrylchloride	8855	141-75-3		None	None	None	None	None	None	None	None	None	16.8	9.4	4.8	solv	Abbott
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C	Caffeine	2519	58-08-2		None	None	None	None	None	None	None	None	None	19.5	10.1	13	solv	Abbott
+CC1(C2CCC(C2)C1=C)C	Camphene	6616	79-92-5		None	None	None	None	None	None	None	None	None	16.4	1.8	3.1	solv	Abbott
+0	Caprolactone (Epsilon)	0	502-44-3		None	None	None	None	None	None	None	None	None	18	15	7.4	solv	Abbott
+C1=CC=C2C(=C1)C3=CC=CC=C3N2	Carbazole (Diphenylenimine)	6854	86-74-8		None	None	None	None	None	None	None	None	None	21.7	6.4	6.2	solv	Abbott
+C(=O)=O	Carbon Dioxide (Fit = 1.0)	280	124-38-9		None	None	None	None	None	None	None	None	None	15.7	6.3	5.7	solv	Abbott
+C(=S)=S	Carbon Disulfide (0 Dipole Moment)	6348	75-15-0		None	None	None	None	None	None	None	None	None	20.2	0	0.6	solv	Abbott
+C(=S)=S	Carbon Disulfide (P By Group Cont.)	6348	75-15-0		None	None	None	None	None	None	None	None	None	19.9	5.8	0.6	solv	Abbott
+C(Cl)(Cl)(Cl)Cl	Carbon Tetrachloride (0 Dipole Moment)	5943	56-23-5		None	None	None	None	None	None	None	None	None	17.8	0	0.6	solv	Abbott
+C(Cl)(Cl)(Cl)Cl	Carbon Tetrachloride (P By Group Cont.)	5943	56-23-5		None	None	None	None	None	None	None	None	None	16.1	8.3	0	solv	Abbott
+C=C(C#N)C#N	Carbonyl Cyanide	136705	922-64-5		None	None	None	None	None	None	None	None	None	15	6.3	8	solv	Abbott
+C(=O)=S	Carbonyl Sulfide	10039	463-58-1		None	None	None	None	None	None	None	None	None	17.4	3.7	0	solv	Abbott
+CCCCCCC(CC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCC(CCCCCC)O)OC(=O)CCCCCCCC=CCC(CCCCCC)O)O	Castor Oil	14030006	8001-79-4		None	None	None	None	None	None	None	None	None	15.9	4.6	12	solv	Abbott
+CCCCCCCCCCCCCCCCO	Cetyl Alcohol (1-Hexadecanol)	2682	36653-82-4		None	None	None	None	None	None	None	None	None	16.4	3.7	8.1	solv	Abbott
+C(=O)C(Cl)(Cl)Cl	Chloral	6407	75-87-6		None	None	None	None	None	None	None	None	None	17.2	7.4	7.6	solv	Abbott
+ClCl	Chlorine	24526	7782-50-5		None	None	None	None	None	None	None	None	None	17.3	10	0	solv	Abbott
+C(C=O)Cl	Chloro Acetaldehyde	33	107-20-0		None	None	None	None	None	None	None	None	None	16.2	14	9	solv	Abbott
+C(C(=O)O)Cl	Chloro Acetic Acid	300	79-11-8		None	None	None	None	None	None	None	None	None	17.7	10.4	12.3	solv	Abbott
+C1=C(C(=O)OC1=O)Cl	Chloro Maleic Anhydride	66772	96-02-6		None	None	None	None	None	None	None	None	None	20.4	17.3	11.5	solv	Abbott
+CC(=O)CCl	Chloroacetone	6571	78-95-5		None	None	None	None	None	None	None	None	None	16.8	9.6	5.5	solv	Abbott
+C(C#N)Cl	Chloroacetonitrile	7856	107-14-2		None	None	None	None	None	None	None	None	None	17.4	13.6	2	solv	Abbott
+C(C(=O)Cl)Cl	Chloroacetylchloride	6577	79-04-9		None	None	None	None	None	None	None	None	None	17.5	9.2	5.5	solv	Abbott
+C#CCl	Chloroacetylene	68975	593-63-5		None	None	None	None	None	None	None	None	None	16.2	2.1	2.5	solv	Abbott
+C1=CC=C(C=C1)Cl	Chlorobenzene	7964	108-90-7		None	None	None	None	None	None	None	None	None	19	4.3	2	solv	Abbott
+C1CC1Cl	Chlorocyclopropane	81879	7393-45-5		None	None	None	None	None	None	None	None	None	17.6	7.2	2.2	solv	Abbott
+C(F)(F)Cl	Chlorodifluoromethane (Freon 22)	6372	75-45-6		None	None	None	None	None	None	None	None	None	12.3	6.3	5.7	solv	Abbott
+C(Cl)(Cl)Cl	Chloroform	6212	67-66-3		None	None	None	None	None	None	None	None	None	17.8	3.1	5.7	solv	Abbott
+C(SCCl)Cl	Chloromethylsulfide	565560	3592-44-7		None	None	None	None	None	None	None	None	None	16.6	6.4	2	solv	Abbott
+C([N+](=O)[O-])Cl	Chloronitromethane	74529	1794-84-9		None	None	None	None	None	None	None	None	None	17.4	13.5	5.5	solv	Abbott
+C([N+](=O)[O-])(Cl)(Cl)Cl	Chloropicrin (Trichloronitromethane)	6423	76-06-2		None	None	None	None	None	None	None	None	None	17.6	6.8	7	solv	Abbott
+C=CC(=C)Cl	Chloroprene	31369	126-99-8		None	None	None	None	None	None	None	None	None	16.1	5.4	2.1	solv	Abbott
+C(=C(F)Cl)(F)F	Chlorotrifluoroethylene (Ctfe)	6594	79-38-9		None	None	None	None	None	None	None	None	None	15.3	6.3	0	solv	Abbott
+C1=CC=C(C=C1)C=CCO	Cinnamyl Alcohol	5315892	104-54-1		None	None	None	None	None	None	None	None	None	19.1	6	13	solv	Abbott
+C1=CC=C(C=C1)C=CC(=O)O	Cis-Cinnamic Acid	5372954	102-94-3		None	None	None	None	None	None	None	None	None	19.1	3.9	10.6	solv	Abbott
+C1CCC2CCCCC2C1	Cis-Decahydronaphthalene	7044	493-01-6		None	None	None	None	None	None	None	None	None	17.6	0	0	solv	Abbott
+CC1=CC(=O)OC1=O	Citraconic Anhydride	12012	616-02-4		None	None	None	None	None	None	None	None	None	19.2	17	11.2	solv	Abbott
+COC1=C(C=CC(=C1)C=CCO)O	Coniferyl Alcohol	1549095	458-35-5		None	None	None	None	None	None	None	None	None	19	7	16.3	solv	Abbott
+C1=CC=C2C(=C1)C=CC(=O)O2	Coumarin	323	91-64-5		None	None	None	None	None	None	None	None	None	20	12.5	6.7	solv	Abbott
+CC=CC=O	Crotonaldehyde	447466	123-73-9		None	None	None	None	None	None	None	None	None	16.2	14.9	7.4	solv	Abbott
+CC=CC(=O)O	Crotonic Acid	637090	107-93-7		None	None	None	None	None	None	None	None	None	16.8	8.7	12	solv	Abbott
+C1C=CC(=O)O1	Crotonlactone	10341	497-23-4		None	None	None	None	None	None	None	None	None	19	19.8	9.6	solv	Abbott
+C(#N)N	Cyanamid (Carbamonitrile)	9864	420-04-2		None	None	None	None	None	None	None	None	None	15.5	27.6	16.8	solv	Abbott
+C(#N)C#N	Cyanogen	9999	460-19-5		None	None	None	None	None	None	None	None	None	15.1	11.8	0	solv	Abbott
+C(#N)Br	Cyanogen Bromide	10476	506-68-3		None	None	None	None	None	None	None	None	None	18.3	15.2	0	solv	Abbott
+C(#N)Cl	Cyanogen Chloride	10477	506-77-4		None	None	None	None	None	None	None	None	None	15.6	14.5	0	solv	Abbott
+C1CC(=O)C1	Cyclobutanone	14496	1191-95-3		None	None	None	None	None	None	None	None	None	18.3	11.4	5.2	solv	Abbott
+C1CCCCC(=O)CCCC1	Cyclodecanone	73918	1502-06-3		None	None	None	None	None	None	None	None	None	16.8	8	4.1	solv	Abbott
+C1CCCCCCCCCCC1	Cyclododecane	9268	294-62-2		None	None	None	None	None	None	None	None	None	16.4	0	0	solv	Abbott
+C1CCCCCC1	Cycloheptane	9265	291-64-5		None	None	None	None	None	None	None	None	None	17.1	1.4	1.9	solv	Abbott
+C1CCCC(=O)CC1	Cycloheptanone	10400	502-42-1		None	None	None	None	None	None	None	None	None	17.2	10.6	4.8	solv	Abbott
+C1CCCCC1	Cyclohexane	8078	110-82-7		None	None	None	None	None	None	None	None	None	16.8	0	0.2	solv	Abbott
+0	Cyclohexane-1,2-Dicarboxylic Acid Di-Isononyl Ether	0	0		None	None	None	None	None	None	None	None	None	16.4	2.2	5	solv	Abbott
+C1CCC(CC1)O	Cyclohexanol	7966	108-93-0		None	None	None	None	None	None	None	None	None	17.4	4.1	13.5	solv	Abbott
+C1CCC(=O)CC1	Cyclohexanone	7967	108-94-1		None	None	None	None	None	None	None	None	None	17.8	8.4	5.1	solv	Abbott
+C1CCC=CC1	Cyclohexene	8079	110-83-8		None	None	None	None	None	None	None	None	None	17.2	1	2	solv	Abbott
+CC1CC(C(=O)C(C1)C(CC2CC(=O)NC(=O)C2)O)C	Cycloheximide	6197	66-81-9		None	None	None	None	None	None	None	None	None	18.3	11	13.8	solv	Abbott
+C1CCC(CC1)C2=CC=CC=C2	Cyclohexyl Benzene	13229	827-52-1		None	None	None	None	None	None	None	None	None	18.7	0	1	solv	Abbott
+C1CCC(CC1)N	Cyclohexylamine	7965	108-91-8		None	None	None	None	None	None	None	None	None	17.2	3.1	6.5	solv	Abbott
+C1CCC(CC1)Cl	Cyclohexylchloride	10952	542-18-7		None	None	None	None	None	None	None	None	None	17.3	5.5	2	solv	Abbott
+C1CCCC(=O)CCC1	Cyclooctanone	10403	502-49-8		None	None	None	None	None	None	None	None	None	17	9.6	4.5	solv	Abbott
+C1C=CC=C1	Cyclopentadiene	7612	542-92-7		None	None	None	None	None	None	None	None	None	17	1.9	2	solv	Abbott
+C1CCCC1	Cyclopentane	9253	287-92-3		None	None	None	None	None	None	None	None	None	16.4	0	1.8	solv	Abbott
+C1CCC(=O)C1	Cyclopentanone	8452	120-92-3		None	None	None	None	None	None	None	None	None	17.9	11.9	5.2	solv	Abbott
+C1CC=CC1	Cyclopentene	8882	142-29-0		None	None	None	None	None	None	None	None	None	16.7	3.8	1.7	solv	Abbott
+COC1CCCC1	Cyclopentyl Methyl Ether (Cpme)	138539	5614-37-9		None	None	None	None	None	None	None	None	None	16.7	4.3	4.3	solv	Abbott
+C1CC1	Cyclopropane	6351	75-19-4		None	None	None	None	None	None	None	None	None	17.3	0	0	solv	Abbott
+C1C=C1	Cyclopropene	123173	2781-85-3		None	None	None	None	None	None	None	None	None	17.2	2.4	2	solv	Abbott
+CC(=O)C1CC1	Cyclopropylmethylketone	13004	765-43-5		None	None	None	None	None	None	None	None	None	17	11.1	4.6	solv	Abbott
+C1CC1C#N	Cyclopropylnitrile	79637	5500-21-0		None	None	None	None	None	None	None	None	None	18.6	16.2	5.7	solv	Abbott
+CC1(C2CCC1(C(=O)C2)C)C	d-Camphor	5284500	464-49-3		None	None	None	None	None	None	None	None	None	17.8	10.3	5.2	solv	Abbott
+CC1=CCC(CC1)C(=C)C	d-Limonene	440917	5989-27-5		None	None	None	None	None	None	None	None	None	17.2	1.8	4.3	solv	Abbott
+C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl	DDT	3036	50-29-3		None	None	None	None	None	None	None	None	None	20	5.5	3.1	solv	Abbott
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C	Decamethylcyclopentasiloxane	10913	541-02-6		None	None	None	None	None	None	None	None	None	12.9	1.3	1	solv	Abbott
+CCCCCCCCCC	Decane	15600	124-18-5		None	None	None	None	None	None	None	None	None	15.7	0	0	solv	Abbott
+CCCCOC(=O)C=CC(=O)OCCCC	Di Butyl Fumarate	5271570	105-75-9		None	None	None	None	None	None	None	None	None	16.7	3	6.7	solv	Abbott
+CC1=CC=C(C=C1)S(=O)C2=CC=C(C=C2)C	Di p-Tolyl Sulfoxide	15680	1774-35-2		None	None	None	None	None	None	None	None	None	20.3	11.4	3.1	solv	Abbott
+CC(CCl)OC(C)CCl	Di-(2-Chloro-Isopropyl) Ether	7944	108-60-1		None	None	None	None	None	None	None	None	None	19	8.2	5.1	solv	Abbott
+C(CCl)OCOCCCl	Di-(2-Chloroethoxy) Methane	8147	111-91-1		None	None	None	None	None	None	None	None	None	17.1	10.2	7.1	solv	Abbott
+C(CCl)OCCCl	Di-(2-Chloroethyl) Ether	8115	111-44-4		None	None	None	None	None	None	None	None	None	18.8	9	5.7	solv	Abbott
+CCCCC(CC)COC(=O)CCCCCCCCC(=O)OCC(CC)CCCC	Di-(2-Ethyl Hexyl) Sebacate	31218	122-62-3		None	None	None	None	None	None	None	None	None	16.2	5	9	solv	Abbott
+CCCCC(CC)COC(=O)CCCCCCCC(=O)OCC(CC)CCCC	Di-(2-Ethylhexyl)Azelate	7642	103-24-2		None	None	None	None	None	None	None	None	None	16.2	4.7	8.4	solv	Abbott
+COCCOCCOC	Di-(2-Methoxyethyl) Ether	8150	111-96-6		None	None	None	None	None	None	None	None	None	15.7	6.1	6.5	solv	Abbott
+CCCCC(CC)CNCC(CC)CCCC	Di-2-Ethylhexyl Amine	7791	106-20-7		None	None	None	None	None	None	None	None	None	15.6	0.8	3.2	solv	Abbott
+CCCCC(CC)COCC(CC)CCCC	Di-2-Ethylhexyl Ether	25010	10143-60-9		None	None	None	None	None	None	None	None	None	15.9	2.6	2.5	solv	Abbott
+0	Di-Isobutyl Carbinol	0	108-82-7		None	None	None	None	None	None	None	None	None	14.9	3.1	10.8	solv	Abbott
+CC(C)CC(=O)CC(C)C	Di-Isobutyl Ketone	7958	108-83-8		None	None	None	None	None	None	None	None	None	16	3.7	4.1	solv	Abbott
+CC(C)CS(=O)CC(C)C	Di-Isobutyl Sulfoxide	18328	3085-40-3		None	None	None	None	None	None	None	None	None	16.3	10.5	6.1	solv	Abbott
+CC(C)CCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCC(C)C	Di-Isodecyl Phthalate	33599	26761-40-0		None	None	None	None	None	None	None	None	None	16.6	6.2	2.6	solv	Abbott
+CC(C)CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCC(C)C	Di-Isoheptyl Phthalate	591200	71888-89-6		None	None	None	None	None	None	None	None	None	16.8	7.2	3.4	solv	Abbott
+CC(C)CCCCCCOC(=O)CCCCC(=O)OCCCCCCC(C)C	Di-Isononyl Adipate	6427097	33703-08-1		None	None	None	None	None	None	None	None	None	16.7	1.8	4.9	solv	Abbott
+CC(C)CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCC(C)C	Di-Isononyl Phthalate	590836	28553-12-0		None	None	None	None	None	None	None	None	None	16.6	6.6	2.9	solv	Abbott
+CC(C)OP(=O)(C)OC(C)C	Di-Isopropyl Methyl Phosphonate	3073	1445-75-6		None	None	None	None	None	None	None	None	None	16.4	10	5.7	solv	Abbott
+CC(C)OP(=O)(OC(C)C)F	Di-Isopropyl Phosphonofluoridate	5936	55-91-4		None	None	None	None	None	None	None	None	None	15.7	10.2	5.9	solv	Abbott
+CC(C)S(=O)C(C)C	Di-Isopropyl Sulfoxide	16645	2211-89-4		None	None	None	None	None	None	None	None	None	17	11.5	7.4	solv	Abbott
+CCCCOCCCC	Di-n-Butyl Ether	8909	142-96-1		None	None	None	None	None	None	None	None	None	15.2	3.4	3.2	solv	Abbott
+CCCCS(=O)CCCC	Di-n-Butyl Sulfoxide	16568	2168-93-6		None	None	None	None	None	None	None	None	None	16.4	10.5	6.1	solv	Abbott
+CCCCCOCCCCC	Di-n-Pentyl Ether	12743	693-65-2		None	None	None	None	None	None	None	None	None	15.6	3.1	3	solv	Abbott
+CCCOCCC	Di-n-Propyl Ether	8114	111-43-3		None	None	None	None	None	None	None	None	None	15.1	3.2	3.2	solv	Abbott
+CCCS(=O)CCC	Di-n-Propyl Sulfoxide	20252	4253-91-2		None	None	None	None	None	None	None	None	None	17	13	7.4	solv	Abbott
+CCC(C)OC(C)CC	Di-sec-Butyl Ether	23294	6863-58-7		None	None	None	None	None	None	None	None	None	15.2	3.5	3.3	solv	Abbott
+CC(=O)CC(C)(C)O	Diacetone Alcohol	31256	123-42-2		None	None	None	None	None	None	None	None	None	15.8	8.2	10.8	solv	Abbott
+C=CCNCC=C	Diallyl Amine	31279	124-02-7		None	None	None	None	None	None	None	None	None	15.6	4.5	6.7	solv	Abbott
+C=CCOCC=C	Diallyl Ether	11194	557-40-4		None	None	None	None	None	None	None	None	None	15.3	4.4	5.3	solv	Abbott
+C=[N+]=[N-]	Diazomethane	9550	334-88-3		None	None	None	None	None	None	None	None	None	14.7	6.1	11.3	solv	Abbott
+0	Dibasic Esters (DBE)	0	95481-62- 2		None	None	None	None	None	None	None	None	None	16.2	6.5	8.4	solv	Abbott
+C1=CC=C(C=C1)COCC2=CC=CC=C2	Dibenzyl Ether	7657	103-50-4		None	None	None	None	None	None	None	None	None	19.6	3.4	5.2	solv	Abbott
+C1=CC=C(C=C1)COC(=O)CCCCCCCCC(=O)OCC2=CC=CC=C2	Dibenzyl Sebacate	8790	140-24-9		None	None	None	None	None	None	None	None	None	17.8	2.2	5.5	solv	Abbott
+C(Br)Br	Dibromomethane (Methylene Dibromide)	3024	74-95-3		None	None	None	None	None	None	None	None	None	19	6.4	7	solv	Abbott
+CCCCNCCCC	Dibutyl Amine	8148	111-92-2		None	None	None	None	None	None	None	None	None	15	3	4.3	solv	Abbott
+CCCCC(=O)CCCC	Dibutyl Ketone	10405	502-56-7		None	None	None	None	None	None	None	None	None	16	7.7	4.4	solv	Abbott
+CCCCOC(=O)C=CC(=O)OCCCC	Dibutyl Maleate	5271569	105-76-0		None	None	None	None	None	None	None	None	None	16.5	6.1	7.2	solv	Abbott
+0	Dibutyl Phthalate	0	84-74-2		None	None	None	None	None	None	None	None	None	17.8	8.6	4.1	solv	Abbott
+CCCCOC(=O)CCCCCCCCC(=O)OCCCC	Dibutyl Sebacate	7986	109-43-3		None	None	None	None	None	None	None	None	None	16.7	4.5	4.1	solv	Abbott
+C(=O)C(Cl)Cl	Dichloroacetaldehyde	6576	79-02-7		None	None	None	None	None	None	None	None	None	16.7	9.1	7.5	solv	Abbott
+C(C(=O)O)(Cl)Cl	Dichloroacetic Acid	6597	79-43-6		None	None	None	None	None	None	None	None	None	18.2	8.1	12.2	solv	Abbott
+C(#N)C(Cl)Cl	Dichloroacetonitrile	18177	3018-12-0		None	None	None	None	None	None	None	None	None	17.4	9.4	6.4	solv	Abbott
+C(F)(F)(Cl)Cl	Dichlorodifluoromethane (Freon 12)	6391	75-71-8		None	None	None	None	None	None	None	None	None	14.9	2	0	solv	Abbott
+C(=CCl)Cl	Dichloroethylene (Trans)	638186	156-60-5		None	None	None	None	None	None	None	None	None	16.7	7.8	3.3	solv	Abbott
+COC(Cl)Cl	Dichloromethyl Methyl Ether	21004	4885-02-3		None	None	None	None	None	None	None	None	None	17.1	12.9	6.5	solv	Abbott
+C(F)(Cl)Cl	Dichloromonofluoromethane (Freon21)	6370	75-43-4		None	None	None	None	None	None	None	None	None	15.8	3.1	5.7	solv	Abbott
+C(CO)NCCO	Diethanolamine	8113	111-42-2		None	None	None	None	None	None	None	None	None	17.2	7	19	solv	Abbott
+CCOC(=O)CCCCC(=O)OCC	Diethyl Adipate	8844	141-28-6		None	None	None	None	None	None	None	None	None	16.4	6.2	7.5	solv	Abbott
+CCNCC	Diethyl Amine	8021	109-89-7		None	None	None	None	None	None	None	None	None	14.9	2.3	6.1	solv	Abbott
+CCOC(=O)OCC	Diethyl Carbonate	7766	105-58-8		None	None	None	None	None	None	None	None	None	15.1	6.3	3.5	solv	Abbott
+CCOCC	Diethyl Ether	3283	60-29-7		None	None	None	None	None	None	None	None	None	14.5	2.9	4.6	solv	Abbott
+CCOC(=O)CCCC(=O)OCC	Diethyl Glutarate	13163	818-38-2		None	None	None	None	None	None	None	None	None	16.3	7	7.8	solv	Abbott
+CCC(=O)CC	Diethyl Ketone	7288	96-22-0		None	None	None	None	None	None	None	None	None	15.8	7.6	4.7	solv	Abbott
+CCOC(=O)CC(=O)OCC	Diethyl Malonate	7761	105-53-3		None	None	None	None	None	None	None	None	None	16.1	7.7	8.3	solv	Abbott
+CCOC(=O)C(=O)OCC	Diethyl Oxalate	7268	95-92-1		None	None	None	None	None	None	None	None	None	16.2	8	8.8	solv	Abbott
+CCOC(=O)C1=CC=CC=C1C(=O)OCC	Diethyl Phthalate	6781	84-66-2		None	None	None	None	None	None	None	None	None	17.6	9.6	4.5	solv	Abbott
+CCOC(=O)CCC(=O)OCC	Diethyl Succinate	31249	123-25-1		None	None	None	None	None	None	None	None	None	16.2	6.8	8.7	solv	Abbott
+CCOS(=O)(=O)OCC	Diethyl Sulfate	6163	64-67-5		None	None	None	None	None	None	None	None	None	15.7	12.7	5.1	solv	Abbott
+CCSCC	Diethyl Sulfide	9609	352-93-2		None	None	None	None	None	None	None	None	None	16.8	3.1	2	solv	Abbott
+CCSSCC	Diethyldisulfide	8077	110-81-6		None	None	None	None	None	None	None	None	None	17	6.7	5.7	solv	Abbott
+C(COCCO)O	Diethylene Glycol	8117	111-46-6		None	None	None	None	None	None	None	None	None	16.6	12	19	solv	Abbott
+CCCCOCCOCCOC(=O)C	Diethylene Glycol Butyl Ether Acetate	31288	124-17-4		None	None	None	None	None	None	None	None	None	16	4.1	8.2	solv	Abbott
+CCCCOCCOCCOCCCC	Diethylene Glycol Dibutyl Ether	8210	112-73-2		None	None	None	None	None	None	None	None	None	15.8	4.7	4.4	solv	Abbott
+CCOCCOCCOCC	Diethylene Glycol Diethyl Ether	8179	112-36-7		None	None	None	None	None	None	None	None	None	15.8	5.9	5.6	solv	Abbott
+C=COCCOCCOC=C	Diethylene Glycol Divinyl Ether	12998	764-99-8		None	None	None	None	None	None	None	None	None	16	7.3	7.9	solv	Abbott
+CCCCCCOCCOCCO	Diethylene Glycol Hexyl Ether	8199	112-59-4		None	None	None	None	None	None	None	None	None	16	6	10	solv	Abbott
+CC(C)(C)OCCOCCOC	Diethylene Glycol Methyl t-Butyl Ether	104324	52788-79-1		None	None	None	None	None	None	None	None	None	16	7.2	7.2	solv	Abbott
+CCCCOCCOCCO	Diethylene Glycol Monobutyl Ether	8177	112-34-5		None	None	None	None	None	None	None	None	None	16	7	10.6	solv	Abbott
+CCOCCOCCO	Diethylene Glycol Monoethyl Ether	8146	111-90-0		None	None	None	None	None	None	None	None	None	16.1	9.2	12.2	solv	Abbott
+CCOCCOCCOC(=O)C	Diethylene Glycol Monoethyl Ether Acetate	8165	112-15-2		None	None	None	None	None	None	None	None	None	16.2	5.1	9.2	solv	Abbott
+COCCOCCO	Diethylene Glycol Monomethyl Ether	8134	111-77-3		None	None	None	None	None	None	None	None	None	16.2	7.8	12.6	solv	Abbott
+CCCOCCOCCO	Diethylene Glycol Monopropyl Ether	81313	6881-94-3		None	None	None	None	None	None	None	None	None	16	7.2	11.3	solv	Abbott
+C(CNCCN)N	Diethylenetriamine	8111	111-40-0		None	None	None	None	None	None	None	None	None	16.7	7.1	14.3	solv	Abbott
+CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC	Diethylhexyl Phthalate (Dioctyl Phthalate)	8343	117-81-7		None	None	None	None	None	None	None	None	None	16.6	7	3.1	solv	Abbott
+CCCCCCOCCCCCC	Dihexyl Ether	8198	112-58-3		None	None	None	None	None	None	None	None	None	16	3	2.8	solv	Abbott
+CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCC	Dihexyl Phthalate	6786	84-75-3		None	None	None	None	None	None	None	None	None	17	7.6	3.6	solv	Abbott
+SS	Dihydrogen Disulfide	108196	13465-07-1		None	None	None	None	None	None	None	None	None	17.3	6.3	10.7	solv	Abbott
+C1CC=COC1	Dihydropyran	8080	110-87-2		None	None	None	None	None	None	None	None	None	17.5	5.5	5.7	solv	Abbott
+CC(C)COC(=O)CCCCC(=O)OCC(C)C	Diisobutyl Adipate	8831	141-04-8		None	None	None	None	None	None	None	None	None	16.7	2.5	6.2	solv	Abbott
+CC(C)NC(C)C	Diisopropylamine	7912	108-18-9		None	None	None	None	None	None	None	None	None	14.8	1.7	3.5	solv	Abbott
+C=C1CC(=O)O1	Diketene	12661	674-82-8		None	None	None	None	None	None	None	None	None	16.2	14.5	7.8	solv	Abbott
+COCOC	Dimethoxymethane	8020	109-87-5		None	None	None	None	None	None	None	None	None	15	1.8	8.6	solv	Abbott
+COC1COC2C1OCC2OC	Dimethyl Isosorbide	62990	5306-85-4		None	None	None	None	None	None	None	None	None	17.6	7.1	7.5	solv	Abbott
+CC(CCC(=O)OC)C(=O)OC	Dimethyl 2-Methylglutarate	118086	14035-94-0		None	None	None	None	None	None	None	None	None	16.6	8.7	5	solv	Abbott
+CC#CC	Dimethyl Acetylene	10419	503-17-3		None	None	None	None	None	None	None	None	None	15.1	3.4	7.6	solv	Abbott
+COC(=O)CCCCC(=O)OC	Dimethyl Adipate	12329	627-93-0		None	None	None	None	None	None	None	None	None	16.3	6.8	8.5	solv	Abbott
+CNC	Dimethyl Amine	674	124-40-3		None	None	None	None	None	None	None	None	None	15.3	4.8	11.2	solv	Abbott
+COC(=O)OC	Dimethyl Carbonate	12021	616-38-6		None	None	None	None	None	None	None	None	None	15.5	8.6	9.7	solv	Abbott
+COCCOC	Dimethyl Cellosolve	8071	110-71-4		None	None	None	None	None	None	None	None	None	15.4	6	6	solv	Abbott
+CSSC	Dimethyl Disulfide	12232	624-92-0		None	None	None	None	None	None	None	None	None	17.6	7.8	6.5	solv	Abbott
+CN(C)CCO	Dimethyl Ethanolamine	7902	108-01-0		None	None	None	None	None	None	None	None	None	16.1	9.2	14	solv	Abbott
+COC	Dimethyl Ether	8254	115-10-6		None	None	None	None	None	None	None	None	None	15.2	6.1	5.7	solv	Abbott
+CN(C)C=O	Dimethyl Formamide (DMF)	6228	68-12-2		None	None	None	None	None	None	None	None	None	17.4	13.7	11.3	solv	Abbott
+COC(=O)CCCC(=O)OC	Dimethyl Glutarate	14242	1119-40-0		None	None	None	None	None	None	None	None	None	16.1	7.7	8.3	solv	Abbott
+CC(=C=O)C	Dimethyl Ketene	136395	598-26-5		None	None	None	None	None	None	None	None	None	15.2	7.4	4.8	solv	Abbott
+COC(=O)C=CC(=O)OC	Dimethyl Maleate	5271565	624-48-6		None	None	None	None	None	None	None	None	None	16.3	8.3	9.8	solv	Abbott
+COP(=O)(C)OC	Dimethyl Methyl Phosphonate	12958	756-79-6		None	None	None	None	None	None	None	None	None	16.7	13.1	7.5	solv	Abbott
+COC(=O)C1=CC=CC=C1C(=O)OC	Dimethyl Phthalate	8554	131-11-3		None	None	None	None	None	None	None	None	None	18.6	10.8	4.9	solv	Abbott
+COC(=O)CCCCCCCCC(=O)OC	Dimethyl Sebacate	7829	106-79-6		None	None	None	None	None	None	None	None	None	16.6	2.9	6.7	solv	Abbott
+COC(=O)CCC(=O)OC	Dimethyl Succinate	7820	106-65-0		None	None	None	None	None	None	None	None	None	16.1	7.7	8.8	solv	Abbott
+COS(=O)(=O)OC	Dimethyl Sulfate	6497	77-78-1		None	None	None	None	None	None	None	None	None	16.5	13	7	solv	Abbott
+CSC	Dimethyl Sulfide	1068	75-18-3		None	None	None	None	None	None	None	None	None	16.1	6.4	7.4	solv	Abbott
+CS(=O)(=O)C	Dimethyl Sulfone	6213	67-71-0		None	None	None	None	None	None	None	None	None	19	19.4	12.3	solv	Abbott
+CS(=O)C	Dimethyl Sulfoxide (DMSO)	679	67-68-5		None	None	None	None	None	None	None	None	None	18.4	16.4	10.2	solv	Abbott
+CCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCC	Dioctyl Adipate	31271	123-79-5		None	None	None	None	None	None	None	None	None	16.7	2	5.1	solv	Abbott
+CC1=CCC(CC1)C(=C)C	Dipentene (Dl-Limonene)	22311	138-86-3		None	None	None	None	None	None	None	None	None	17.2	1.8	4.3	solv	Abbott
+C1=CC=C(C=C1)C#CC2=CC=CC=C2	Diphenyl Acetylene (0 Dipole Moment)	10390	501-65-5		None	None	None	None	None	None	None	None	None	18	2	3.2	solv	Abbott
+C1=CC=C(C=C1)C#CC2=CC=CC=C2	Diphenyl Acetylene (P By Group Cont.)	10390	501-65-5		None	None	None	None	None	None	None	None	None	18	2	3.2	solv	Abbott
+C1=CC=C(C=C1)OC2=CC=CC=C2	Diphenyl Ether	7583	101-84-8		None	None	None	None	None	None	None	None	None	19.4	3.4	4	solv	Abbott
+C1=CC=C(C=C1)S(=O)(=O)C2=CC=CC=C2	Diphenyl Sulfone	31386	127-63-9		None	None	None	None	None	None	None	None	None	21.1	14.4	3.4	solv	Abbott
+C1=CC=C(C=C1)NC2=CC=CC=C2	Diphenylamine	11487	122-39-4		None	None	None	None	None	None	None	None	None	20	3.3	5.9	solv	Abbott
+C1=CC=C(C=C1)CC2=CC=CC=C2	Diphenylmethane	7580	101-81-5		None	None	None	None	None	None	None	None	None	19.5	1	1	solv	Abbott
+CCCNCCC	Dipropyl Amine	8902	142-84-7		None	None	None	None	None	None	None	None	None	15.3	1.4	4.1	solv	Abbott
+CCCC(=O)CCC	Dipropyl Ketone	31246	123-19-3		None	None	None	None	None	None	None	None	None	15.8	7.6	4.9	solv	Abbott
+C(CO)COCCCO	Dipropylene Glycol	32857	2396-61-4		None	None	None	None	None	None	None	None	None	16.5	10.6	17.7	solv	Abbott
+COCCCOCCCO	Dipropylene Glycol Methyl Ether	66984	112-28-7		None	None	None	None	None	None	None	None	None	15.5	5.7	11.2	solv	Abbott
+CCCCOCC(C)OCC(C)O	Dipropylene Glycol Mono n-Butyl Ether	24752	29911-28-2		None	None	None	None	None	None	None	None	None	15.7	6.5	10	solv	Abbott
+CCCOCC(C)OCC(C)O	Dipropylene Glycol Mono n-Propyl Ether	121752	29911-27-1		None	None	None	None	None	None	None	None	None	15.6	6.1	11	solv	Abbott
+0	Dipropylene Glycol Monomethyl Ether Acetate	0	88917-22-0		None	None	None	None	None	None	None	None	None	16.3	4.9	8	solv	Abbott
+CCCCCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCCCCCCC	Ditridecyl Phthalate	8379	119-06-2		None	None	None	None	None	None	None	None	None	16.6	5.4	1.9	solv	Abbott
+C=CSC=C	Divinylsulfide	12321	627-51-0		None	None	None	None	None	None	None	None	None	16.5	4.6	5.6	solv	Abbott
+CCCCCCCCCCCC	Dodecane	8182	112-40-3		None	None	None	None	None	None	None	None	None	16	0	0	solv	Abbott
+CCCCCCCCCCCCO	Dodecanol	8193	112-53-8		None	None	None	None	None	None	None	None	None	16	4	9.3	solv	Abbott
+C1=CC(=C(C=C1CCN)O)O	Dopamine	681	51-61-6		None	None	None	None	None	None	None	None	None	18.2	10.3	19.5	solv	Abbott
+CC(CC1=CC2=C(C=C1)OCO2)NC	Ecstasy	1615	42542-10-9		None	None	None	None	None	None	None	None	None	18	5.1	6.1	solv	Abbott
+CCCCCCCCCCCCCCCCCCCC	Eicosane	8222	112-95-8		None	None	None	None	None	None	None	None	None	16.5	0	0	solv	Abbott
+C1C(O1)CCl	Epichlorohydrin	7835	106-89-8		None	None	None	None	None	None	None	None	None	17.5	7.6	7.6	solv	Abbott
+C1CCC(=O)NCC1	Epsilon-Caprolactam	7768	105-60-2		None	None	None	None	None	None	None	None	None	19.4	13.8	3.9	solv	Abbott
+CC	Ethane	6324	74-84-0		None	None	None	None	None	None	None	None	None	15.5	0	0	solv	Abbott
+CC	Ethane (Liq. B.P.)	6324	74-84-0		None	None	None	None	None	None	None	None	None	15.6	0	0	solv	Abbott
+CCS(=O)(=O)Cl	Ethanesulfonylchloride	11667	594-44-5		None	None	None	None	None	None	None	None	None	17.7	14.9	6.8	solv	Abbott
+CCS	Ethanethiol (Ethyl Mercaptan)	6343	75-08-1		None	None	None	None	None	None	None	None	None	15.7	6.5	7.1	solv	Abbott
+CCO	Ethanol	702	64-17-5		None	None	None	None	None	None	None	None	None	15.8	8.8	19.4	solv	Abbott
+C(CO)N	Ethanolamine	700	141-43-5		None	None	None	None	None	None	None	None	None	17	15.5	21	solv	Abbott
+CCC(=O)O.CCOCCO	Ethoxyethyl Propionate	71354268	14272-48-1		None	None	None	None	None	None	None	None	None	16.2	3.3	8.8	solv	Abbott
+CCOC(=O)C	Ethyl Acetate	8857	141-78-6		None	None	None	None	None	None	None	None	None	15.8	5.3	7.2	solv	Abbott
+CCOC(=O)CC(=O)C	Ethyl Aceto Acetate (Keto)	8868	141-97-9		None	None	None	None	None	None	None	None	None	16.5	7.3	8.3	solv	Abbott
+CCC#C	Ethyl Acetylene	7846	107-00-6		None	None	None	None	None	None	None	None	None	15.1	3.4	5	solv	Abbott
+CCOC(=O)C=C	Ethyl Acrylate	8821	140-88-5		None	None	None	None	None	None	None	None	None	15.5	7.1	5.5	solv	Abbott
+CCN	Ethyl Amine	6341	75-04-7		None	None	None	None	None	None	None	None	None	15	5.6	10.7	solv	Abbott
+CCCCCC(=O)CC	Ethyl Amyl Ketone	246728	106-68-3		None	None	None	None	None	None	None	None	None	16.2	4.5	4.1	solv	Abbott
+CCC1=CC=CC=C1	Ethyl Benzene	7500	100-41-4		None	None	None	None	None	None	None	None	None	17.8	0.6	1.4	solv	Abbott
+CCOC(=O)C1=CC=CC=C1	Ethyl Benzoate	7165	93-89-0		None	None	None	None	None	None	None	None	None	17.9	6.2	6	solv	Abbott
+CCBr	Ethyl Bromide	6332	74-96-4		None	None	None	None	None	None	None	None	None	16.5	8.4	2.3	solv	Abbott
+CCCCOCC	Ethyl Butyl Ether	12355	628-81-9		None	None	None	None	None	None	None	None	None	14.5	3.9	4.7	solv	Abbott
+CCCCC(=O)CC	Ethyl Butyl Ketone	7802	106-35-4		None	None	None	None	None	None	None	None	None	16.2	5	4.1	solv	Abbott
+CCCC(=O)OCC	Ethyl Butyrate	7762	105-54-4		None	None	None	None	None	None	None	None	None	15.5	5.6	5	solv	Abbott
+CCCCCC(=O)OCC	Ethyl Capronate	31265	123-66-0		None	None	None	None	None	None	None	None	None	15.5	3.2	5.9	solv	Abbott
+CCOC(=O)N	Ethyl Carbamate	5641	51-79-6		None	None	None	None	None	None	None	None	None	16.8	10.1	13	solv	Abbott
+CC[N+]#[C-]	Ethyl Carbylamine	12226	624-79-3		None	None	None	None	None	None	None	None	None	15.6	15.2	5.8	solv	Abbott
+CCCl	Ethyl Chloride	6337	75-00-3		None	None	None	None	None	None	None	None	None	15.7	6.1	2.9	solv	Abbott
+CCOC(=O)Cl	Ethyl Chloroformate	10928	541-41-3		None	None	None	None	None	None	None	None	None	16.4	11	8	solv	Abbott
+CCOC(=O)C=CC1=CC=CC=C1	Ethyl Cinnamate	637758	103-36-6		None	None	None	None	None	None	None	None	None	18.4	8.2	4.1	solv	Abbott
+CCOC(=O)CC#N	Ethyl Cyanoacetate	7764	105-56-6		None	None	None	None	None	None	None	None	None	16.7	7.9	8.3	solv	Abbott
+CCOC(=O)C(=C)C#N	Ethyl Cyanoacrylate	81530	7085-85-0		None	None	None	None	None	None	None	None	None	15.2	10.3	9	solv	Abbott
+CCOC#C	Ethyl Ethynylether	61239	927-80-0		None	None	None	None	None	None	None	None	None	15.4	7.9	5.9	solv	Abbott
+CCF	Ethyl Fluoride	9620	353-36-6		None	None	None	None	None	None	None	None	None	15.2	9.3	3	solv	Abbott
+CCOC=O	Ethyl Formate	8025	109-94-4		None	None	None	None	None	None	None	None	None	15.5	8.4	8.4	solv	Abbott
+CCOCl	Ethyl Hypochlorite	136439	624-85-1		None	None	None	None	None	None	None	None	None	15.7	8.6	6.5	solv	Abbott
+CCI	Ethyl Iodide	6340	75-03-6		None	None	None	None	None	None	None	None	None	17.5	7	6	solv	Abbott
+CCN=C=O	Ethyl Isocyanate	8022	109-90-0		None	None	None	None	None	None	None	None	None	15.4	12	2.5	solv	Abbott
+CCOC(=C)C	Ethyl Isopropenyl Ether	136710	926-66-9		None	None	None	None	None	None	None	None	None	14.8	3.5	5.1	solv	Abbott
+CCN=C=S	Ethyl Isothiocyanate	10966	542-85-8		None	None	None	None	None	None	None	None	None	17.2	14.7	9	solv	Abbott
+CCOC(=O)C(C)O	Ethyl Lactate	7344	97-64-3		None	None	None	None	None	None	None	None	None	16	7.6	12.5	solv	Abbott
+CCOC(=O)C(=C)C	Ethyl Methacrylate	7343	97-63-2		None	None	None	None	None	None	None	None	None	15.8	7.2	7.5	solv	Abbott
+CCSC	Ethyl Methyl Sulfide	12230	624-89-5		None	None	None	None	None	None	None	None	None	17.1	4.8	2.5	solv	Abbott
+CCCCCCCCC=CCCCCCCCC(=O)OCC	Ethyl Oleate	5363269	111-62-6		None	None	None	None	None	None	None	None	None	16.2	3.2	4	solv	Abbott
+CCC(=O)OCC	Ethyl Propionate	7749	105-37-3		None	None	None	None	None	None	None	None	None	15.5	6.1	4.9	solv	Abbott
+CCSC#N	Ethyl Thiocyanate	10968	542-90-5		None	None	None	None	None	None	None	None	None	15.4	13.4	5.4	solv	Abbott
+CCOC=C	Ethyl Vinylether	8023	109-92-2		None	None	None	None	None	None	None	None	None	14.9	4.9	5.6	solv	Abbott
+CCC(=O)C=C	Ethyl Vinylketone	15394	1629-58-9		None	None	None	None	None	None	None	None	None	15.8	11.3	4.5	solv	Abbott
+CCOC#CC	Ethyl-1-Propynylether	640369	14273-06-4		None	None	None	None	None	None	None	None	None	15.9	6.4	5.4	solv	Abbott
+C=C	Ethylene	6325	74-85-1		None	None	None	None	None	None	None	None	None	15	2	3.8	solv	Abbott
+C1COC(=O)O1	Ethylene Carbonate	7303	96-49-1		None	None	None	None	None	None	None	None	None	18	21.7	5.1	solv	Abbott
+C(CCl)O	Ethylene Chlorohydrin	34	107-07-3		None	None	None	None	None	None	None	None	None	16.9	8.8	17.2	solv	Abbott
+C(CO)C#N	Ethylene Cyanohydrin	8011	109-78-4		None	None	None	None	None	None	None	None	None	17.2	18.8	17.6	solv	Abbott
+C(CBr)Br	Ethylene Dibromide	7839	106-93-4		None	None	None	None	None	None	None	None	None	19.2	3.5	8.6	solv	Abbott
+C(CCl)Cl	Ethylene Dichloride	11	107-06-2		None	None	None	None	None	None	None	None	None	18	7.4	4.1	solv	Abbott
+C(CO[N+](=O)[O-])O[N+](=O)[O-]	Ethylene Dinitrate	40818	628-96-6		None	None	None	None	None	None	None	None	None	16.2	18	6	solv	Abbott
+C(CO)O	Ethylene Glycol	174	107-21-1		None	None	None	None	None	None	None	None	None	17	11	26	solv	Abbott
+CCCCOCCOC(=O)C	Ethylene Glycol Butyl Ether Acetate	8160	112-07-2		None	None	None	None	None	None	None	None	None	15.3	7.5	6.8	solv	Abbott
+CCCCOCCOCC	Ethylene Glycol Butyl Ethyl Ether	20451	4413-13-2		None	None	None	None	None	None	None	None	None	15.3	4.9	4.6	solv	Abbott
+CCCCOCCOC	Ethylene Glycol Butyl Methyl Ether	83358	13343-98-1		None	None	None	None	None	None	None	None	None	15.5	5.2	4.9	solv	Abbott
+CC(C)(C)OCCOC(C)(C)C	Ethylene Glycol Di-t-Butyl Ether	168554	26547-47-7		None	None	None	None	None	None	None	None	None	14.7	4.1	8.2	solv	Abbott
+CC(=O)OCCOC(=O)C	Ethylene Glycol Diacetate	8121	111-55-7		None	None	None	None	None	None	None	None	None	16.2	4.7	9.8	solv	Abbott
+CCCCOCCOCCCC	Ethylene Glycol Dibutyl Ether	8188	112-48-1		None	None	None	None	None	None	None	None	None	15.7	4.5	4.2	solv	Abbott
+CCOCCOCC	Ethylene Glycol Diethyl Ether	12375	629-14-1		None	None	None	None	None	None	None	None	None	15.4	5.4	5.2	solv	Abbott
+COCCOC	Ethylene Glycol Dimethyl Ether	8071	110-71-4		None	None	None	None	None	None	None	None	None	15.4	6.3	6	solv	Abbott
+CC(C)(C)OCCOC	Ethylene Glycol Methyl t-Butyl Ether	105381	66728-50-5		None	None	None	None	None	None	None	None	None	15.3	5.1	8.2	solv	Abbott
+CCCCC(CC)COCCO	Ethylene Glycol Mono 2-Ethyl Hexyl Ether	15260	1559-35-9		None	None	None	None	None	None	None	None	None	16	4.1	10.5	solv	Abbott
+C1=CC=C(C=C1)COCCO	Ethylene Glycol Mono Benzyl Ether	12141	622-08-2		None	None	None	None	None	None	None	None	None	17.8	5.9	12.2	solv	Abbott
+CCOCCOC(=O)C=C	Ethylene Glycol Mono Ethyl Ether Acrylate	7827	106-74-1		None	None	None	None	None	None	None	None	None	15.9	5.1	9.3	solv	Abbott
+CCCCCCOCCO	Ethylene Glycol Mono n-Hexyl Ether	8170	112-25-4		None	None	None	None	None	None	None	None	None	16	5	11.4	solv	Abbott
+CCCOCCO	Ethylene Glycol Mono n-Propyl Ether	17756	2807-30-9		None	None	None	None	None	None	None	None	None	16.1	8.7	13.5	solv	Abbott
+CC(C)(C)OCCO	Ethylene Glycol Mono t-Butyl Ether	24232	7580-85-0		None	None	None	None	None	None	None	None	None	15.3	6.1	10.8	solv	Abbott
+CCCCOCCO	Ethylene Glycol Monobutyl Ether	8133	111-76-2		None	None	None	None	None	None	None	None	None	16	5.1	12.3	solv	Abbott
+CCOCCO	Ethylene Glycol Monoethyl Ether	8076	110-80-5		None	None	None	None	None	None	None	None	None	15.9	7.2	14	solv	Abbott
+CCOCCOC(=O)C	Ethylene Glycol Monoethyl Ether Acetate	8095	111-15-9		None	None	None	None	None	None	None	None	None	15.9	4.7	10.6	solv	Abbott
+CC(C)COCCO	Ethylene Glycol Monoisobutyl Ether	521158	4439-24-1		None	None	None	None	None	None	None	None	None	15.2	4.9	9.6	solv	Abbott
+CC(C)OCCO	Ethylene Glycol Monoisopropyl Ether	7996	109-59-1		None	None	None	None	None	None	None	None	None	16	8.2	13.1	solv	Abbott
+COCCO	Ethylene Glycol Monomethyl Ether	8019	109-86-4		None	None	None	None	None	None	None	None	None	16	8.2	15	solv	Abbott
+CC(=O)OCCOC	Ethylene Glycol Monomethyl Ether Acetate	8054	110-49-6		None	None	None	None	None	None	None	None	None	15.9	5.5	11.6	solv	Abbott
+C1COS(=O)O1	Ethylene Glycol Sulfite	77342	3741-38-6		None	None	None	None	None	None	None	None	None	20	15.9	5.1	solv	Abbott
+CS(=O)(=O)OCCOS(=O)(=O)C	Ethylene Methyl Sulfonate	20796	4672-49-5		None	None	None	None	None	None	None	None	None	16.9	9.3	9.6	solv	Abbott
+C1CO1	Ethylene Oxide	6354	75-21-8		None	None	None	None	None	None	None	None	None	15.6	10	11	solv	Abbott
+C1CS1	Ethylene Sulfide	9865	420-12-2		None	None	None	None	None	None	None	None	None	19.3	9	6.5	solv	Abbott
+C(CN)N	Ethylenediamine	3301	107-15-3		None	None	None	None	None	None	None	None	None	16.6	8.8	17	solv	Abbott
+C1CN1	Ethyleneimine	9033	151-56-4		None	None	None	None	None	None	None	None	None	17.7	11	9.8	solv	Abbott
+CC=CC(=O)C	Ethylidene Acetone	637920	625-33-2		None	None	None	None	None	None	None	None	None	16.2	12.1	4.5	solv	Abbott
+COC#C	Ethynyl Methyl Ether	138749	6443-91-0		None	None	None	None	None	None	None	None	None	15.8	8.1	6.5	solv	Abbott
+0	Ethynyl Propyl Ether	0	42842-08-0		None	None	None	None	None	None	None	None	None	15.4	3.8	5.4	solv	Abbott
+COC1=C(C=CC(=C1)CC=C)O	Eugenol	3314	97-53-0		None	None	None	None	None	None	None	None	None	19	7.5	13	solv	Abbott
+CC1(C2CCC1C(=C)C2)C	Fenchene(A)	28930	471-84-1		None	None	None	None	None	None	None	None	None	16.9	1.5	3.1	solv	Abbott
+COC1=C(C=CC(=C1)C=CC(=O)O)O	Ferulic Acid	445858	1135-24-6		None	None	None	None	None	None	None	None	None	19	6.6	15.1	solv	Abbott
+C1C2=CC=CC=C2C3=CC=CC=C31	Fluorene	6853	86-73-7		None	None	None	None	None	None	None	None	None	21.3	1.7	1.7	solv	Abbott
+C1=CC=C(C=C1)F	Fluorobenzene	10008	462-06-6		None	None	None	None	None	None	None	None	None	18.1	6.1	2	solv	Abbott
+C=CF	Fluoroethylene	6339	75-02-5		None	None	None	None	None	None	None	None	None	15.2	7	1	solv	Abbott
+CF	Fluoromethane	11638	593-53-3		None	None	None	None	None	None	None	None	None	13.4	10.6	9.5	solv	Abbott
+C=CC(=C)F	Fluoroprene	551655	381-61-3		None	None	None	None	None	None	None	None	None	14.2	5.8	1	solv	Abbott
+C=O	Formaldehyde	712	50-00-0		None	None	None	None	None	None	None	None	None	12.8	14.4	15.4	solv	Abbott
+C(=O)N	Formamide	713	75-12-7		None	None	None	None	None	None	None	None	None	17.2	26.2	19	solv	Abbott
+C(=O)O	Formic Acid	284	64-18-6		None	None	None	None	None	None	None	None	None	14.6	10	14	solv	Abbott
+C(=O)F	Formyl Fluoride	15153	1493-02-3		None	None	None	None	None	None	None	None	None	15	10.1	8.6	solv	Abbott
+C(=CC#N)C#N	Fumaronitrile	637930	764-42-1		None	None	None	None	None	None	None	None	None	16.7	13.6	7.8	solv	Abbott
+C1=COC=C1	Furan	8029	110-00-9		None	None	None	None	None	None	None	None	None	17	1.8	5.3	solv	Abbott
+C1=COC(=C1)C=O	Furfural	7362	98-01-1		None	None	None	None	None	None	None	None	None	18.6	14.9	5.1	solv	Abbott
+C1=COC(=C1)CO	Furfuryl Alcohol	7361	98-00-0		None	None	None	None	None	None	None	None	None	17.4	7.6	15.1	solv	Abbott
+C(C(CO)O)O	Glycerol	753	56-81-5		None	None	None	None	None	None	None	None	None	17.4	11.3	27.2	solv	Abbott
+C1C(OC(=O)O1)CO	Glycerol Carbonate	97944	931-40-8		None	None	None	None	None	None	None	None	None	17.9	25.5	17.4	solv	Abbott
+CC(=O)OCC1COC(=O)O1	Glycerol Carbonate Acetate	14365992	1607-31-4		None	None	None	None	None	None	None	None	None	17.1	14.7	9.2	solv	Abbott
+0	Glycerol Carbonate Ethyl Ether	0	307949-19-5		None	None	None	None	None	None	None	None	None	16.8	18.5	8.7	solv	Abbott
+0	Glycerol Diacetate	0	0		None	None	None	None	None	None	None	None	None	16.4	8.9	14.2	solv	Abbott
+0	Glycerol Formal	0	4740-78-7 5464-28-8		None	None	None	None	None	None	None	None	None	18.4	10.6	16.5	solv	Abbott
+CC(=O)OCC(COC(=O)C)OC(=O)C	Glycerol Triacetate	5541	102-76-1		None	None	None	None	None	None	None	None	None	16.5	4.5	9.1	solv	Abbott
+CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC	Glycerol Tributyrate	6050	60-01-5		None	None	None	None	None	None	None	None	None	16.3	2.5	7	solv	Abbott
+CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)OC(=O)CCCCCCCC=CCCCCCCCC	Glycerol Trioleate	45253964	122-32-7		None	None	None	None	None	None	None	None	None	16	3.8	3.2	solv	Abbott
+C1C(O1)CO	Glycidol	11164	556-52-5		None	None	None	None	None	None	None	None	None	18.2	9	17.9	solv	Abbott
+CC(=C)C(=O)OCC1CO1	Glycidyl Methacrylate	7837	106-91-2		None	None	None	None	None	None	None	None	None	16.3	8.5	5.7	solv	Abbott
+C(=O)C=O	Glyoxal (Ethandial)	7860	107-22-2		None	None	None	None	None	None	None	None	None	15	17	13.3	solv	Abbott
+C(C(F)(F)F)F	HCFC 134a	13129	811-97-2		None	None	None	None	None	None	None	None	None	16.1	4	0	solv	Abbott
+CC(F)(Cl)Cl	HCFC 141b	15586	1717-00-6		None	None	None	None	None	None	None	None	None	15.7	4	1	solv	Abbott
+C(C(C(F)(F)F)(F)F)(Cl)Cl	HCFC 225ca	61112	422-56-0		None	None	None	None	None	None	None	None	None	14.9	3.5	1	solv	Abbott
+C(C(C(F)(F)Cl)(F)F)(F)Cl	HCFC 225cb	62353	507-55-1		None	None	None	None	None	None	None	None	None	13.1	2.9	1	solv	Abbott
+C(CCl)C(F)(F)F	HCFC 253eb	10000	460-35-5		None	None	None	None	None	None	None	None	None	14.6	7.3	1	solv	Abbott
+0	HCFC-225ca:cb (45:55)	0	0		None	None	None	None	None	None	None	None	None	14.1	3.2	1	solv	Abbott
+C(C(F)(F)F)(Cl)Cl	HCFC123	9385	306-83-2		None	None	None	None	None	None	None	None	None	15	5.4	1	solv	Abbott
+CCCCCCC	Heptane	8900	142-82-5		None	None	None	None	None	None	None	None	None	15.3	0	0	solv	Abbott
+C(=O)(C(Cl)(Cl)Cl)C(Cl)(Cl)Cl	Hexachloroacetone	8303	116-16-5		None	None	None	None	None	None	None	None	None	18.3	3	3	solv	Abbott
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl	Hexachlorobenzene	8370	118-74-1		None	None	None	None	None	None	None	None	None	20.3	2.1	0	solv	Abbott
+C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl	Hexachloroethane	6214	67-72-1		None	None	None	None	None	None	None	None	None	18.6	2	0	solv	Abbott
+CCCCCCCCCCCCCCCC	Hexadecane	11006	544-76-3		None	None	None	None	None	None	None	None	None	16.3	0	0	solv	Abbott
+C(C(F)(F)F)(C(F)(F)F)O	Hexafluoro Isopropanol	13529	920-66-1		None	None	None	None	None	None	None	None	None	17.2	4.5	14.7	solv	Abbott
+C(=C(F)F)(C(=C(F)F)F)F	Hexafluoro-1,3-Butadiene	69636	685-63-2		None	None	None	None	None	None	None	None	None	13.8	0	0	solv	Abbott
+C1(=C(C(=C(C(=C1F)F)F)F)F)F	Hexafluorobenzene	9805	392-56-3		None	None	None	None	None	None	None	None	None	16	0	0	solv	Abbott
+0	Hexafluorohexanol	0	0		None	None	None	None	None	None	None	None	None	15.1	4.4	9.9	solv	Abbott
+CC1=C(C(=C(C(=C1C)C)C)C)C	Hexamethyl Benzene	6908	87-85-4		None	None	None	None	None	None	None	None	None	19.2	1.6	0	solv	Abbott
+C1N2CN3CN1CN(C2)C3	Hexamethylenetetramine	4101	100-97-0		None	None	None	None	None	None	None	None	None	19.4	7	16	solv	Abbott
+CN(C)P(=O)(N(C)C)N(C)C	Hexamethylphosphoramide	12679	680-31-9		None	None	None	None	None	None	None	None	None	18.5	11.6	8.7	solv	Abbott
+CCCCCC=O	Hexanal	6184	66-25-1		None	None	None	None	None	None	None	None	None	15.8	8.4	5.3	solv	Abbott
+CCCCCC	Hexane	8058	110-54-3		None	None	None	None	None	None	None	None	None	14.9	0	0	solv	Abbott
+C(CCCO)CCO	Hexane 1,6 Diol	12374	629-11-8		None	None	None	None	None	None	None	None	None	15.7	8.4	17.8	solv	Abbott
+CCCCCC(=O)O	Hexanoic Acid	8892	142-62-1		None	None	None	None	None	None	None	None	None	16.3	4.2	11.5	solv	Abbott
+CCCCCCOC(=O)C	Hexyl Acetate	8908	142-92-7		None	None	None	None	None	None	None	None	None	15.8	2.9	5.9	solv	Abbott
+CC(=O)OCCCCCCOC(=O)C	Hexylene Glycol Diacetate	80356	6222-17-9		None	None	None	None	None	None	None	None	None	15.3	4.5	7.2	solv	Abbott
+C(C(F)F)C(F)(F)F	HFC 245fa	68030	460-73-1		None	None	None	None	None	None	None	None	None	15.4	3	0	solv	Abbott
+C(C(C(C(F)F)(F)F)(F)F)(F)F	HFC 338pcc	67832	377-36-6		None	None	None	None	None	None	None	None	None	13.7	0	0	solv	Abbott
+CC(CC(F)(F)F)(F)F	HFC-365mfc	67884	406-58-6		None	None	None	None	None	None	None	None	None	16.4	0	0	solv	Abbott
+C(C(C(F)(F)F)F)(C(C(F)(F)F)(F)F)F	HFC-43-10mee	86240	138495-42-8		None	None	None	None	None	None	None	None	None	11.6	0	0	solv	Abbott
+COC(C(C(F)(F)F)(F)F)(F)F	HFE 7000	2774943	375-03-1		None	None	None	None	None	None	None	None	None	13	4.2	1	solv	Abbott
+COC(C(C(C(F)(F)F)(F)F)(F)F)(F)F	HFE 7100	164514	163702-07-6		None	None	None	None	None	None	None	None	None	13.7	2.2	1	solv	Abbott
+CCOC(C(C(F)(F)F)(C(F)(F)F)F)(C(C(C(F)(F)F)(F)F)(F)F)F	HFE 7500	2782436	297730-93-9		None	None	None	None	None	None	None	None	None	13.3	2	1	solv	Abbott
+0	HFE 8200	0	0		None	None	None	None	None	None	None	None	None	13	4	1	solv	Abbott
+NN	Hydrazine	9321	302-01-2		None	None	None	None	None	None	None	None	None	14.2	8.3	8.9	solv	Abbott
+C#N	Hydrogen Cyanide	768	74-90-8		None	None	None	None	None	None	None	None	None	12.3	17.6	9	solv	Abbott
+OO	Hydrogen Peroxide	784	7722-84-1		None	None	None	None	None	None	None	None	None	15.5	12.2	42.7	solv	Abbott
+S	Hydrogen Sulfide	402	7783-06-4		None	None	None	None	None	None	None	None	None	17.9	6	10.2	solv	Abbott
+C=CC(=O)OCCO	Hydroxyethyl Acrylate	13165	818-61-1		None	None	None	None	None	None	None	None	None	16	13.2	13.4	solv	Abbott
+C1C=CC2=CC=CC=C21	Indene	7219	95-13-6		None	None	None	None	None	None	None	None	None	18.7	2.6	9	solv	Abbott
+C1=CC=C2C(=C1)C=CN2	Indole	798	120-72-9		None	None	None	None	None	None	None	None	None	20.5	7.5	6.5	solv	Abbott
+C1=CC=C(C=C1)I	Iodobenzene	11575	591-50-4		None	None	None	None	None	None	None	None	None	19.9	5.6	6.1	solv	Abbott
+C(I)(I)I	Iodoform	6374	75-47-8		None	None	None	None	None	None	None	None	None	20.2	3.6	10.6	solv	Abbott
+C=CC(=C)I	Iodoprene	12304722	19221-28-4		None	None	None	None	None	None	None	None	None	17.2	2.5	6.2	solv	Abbott
+CC(C)CCOC(=O)C	Isoamyl Acetate	31276	123-92-2		None	None	None	None	None	None	None	None	None	15.3	3.1	7	solv	Abbott
+CC(C)CCO	Isoamyl Alcohol (3-Methyl-1-Butanol)	31260	123-51-3		None	None	None	None	None	None	None	None	None	15.8	5.2	13.3	solv	Abbott
+CCC(=O)OCCC(C)C	Isoamyl Propionate	7772	105-68-0		None	None	None	None	None	None	None	None	None	15.7	5.2	5.6	solv	Abbott
+CC(C)COC(=O)C	Isobutyl Acetate	8038	110-19-0		None	None	None	None	None	None	None	None	None	15.1	3.7	6.3	solv	Abbott
+CC(C)COC(=O)C=C	Isobutyl Acrylate	7819	106-63-8		None	None	None	None	None	None	None	None	None	15.5	6.2	5	solv	Abbott
+CC(C)CO	Isobutyl Alcohol	6560	78-83-1		None	None	None	None	None	None	None	None	None	15.1	5.7	15.9	solv	Abbott
+CC(C)COC=O	Isobutyl Formate	10957	542-55-2		None	None	None	None	None	None	None	None	None	15.5	6.5	6.7	solv	Abbott
+CC(C)COC(=O)C(C)C	Isobutyl Isobutyrate	7351	97-85-8		None	None	None	None	None	None	None	None	None	15.1	2.8	5.8	solv	Abbott
+CC(C)CS(=O)CC(C)C	Isobutyl Sulfoxide	18328	3085-40-3		None	None	None	None	None	None	None	None	None	16.3	10.5	6.1	solv	Abbott
+CC(=C)C	Isobutylene	8255	115-11-7		None	None	None	None	None	None	None	None	None	14.5	2	1.5	solv	Abbott
+CC1(CO1)C	Isobutyleneoxide	11208	558-30-5		None	None	None	None	None	None	None	None	None	16.1	4.8	5.8	solv	Abbott
+CC(C)C(=O)O	Isobutyric Acid	6590	79-31-2		None	None	None	None	None	None	None	None	None	15.7	5.4	10.5	solv	Abbott
+C(=N)=O	Isocyanic Acid	6347	75-13-8		None	None	None	None	None	None	None	None	None	15.8	10.5	13.6	solv	Abbott
+CC(C)CCCCCO	Isooctyl Alcohol	15450	26952-21-6		None	None	None	None	None	None	None	None	None	14.4	7.3	12.9	solv	Abbott
+CCC(C)C	Isopentane	6556	78-78-4		None	None	None	None	None	None	None	None	None	13.8	0	0	solv	Abbott
+CC1=CC(=O)CC(C1)(C)C	Isophorone	6544	78-59-1		None	None	None	None	None	None	None	None	None	17	8	5	solv	Abbott
+CC(=C)C=C	Isoprene (2-Methyl-1,3-Butadiene)	6557	78-79-5		None	None	None	None	None	None	None	None	None	14.7	1.4	4.1	solv	Abbott
+CC(C)OC(=O)C	Isopropyl Acetate	7915	108-21-4		None	None	None	None	None	None	None	None	None	14.9	4.5	8.2	solv	Abbott
+CC(C)N	Isopropyl Amine (2-Propan Amine)	6363	75-31-0		None	None	None	None	None	None	None	None	None	14.8	4.4	6.6	solv	Abbott
+CC(C)C1=CC=CC=C1	Isopropyl Benzene (Cumene)	7406	98-82-8		None	None	None	None	None	None	None	None	None	18.1	1.2	1.2	solv	Abbott
+CC(C)Cl	Isopropyl Chloride (2-Chloro Propane)	6361	75-29-6		None	None	None	None	None	None	None	None	None	15	8	2	solv	Abbott
+CC(C)OC(C)C	Isopropyl Ether	7914	108-20-3		None	None	None	None	None	None	None	None	None	15.1	3.2	3.2	solv	Abbott
+CCCCCCCCCCCCCCCC(=O)OC(C)C	Isopropyl Palmitate	8907	142-91-6		None	None	None	None	None	None	None	None	None	16.2	3.9	3.7	solv	Abbott
+CC(C)CC=O	Isovaleraldehyde	11552	590-86-3		None	None	None	None	None	None	None	None	None	14.7	9.5	5	solv	Abbott
+CC(C)CC(=O)O	Isovaleric Acid	10430	503-74-2		None	None	None	None	None	None	None	None	None	16.4	4.1	10.7	solv	Abbott
+C1=CON=C1	Isoxazole	9254	288-14-2		None	None	None	None	None	None	None	None	None	18.8	13.4	11.2	solv	Abbott
+C=C=O	Ketene	10038	463-51-4		None	None	None	None	None	None	None	None	None	15.4	7.3	5.8	solv	Abbott
+C1=CC(=C(C=C1CC(C(=O)O)N)O)O	l-Dopa	6047	59-92-7		None	None	None	None	None	None	None	None	None	18	8.2	20.3	solv	Abbott
+CC1CCC(C(C1)O)C(C)C	l-Menthol	16666	2216-51-5		None	None	None	None	None	None	None	None	None	16	4.7	9	solv	Abbott
+CC1CCC(C(=O)C1)C(C)C	l-Menthone	6986	10458-14-7		None	None	None	None	None	None	None	None	None	17	8.1	4.4	solv	Abbott
+CC1CCC(C(C1)OC(=O)C)C(C)C	l-Menthyl Acetate	27867	2623-23-6		None	None	None	None	None	None	None	None	None	16.8	4.7	4.9	solv	Abbott
+C1=CC(=CC=C1CC(C(=O)O)N)O	l-Tyrosine	6057	60-18-4		None	None	None	None	None	None	None	None	None	17.5	6.9	17.2	solv	Abbott
+CC(C(=O)O)O	Lactic Acid (dl)	612	50-21-5		None	None	None	None	None	None	None	None	None	17	8.3	28.4	solv	Abbott
+CCCCCCCCCCCCOC(=O)C(=C)C	Lauryl Methacrylate	8906	142-90-5		None	None	None	None	None	None	None	None	None	14.4	2.2	5.1	solv	Abbott
+C1=CC(=CC(=C1)Cl)N	m-Chloroaniline	7932	108-42-9		None	None	None	None	None	None	None	None	None	20.2	7.3	9.8	solv	Abbott
+CC1=CC(=CC=C1)O	m-Cresol	342	108-39-4		None	None	None	None	None	None	None	None	None	18.5	6.5	13.7	solv	Abbott
+C1=CC(=CC(=C1)Cl)Cl	m-Dichlorobenzene	10943	541-73-1		None	None	None	None	None	None	None	None	None	19.2	5.1	2.7	solv	Abbott
+C1=CC(=O)OC1=O	Maleic Anhydride	7923	108-31-6		None	None	None	None	None	None	None	None	None	19.5	13.3	11.9	solv	Abbott
+C(C#N)C#N	Malononitrile	8010	109-77-3		None	None	None	None	None	None	None	None	None	17	18.4	6.7	solv	Abbott
+CN(C)CCOC(=O)COC1=CC=C(C=C1)Cl	Meclofenoxate	4039	51-68-3		None	None	None	None	None	None	None	None	None	16	6.2	9	solv	Abbott
+CC1CCC2=C(C1)OC=C2C	Menthofuran	329983	494-90-6		None	None	None	None	None	None	None	None	None	17.2	4.6	5.6	solv	Abbott
+CC(=CC(=O)C)C	Mesityl Oxide	8858	141-79-7		None	None	None	None	None	None	None	None	None	16.4	7.2	5	solv	Abbott
+CC1=CC(=CC(=C1)C)C	Mesitylene	7947	108-67-8		None	None	None	None	None	None	None	None	None	18	0.6	0.6	solv	Abbott
+CC(=C)C=O	Methacrylaldehyde	6562	78-85-3		None	None	None	None	None	None	None	None	None	15	10.3	7.1	solv	Abbott
+CC(=C)C(=O)N	Methacrylamide	6595	79-39-0		None	None	None	None	None	None	None	None	None	15.8	11	11.6	solv	Abbott
+CC(=C)C(=O)O	Methacrylic Acid	4093	79-41-4		None	None	None	None	None	None	None	None	None	15.8	2.8	12	solv	Abbott
+CC(=C)C#N	Methacrylonitrile	31368	126-98-7		None	None	None	None	None	None	None	None	None	15.8	9.5	5.4	solv	Abbott
+C	Methane (Liquid B.P.)	297	74-82-8		None	None	None	None	None	None	None	None	None	14	0	0	solv	Abbott
+CO	Methanol	887	67-56-1		None	None	None	None	None	None	None	None	None	14.7	12.3	22.3	solv	Abbott
+CO	Methanol Cluster	887	67-56-1		None	None	None	None	None	None	None	None	None	14.7	5	10	solv	Abbott
+COCO	Methoxy Methanol	62540	4461-52-3		None	None	None	None	None	None	None	None	None	16	9	18.5	solv	Abbott
+CC(=O)CC(C)(C)OC	Methoxyhexanone (Pentoxone)	7884	107-70-0		None	None	None	None	None	None	None	None	None	15.3	6	5.9	solv	Abbott
+CC=COC	Methyl 1-Propenyl Ether	637914	7319-16-6		None	None	None	None	None	None	None	None	None	15	4.3	5.7	solv	Abbott
+CC(=O)OC	Methyl Acetate	6584	79-20-9		None	None	None	None	None	None	None	None	None	15.5	7.2	7.6	solv	Abbott
+CC(=O)CC(=O)OC	Methyl Aceto Acetate	7757	105-45-3		None	None	None	None	None	None	None	None	None	16.4	8.6	8.9	solv	Abbott
+CC#C	Methyl Acetylene	6335	74-99-7		None	None	None	None	None	None	None	None	None	15.1	3.8	9.2	solv	Abbott
+COC(=O)C=C	Methyl Acrylate	7294	96-33-3		None	None	None	None	None	None	None	None	None	15.3	6.7	9.4	solv	Abbott
+CC(C=C)C#N	Methyl Allyl Cyanide	27909	16529-56-9		None	None	None	None	None	None	None	None	None	16.4	11.3	5.1	solv	Abbott
+CN	Methyl Amine	6329	74-89-5		None	None	None	None	None	None	None	None	None	14.4	7	16	solv	Abbott
+0	Methyl Amyl Acetate	0	108-84-9		None	None	None	None	None	None	None	None	None	15.2	3.1	6.8	solv	Abbott
+COC(=O)C1=CC=CC=C1	Methyl Benzoate	7150	93-58-3		None	None	None	None	None	None	None	None	None	18.9	8.2	4.7	solv	Abbott
+CBr	Methyl Bromide	6323	74-83-9		None	None	None	None	None	None	None	None	None	17	8.8	2.6	solv	Abbott
+CCCCC(=O)C	Methyl Butyl Ketone	11583	591-78-6		None	None	None	None	None	None	None	None	None	15.3	6.1	4.1	solv	Abbott
+CCl	Methyl Chloride	6327	74-87-3		None	None	None	None	None	None	None	None	None	15.3	9.9	3.9	solv	Abbott
+COC(=O)Cl	Methyl Chloroformate	6586	79-22-1		None	None	None	None	None	None	None	None	None	16.3	9.5	8.5	solv	Abbott
+COC(=O)CC#N	Methyl Cyanoacetate	7747	105-34-0		None	None	None	None	None	None	None	None	None	16.9	14.9	9.9	solv	Abbott
+CC1CCCCC1	Methyl Cyclohexane	7962	108-87-2		None	None	None	None	None	None	None	None	None	16	0	1	solv	Abbott
+CC1CCCC1	Methyl Cyclopentane	7296	96-37-7		None	None	None	None	None	None	None	None	None	16	0	1	solv	Abbott
+CCOC	Methyl Ethyl Ether	10903	540-67-0		None	None	None	None	None	None	None	None	None	14	4.7	6	solv	Abbott
+CCC(=O)C	Methyl Ethyl Ketone (MEK)	6569	78-93-3		None	None	None	None	None	None	None	None	None	16	9	5.1	solv	Abbott
+CCC(=NO)C	Methyl Ethyl Ketoxime	5324276	96-29-7		None	None	None	None	None	None	None	None	None	14.7	4.9	7.8	solv	Abbott
+COC=O	Methyl Formate	7865	107-31-3		None	None	None	None	None	None	None	None	None	15.3	8.4	10.2	solv	Abbott
+COC(=O)C1=CC=CO1	Methyl Furoate	11902	611-13-2		None	None	None	None	None	None	None	None	None	17.4	6.9	9.7	solv	Abbott
+CC(=O)C=O	Methyl Glyoxal	880	78-98-8		None	None	None	None	None	None	None	None	None	15.5	16.1	9.7	solv	Abbott
+CNN	Methyl Hydrazine	6061	60-34-4		None	None	None	None	None	None	None	None	None	16.2	8.7	14.8	solv	Abbott
+COO	Methyl Hydroperoxide	18199	3031-73-0		None	None	None	None	None	None	None	None	None	15	15	30	solv	Abbott
+CI	Methyl Iodide	6328	74-88-4		None	None	None	None	None	None	None	None	None	17.5	7.7	5.3	solv	Abbott
+CC(C)CCC(=O)C	Methyl Isoamyl Ketone	8034	110-12-3		None	None	None	None	None	None	None	None	None	16	5.7	4.1	solv	Abbott
+CC(C)CC(C)O	Methyl Isobutyl Carbinol	7910	108-11-2		None	None	None	None	None	None	None	None	None	15.4	3.3	12.3	solv	Abbott
+CC(C)CC(=O)C	Methyl Isobutyl Ketone (MIBK)	7909	108-10-1		None	None	None	None	None	None	None	None	None	15.3	6.1	4.1	solv	Abbott
+CN=C=O	Methyl Isocyanate	12228	624-83-9		None	None	None	None	None	None	None	None	None	15.6	11.5	2.5	solv	Abbott
+CC(=C)C(=O)C	Methyl Isopropenyl Ketone	13143	814-78-8		None	None	None	None	None	None	None	None	None	15.9	12.1	4.5	solv	Abbott
+CN=C=S	Methyl Isothiocyanate	11167	556-61-6		None	None	None	None	None	None	None	None	None	17.3	16.2	10.1	solv	Abbott
+CS	Methyl Mercaptan	878	74-93-1		None	None	None	None	None	None	None	None	None	16.6	7.7	8.6	solv	Abbott
+CC(=C)C(=O)OC	Methyl Methacrylate	6658	80-62-6		None	None	None	None	None	None	None	None	None	15.8	6.5	5.4	solv	Abbott
+CCCCCC(=O)C	Methyl n-Amyl Ketone	8051	110-43-0		None	None	None	None	None	None	None	None	None	16.2	5.7	4.1	solv	Abbott
+CCCC(=O)C	Methyl n-Propyl Ketone	7895	107-87-9		None	None	None	None	None	None	None	None	None	16	7.6	4.7	solv	Abbott
+CO[N+](=O)[O-]	Methyl Nitrate	11724	598-58-3		None	None	None	None	None	None	None	None	None	15.8	14	4.8	solv	Abbott
+CCCCCCCCC=CCCCCCCCC(=O)OC	Methyl Oleate	5364509	112-62-9		None	None	None	None	None	None	None	None	None	16.2	3.8	4.5	solv	Abbott
+CSC1=CC=CC=C1	Methyl Phenyl Sulfide	7520	100-68-5		None	None	None	None	None	None	None	None	None	19.6	4.8	4.7	solv	Abbott
+CS(=O)(=O)C1=CC=CC=C1	Methyl Phenyl Sulfone (Uncertain)	18369	3112-85-4		None	None	None	None	None	None	None	None	None	20	16.9	7.8	solv	Abbott
+CP(=O)(F)F	Methyl Phosphonic Difluoride	69610	676-99-3		None	None	None	None	None	None	None	None	None	14	14	8.4	solv	Abbott
+CCC(=O)OC	Methyl Propionate	11124	554-12-1		None	None	None	None	None	None	None	None	None	15.5	6.5	7.7	solv	Abbott
+0	Methyl Riboside	0	0		None	None	None	None	None	None	None	None	None	17	12	32.8	solv	Abbott
+COC(=O)C1=CC=CC=C1O	Methyl Salicylate	4133	119-36-8		None	None	None	None	None	None	None	None	None	18.1	8	13.9	solv	Abbott
+C[SiH3]	Methyl Silane	70434	992-94-9		None	None	None	None	None	None	None	None	None	15.5	3.3	0	solv	Abbott
+CC1CCS(=O)(=O)C1	Methyl Sulfolane	79119	872-93-5		None	None	None	None	None	None	None	None	None	19	17.4	5.3	solv	Abbott
+CSC#N	Methyl Thiocyanate	11168	556-64-9		None	None	None	None	None	None	None	None	None	17.3	15	6	solv	Abbott
+COC=C	Methyl Vinyl Ether	7861	107-25-5		None	None	None	None	None	None	None	None	None	14.9	5.3	6.3	solv	Abbott
+CC(=O)C=C	Methyl Vinyl Ketone	6570	78-94-4		None	None	None	None	None	None	None	None	None	15.6	12.5	5	solv	Abbott
+CSC=C	Methyl Vinyl Sulfide	123131	1822-74-8		None	None	None	None	None	None	None	None	None	16.4	4.9	6	solv	Abbott
+CS(=O)(=O)C=C	Methyl Vinyl Sulfone	19354	3680-02-2		None	None	None	None	None	None	None	None	None	16.8	19.6	4.8	solv	Abbott
+CC#COC	Methyl-1-Propynyl Ether	139404	13169-01-2		None	None	None	None	None	None	None	None	None	15.7	6.3	5.9	solv	Abbott
+CC1=CC=C(C=C1)S(=O)(=O)OC	Methyl-4-Toluenesulfonate	6645	80-48-8		None	None	None	None	None	None	None	None	None	19.6	15.3	3.8	solv	Abbott
+CC1=CC=C(C=C1)C(=O)OC	Methyl-p-Toluate	7455	99-75-2		None	None	None	None	None	None	None	None	None	19	6.5	3.8	solv	Abbott
+CC(C)(C)OC	Methyl-t-Butyl Ether	15413	1634-04-4		None	None	None	None	None	None	None	None	None	14.8	4.3	5	solv	Abbott
+COCOC	Methylal (Dimethoxy Methane)	8020	109-87-5		None	None	None	None	None	None	None	None	None	15	1.8	8.6	solv	Abbott
+C(Cl)Cl	Methylene Dichloride (Dichloromethane)	6344	75-09-2		None	None	None	None	None	None	None	None	None	17	7.3	7.1	solv	Abbott
+C(I)I	Methylene Diiodide (Diiodomethane)	6346	75-11-6		None	None	None	None	None	None	None	None	None	22	3.9	5.5	solv	Abbott
+C1COCCN1	Morpholine	8083	110-91-8		None	None	None	None	None	None	None	None	None	18	4.9	11	solv	Abbott
+CN(C)C(=S)N(C)C	N,N,N,N-Tetramethylthiourea	17725	2782-91-4		None	None	None	None	None	None	None	None	None	17.3	6	10.5	solv	Abbott
+CCCCN(CCCC)C=O	N,N-Dibutyl Formamide	12975	761-65-9		None	None	None	None	None	None	None	None	None	15.5	8.9	6.2	solv	Abbott
+C(CCl)NCCCl	N,N-Dichloroethyl Amine	9533	334-22-5		None	None	None	None	None	None	None	None	None	16.8	7.6	7.7	solv	Abbott
+CN(Cl)Cl	N,N-Dichloromethyl Amine	123255	7651-91-4		None	None	None	None	None	None	None	None	None	16.5	7.5	8	solv	Abbott
+CCN(CC)C(=O)C	N,N-Diethyl Acetamide	12703	685-91-6		None	None	None	None	None	None	None	None	None	16.4	11.3	7.5	solv	Abbott
+CCN(CC)C=O	N,N-Diethyl Formamide	12051	617-84-5		None	None	None	None	None	None	None	None	None	16.4	11.4	9.2	solv	Abbott
+CC(=O)N(C)C	N,N-Dimethyl Acetamide	31374	127-19-5		None	None	None	None	None	None	None	None	None	16.8	11.5	9.4	solv	Abbott
+CCCC(=O)N(C)C	N,N-Dimethyl Butyramide	12973	760-79-2		None	None	None	None	None	None	None	None	None	16.4	10.6	7.4	solv	Abbott
+0	N-(2-Hydroxyethyl)-2-Pyrrolidone	0	564607		None	None	None	None	None	None	None	None	None	18	9.2	15.7	solv	Abbott
+CC(=O)N1CCCCCC1=O	N-Acetyl Caprolactam	15904	1888-91-1		None	None	None	None	None	None	None	None	None	18.9	8.7	4.8	solv	Abbott
+CC(=O)N1CCCCC1	N-Acetyl Piperidine	12058	618-42-8		None	None	None	None	None	None	None	None	None	18.5	10	6.5	solv	Abbott
+CC(=O)N1CCCC1=O	N-Acetyl Pyrrolidone	70266	932-17-2		None	None	None	None	None	None	None	None	None	17.8	13.1	8.3	solv	Abbott
+CC(=O)N1CCOCC1	N-Acetylmorpholine	15543	1696-20-4		None	None	None	None	None	None	None	None	None	18.3	9.8	7.8	solv	Abbott
+C1CC(=O)N(C1)CC2=CC=CC=C2	N-Benzyl Pyrrolidone	79176	5291-77-0		None	None	None	None	None	None	None	None	None	18.2	6.1	5.6	solv	Abbott
+CCCCOC(=O)C	n-Butyl Acetate	31272	123-86-4		None	None	None	None	None	None	None	None	None	15.8	3.7	6.3	solv	Abbott
+CCCCOC(=O)CC(=O)C	n-Butyl Aceto Acetate	11576	591-60-6		None	None	None	None	None	None	None	None	None	16.6	5.8	7.3	solv	Abbott
+CCCCOC(=O)C=C	n-Butyl Acrylate	8846	141-32-2		None	None	None	None	None	None	None	None	None	15.6	6.2	4.9	solv	Abbott
+CCCCN	n-Butyl Amine	8007	109-73-9		None	None	None	None	None	None	None	None	None	16.2	4.5	8	solv	Abbott
+CCCCOC(=O)CCC	n-Butyl Butyrate	7983	109-21-7		None	None	None	None	None	None	None	None	None	15.6	2.9	5.6	solv	Abbott
+CCCCC1CCCCC1	n-Butyl Cyclohexane	15506	1678-93-9		None	None	None	None	None	None	None	None	None	16.2	0	0.6	solv	Abbott
+CCCCC1CCCC1	n-Butyl Cyclopentane	16269	2040-95-1		None	None	None	None	None	None	None	None	None	16.4	0	1	solv	Abbott
+CCCCOC(=O)C(=C)C	n-Butyl Methacrylate	7354	97-88-1		None	None	None	None	None	None	None	None	None	15.4	5.9	5.2	solv	Abbott
+CCCCOC(=O)CC	n-Butyl Propionate	11529	590-01-2		None	None	None	None	None	None	None	None	None	15.7	5.5	5.9	solv	Abbott
+CCCCOC(=O)C1=CC=CC=C1O	n-Butyl Salicylate	16330	2052-14-4		None	None	None	None	None	None	None	None	None	17.9	4.8	11.7	solv	Abbott
+CCCCC1=CC=CC=C1	n-Butylbenzene	7705	104-51-8		None	None	None	None	None	None	None	None	None	17.4	0.1	1.1	solv	Abbott
+CCCC(=O)N	n-Butyramide	10927	541-35-5		None	None	None	None	None	None	None	None	None	16.9	13.7	12.3	solv	Abbott
+CN(C)Cl	N-Chlorodimethylamine	123122	1585-74-6		None	None	None	None	None	None	None	None	None	16	7.8	7.9	solv	Abbott
+C1CCC(CC1)N2CCCC2=O	N-Cyclohexyl-2-Pyrrolidone	81278	6837-24-7		None	None	None	None	None	None	None	None	None	18.2	6.8	6.5	solv	Abbott
+CCNC=O	N-Ethyl Formamide	12319	627-45-2		None	None	None	None	None	None	None	None	None	16.2	10	14	solv	Abbott
+CCN1CCCC1=O	N-Ethyl-2-Pyrrolidone	17595	2687-91-4		None	None	None	None	None	None	None	None	None	18	12	7	solv	Abbott
+C1CCCN(CC1)C=O	N-Formyl Hexamethylene Imine	91280	25114-81-2		None	None	None	None	None	None	None	None	None	18.5	10.4	7.6	solv	Abbott
+C1CCN(CC1)C=O	N-Formyl Piperidine	17429	2591-86-8		None	None	None	None	None	None	None	None	None	18.7	10.6	7.8	solv	Abbott
+CCCCCCCOC(=O)C	n-Heptyl Acetate	8159	112-06-1		None	None	None	None	None	None	None	None	None	15.8	2.9	5.5	solv	Abbott
+CC(=O)NC	N-Methyl Acetamide	6582	79-16-3		None	None	None	None	None	None	None	None	None	16.9	17	13	solv	Abbott
+CNC=O	N-Methyl Formamide	31254	123-39-7		None	None	None	None	None	None	None	None	None	17.4	18.8	15.9	solv	Abbott
+C[N+]1(CCOCC1)[O-]	N-Methyl Morpholine-N-Oxide (App.)	82029	7529-22-8		None	None	None	None	None	None	None	None	None	19	16.1	10.2	solv	Abbott
+CN1CCCC1	N-Methyl Pyrrolidine	8454	120-94-5		None	None	None	None	None	None	None	None	None	16.8	2.8	6.7	solv	Abbott
+CN1CCCC1=O	N-Methyl-2-Pyrrolidone (NMP)	13387	872-50-4		None	None	None	None	None	None	None	None	None	18	12.3	7.2	solv	Abbott
+CNC1=CC=CC=C1	N-Methylaniline	7515	100-61-8		None	None	None	None	None	None	None	None	None	19.5	6	7.8	solv	Abbott
+CCCCN1CCCC1=O	N-n-Butyl Pyrrolidone	18984	3470-98-2		None	None	None	None	None	None	None	None	None	17.5	9.9	5.8	solv	Abbott
+CCCCCOC(=O)CC	n-Pentyl Propionate	12217	624-54-4		None	None	None	None	None	None	None	None	None	15.8	5.2	5.7	solv	Abbott
+CCCOC(=O)C	n-Propyl Acetate	7997	109-60-4		None	None	None	None	None	None	None	None	None	15.3	4.3	7.6	solv	Abbott
+CCCO[N+](=O)[O-]	n-Propyl Nitrate	12307	627-13-4		None	None	None	None	None	None	None	None	None	15.8	11.3	4.1	solv	Abbott
+CCCOC(=O)CC	n-Propyl Propanoate	7803	106-36-5		None	None	None	None	None	None	None	None	None	15.5	5.6	5.7	solv	Abbott
+CCCCCCCCCCCCCC	n-Tetradecane	12389	629-59-4		None	None	None	None	None	None	None	None	None	16.2	0	0	solv	Abbott
+0	Naphtha,High-Flash	0	8030-30-6		None	None	None	None	None	None	None	None	None	17.9	0.7	1.8	solv	Abbott
+C1=CC=C2C=CC=CC2=C1	Naphthalene	931	91-20-3		None	None	None	None	None	None	None	None	None	19.2	2	5.9	solv	Abbott
+CN1CCCC1C2=CN=CC=C2	Nicotine	89594	54-11-5		None	None	None	None	None	None	None	None	None	18.5	7.8	6.5	solv	Abbott
+[N+](=O)(O)[O-]	Nitric Acid	944	7697-37-2		None	None	None	None	None	None	None	None	None	13.5	18	18.6	solv	Abbott
+C1=CC=C(C=C1)[N+](=O)[O-]	Nitrobenzene	7416	98-95-3		None	None	None	None	None	None	None	None	None	20	10.6	3.1	solv	Abbott
+CC[N+](=O)[O-]	Nitroethane	6587	79-24-3		None	None	None	None	None	None	None	None	None	16	15.5	4.5	solv	Abbott
+C=C[N+](=O)[O-]	Nitroethylene	77197	3638-64-0		None	None	None	None	None	None	None	None	None	16.3	16.6	5	solv	Abbott
+C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]	Nitroglycerin (Glyceryl Trinitrate)	4510	55-63-0		None	None	None	None	None	None	None	None	None	16.9	13	10.9	solv	Abbott
+C[N+](=O)[O-]	Nitromethane	6375	75-52-5		None	None	None	None	None	None	None	None	None	15.8	18.8	6.1	solv	Abbott
+C1=CC=C(C=C1)N=O	Nitrosobenzene	11473	586-96-9		None	None	None	None	None	None	None	None	None	20	12.7	4	solv	Abbott
+CCCCCCCCC	Nonane	8141	111-84-2		None	None	None	None	None	None	None	None	None	15.7	0	0	solv	Abbott
+CCCCCCCCCC1=CC=C(C=C1)O	Nonyl Phenol	1752	104-40-5		None	None	None	None	None	None	None	None	None	16.5	4.1	9.2	solv	Abbott
+CCCCCCCCCC1=CC=CC=C1OCCO	Nonyl Phenoxy Ethanol	171092	27986-36-3		None	None	None	None	None	None	None	None	None	16.7	10.2	8.4	solv	Abbott
+CC(C(C1=CC=CC=C1)O)NC	Norephedrin	9294	299-42-3		None	None	None	None	None	None	None	None	None	18	10.7	24.1	solv	Abbott
+COC1=CC=CC=C1Br	o-Bromoanisole	11358	578-57-4		None	None	None	None	None	None	None	None	None	19.8	8.4	6.7	solv	Abbott
+C1=CC=C(C(=C1)Cl)Br	o-Bromochlorobenzene	12754	694-80-4		None	None	None	None	None	None	None	None	None	20.3	7.7	4.6	solv	Abbott
+C=CC1=CC=CC=C1Br	o-Bromostyrene	16264	2039-88-5		None	None	None	None	None	None	None	None	None	19.5	5.2	5.3	solv	Abbott
+CC1=CC=CC=C1Br	o-Bromotoluene	7236	95-46-5		None	None	None	None	None	None	None	None	None	19.3	5	4.2	solv	Abbott
+C1=CC=C(C(=C1)F)Cl	o-Chlorofluorobenzene	9583	348-51-6		None	None	None	None	None	None	None	None	None	19.4	8.7	2	solv	Abbott
+C=CC1=CC=CC=C1Cl	o-Chlorostyrene	14906	2039-87-4		None	None	None	None	None	None	None	None	None	18.7	4.7	3.9	solv	Abbott
+0	o-Chlorothiophenol	0	1614434		None	None	None	None	None	None	None	None	None	20.2	7	10	solv	Abbott
+CC1=CC=CC=C1Cl	o-Chlorotoluene	7238	95-49-8		None	None	None	None	None	None	None	None	None	19	4.9	2.3	solv	Abbott
+C1=CC=C(C(=C1)Br)Br	o-Dibromobenzene	11414	583-53-9		None	None	None	None	None	None	None	None	None	20.7	6.5	5.3	solv	Abbott
+C1=CC=C(C(=C1)Cl)Cl	o-Dichlorobenzene	7239	95-50-1		None	None	None	None	None	None	None	None	None	19.2	6.3	3.3	solv	Abbott
+C1=CC=C(C(=C1)F)F	o-Difluorobenzene	9706	367-11-3		None	None	None	None	None	None	None	None	None	18	9	1	solv	Abbott
+COC1=CC=CC=C1O	o-Methoxyphenol (Guaiacol)	460	90-05-1		None	None	None	None	None	None	None	None	None	18	7	12	solv	Abbott
+CCCCC1=CC=CC=C1C	o-n-Butyltoluene	62410	1595-11-5		None	None	None	None	None	None	None	None	None	17.6	0.1	1	solv	Abbott
+CCCCCCCCCCCCCCCCCC	Octadecane	11635	593-45-3		None	None	None	None	None	None	None	None	None	16.4	0	0	solv	Abbott
+C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C	Octamethylcyclotetrasiloxane	11169	556-67-2		None	None	None	None	None	None	None	None	None	12.8	1.3	1	solv	Abbott
+CCCCCCCC	Octane	356	111-65-9		None	None	None	None	None	None	None	None	None	15.5	0	0	solv	Abbott
+CCCCCCCC(=O)O	Octanoic Acid	379	124-07-2		None	None	None	None	None	None	None	None	None	15.7	3.3	8.2	solv	Abbott
+CCCCCCCCOC(=O)C	Octyl Acetate	8164	112-14-1		None	None	None	None	None	None	None	None	None	15.8	2.9	5.1	solv	Abbott
+CCCCCCCCC=CCCCCCCCC(=O)O	Oleic Acid	445639	112-80-1		None	None	None	None	None	None	None	None	None	16	2.8	6.2	solv	Abbott
+CCCCCCCCC=CCCCCCCCCO	Oleyl Alcohol	5284499	143-28-2		None	None	None	None	None	None	None	None	None	16.5	2.6	8	solv	Abbott
+C[Si](C)(C)O[Si](C)(C)C	OS-10 (Hexamethyldisiloxane)	24764	107-46-0		None	None	None	None	None	None	None	None	None	12.6	2	0	solv	Abbott
+C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C	OS-20 (Octamethyltrisiloxane)	24705	107-51-7		None	None	None	None	None	None	None	None	None	12.2	1.8	0	solv	Abbott
+C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C	OS-30 (Decamethyltetrasiloxane)	8852	141-62-8		None	None	None	None	None	None	None	None	None	11.7	2.4	0	solv	Abbott
+C(=O)(C(=O)O)O	Oxalic Acid	971	144-62-7		None	None	None	None	None	None	None	None	None	17	17	26	solv	Abbott
+C(=O)(C(=O)Cl)Cl	Oxalylchloride	65578	79-37-8		None	None	None	None	None	None	None	None	None	16.1	3.8	7.5	solv	Abbott
+C1COC1	Oxetane (Trimethylene Oxide)	10423	503-30-0		None	None	None	None	None	None	None	None	None	16.7	10	5.4	solv	Abbott
+[O-][O+]=O	Ozone	24823	10028-15-6		None	None	None	None	None	None	None	None	None	19.8	4.2	0	solv	Abbott
+COC1=CC=C(C=C1)N	p-Anisidine (Methoxy Aniline)	7732	104-94-9		None	None	None	None	None	None	None	None	None	19.9	6.5	11.3	solv	Abbott
+C1=CC(=CC=C1C#N)Br	p-Bromobenzonitrile	12162	623-00-7		None	None	None	None	None	None	None	None	None	20.4	9.3	5.8	solv	Abbott
+C1=CC(=CC=C1C(=O)Cl)Br	p-Bromobenzoyl Chloride	68515	586-75-4		None	None	None	None	None	None	None	None	None	20.2	6.5	5.5	solv	Abbott
+C1=CC(=CC=C1[N+](=O)[O-])Br	p-Bromonitrobenzene	11466	586-78-7		None	None	None	None	None	None	None	None	None	20.9	9.9	5.9	solv	Abbott
+CC1=CC=C(C=C1)Br	p-Bromotoluene	7805	106-38-7		None	None	None	None	None	None	None	None	None	19.3	6.8	4.1	solv	Abbott
+CC(=O)C1=CC=C(C=C1)Cl	p-Chloro Acetophenone	7467	99-91-2		None	None	None	None	None	None	None	None	None	19.6	7.6	4	solv	Abbott
+C1=CC(=CC=C1C(=O)Cl)Cl	p-Chlorobenzoyl Chloride	8501	122-01-0		None	None	None	None	None	None	None	None	None	19.9	6.7	5.1	solv	Abbott
+C1=CC(=CC=C1[N+](=O)[O-])Cl	p-Chloronitrobenzene	7474	100-00-5		None	None	None	None	None	None	None	None	None	20.2	8.9	3.9	solv	Abbott
+C=CC1=CC=C(C=C1)Cl	p-Chlorostyrene	14085	1073-67-2		None	None	None	None	None	None	None	None	None	18.7	4.3	3.9	solv	Abbott
+CC1=CC=C(C=C1)Cl	p-Chlorotoluene	7810	106-43-4		None	None	None	None	None	None	None	None	None	19.1	6.2	2.6	solv	Abbott
+0	p-Coumaryl Alcohol	0	653915		None	None	None	None	None	None	None	None	None	19.1	7	17.3	solv	Abbott
+C1=CC(=CC=C1Cl)Cl	p-Dichlorobenzene	4685	106-46-7		None	None	None	None	None	None	None	None	None	19.7	5.6	2.7	solv	Abbott
+CCC1=CC=C(C=C1)CC	p-Diethyl Benzene	7734	105-05-5		None	None	None	None	None	None	None	None	None	18	0	0.6	solv	Abbott
+C=CC1=CC=C(C=C1)C=C	p-Divinyl Benzene	66041	105-06-6		None	None	None	None	None	None	None	None	None	18.6	1	7	solv	Abbott
+COC1=CC=C(C=C1)F	p-Fluoroanisole	9987	459-60-9		None	None	None	None	None	None	None	None	None	18.7	7.3	6.7	solv	Abbott
+CCCCC1=CC=C(C=C1)C	p-n-Butyltoluene	15328	1595-05-7		None	None	None	None	None	None	None	None	None	17.4	0.1	1	solv	Abbott
+CC1=CC=C(C=C1)[N+](=O)[O-]	p-Nitro Toluene	7473	99-99-0		None	None	None	None	None	None	None	None	None	19.5	11	3.6	solv	Abbott
+CC(=O)NC1=CC=C(C=C1)O	Paracetamol	1983	103-90-2		None	None	None	None	None	None	None	None	None	17.8	10.5	13.9	solv	Abbott
+CC1OC(OC(O1)C)C	Paraldehyde	31264	123-63-7		None	None	None	None	None	None	None	None	None	16	5	6	solv	Abbott
+C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C	Paraquat	15939	4685-14-7		None	None	None	None	None	None	None	None	None	19.5	8.8	5.9	solv	Abbott
+C(C(Cl)(Cl)Cl)(Cl)Cl	Pentachloro Ethane	6419	76-01-7		None	None	None	None	None	None	None	None	None	18.2	3.2	2.4	solv	Abbott
+C1(C(C1(Cl)Cl)(Cl)Cl)Cl	Pentachlorocyclopropane	22631	6262-51-7		None	None	None	None	None	None	None	None	None	18.5	10.5	3.7	solv	Abbott
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O	Pentachlorophenol	992	87-86-5		None	None	None	None	None	None	None	None	None	21.5	6.9	12.8	solv	Abbott
+CC(=O)C1=C(C(=C(C(=C1F)F)F)F)F	Pentafluorobenzophenone	69546	652-29-9		None	None	None	None	None	None	None	None	None	19.3	8.1	5.4	solv	Abbott
+CCCCC=O	Pentanal (Valeraldehyde)	8063	110-62-3		None	None	None	None	None	None	None	None	None	15.7	9.4	5.8	solv	Abbott
+CCCCC	Pentane	8003	109-66-0		None	None	None	None	None	None	None	None	None	14.5	0	0	solv	Abbott
+CCCCC(=O)O	Pentanoic Acid	7991	109-52-4		None	None	None	None	None	None	None	None	None	15	4.1	10.3	solv	Abbott
+C1(C(C(C(C(C1(F)F)(F)F)(C(F)(F)F)F)(F)F)(F)F)(C(F)(F)F)F	Perfluoro Dimethylcyclohexane	221051	374-77-6		None	None	None	None	None	None	None	None	None	12.4	0	0	solv	Abbott
+C(=C(F)F)(F)F	Perfluoro Ethylene (Tetrafluoro Ethylene	8301	116-14-3		None	None	None	None	None	None	None	None	None	15.1	0	0	solv	Abbott
+C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F	Perfluorobutane	9638	355-25-9		None	None	None	None	None	None	None	None	None	10.6	0	0	solv	Abbott
+C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F	Perfluoroheptane	9553	335-57-9		None	None	None	None	None	None	None	None	None	12	0	0	solv	Abbott
+C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F	Perfluorohexane (PFC 5060)	9639	355-42-0		None	None	None	None	None	None	None	None	None	12.1	0	0	solv	Abbott
+C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(C(F)(F)F)F	Perfluoromethylcyclohexane	9637	355-02-2		None	None	None	None	None	None	None	None	None	12.4	0	0	solv	Abbott
+C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F	Perfluoropentane (PFC 5050)	12675	678-26-2		None	None	None	None	None	None	None	None	None	11.3	0	0	solv	Abbott
+CCOC1=CC=CC=C1	Phenetole (Ethyl Phenyl Ether)	7674	103-73-1		None	None	None	None	None	None	None	None	None	18.4	4.5	4	solv	Abbott
+C1=CC=C(C=C1)O	Phenol	996	108-95-2		None	None	None	None	None	None	None	None	None	18.5	5.9	14.9	solv	Abbott
+CC(=O)OC1=CC=CC=C1	Phenyl Acetate	31229	122-79-2		None	None	None	None	None	None	None	None	None	19.8	5.2	6.4	solv	Abbott
+C1=CC=C(C=C1)CC#N	Phenyl Acetonitrile	8794	140-29-4		None	None	None	None	None	None	None	None	None	19.5	12.3	3.8	solv	Abbott
+C#CC1=CC=CC=C1	Phenyl Acetylene	10821	536-74-3		None	None	None	None	None	None	None	None	None	18.8	2.8	4	solv	Abbott
+C1=CC=C(C=C1)NN	Phenylhydrazine	7516	100-63-0		None	None	None	None	None	None	None	None	None	20.4	6.5	14	solv	Abbott
+C(=O)(Cl)Cl	Phosgene	6371	75-44-5		None	None	None	None	None	None	None	None	None	16.4	5.3	5.3	solv	Abbott
+OP(=O)(O)O	Phosphoric Acid	1004	7664-38-2		None	None	None	None	None	None	None	None	None	14.7	18.6	28.4	solv	Abbott
+O=P(Cl)(Cl)Cl	Phosphorous Oxychloride	24813	10025-87-3		None	None	None	None	None	None	None	None	None	18.1	9.3	0	solv	Abbott
+0	Phosphorus Trichloride	0	2125683		None	None	None	None	None	None	None	None	None	18.4	3.6	0	solv	Abbott
+C1=CC=C2C(=C1)C(=O)OC2=O	Phthalic Anhydride	6811	85-44-9		None	None	None	None	None	None	None	None	None	20	14.4	4.1	solv	Abbott
+C1=C(C=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])[N+](=O)[O-]	Picric Acid (2,4,6-Trinitrophenol)	6954	88-89-1		None	None	None	None	None	None	None	None	None	19.2	7	6	solv	Abbott
+0	Pine Oil	0	8006-88-0		None	None	None	None	None	None	None	None	None	15.6	3	9.8	solv	Abbott
+C1CNCCN1	Piperazine	4837	110-85-0		None	None	None	None	None	None	None	None	None	17.3	4.8	6	solv	Abbott
+C1CCNCC1	Piperidine	8082	110-89-4		None	None	None	None	None	None	None	None	None	17.3	4.5	8.2	solv	Abbott
+CCC	Propane	6334	74-98-6		None	None	None	None	None	None	None	None	None	13.1	0	0	solv	Abbott
+CC(=O)OCC#C	Propargyl Acetate	69388	627-09-8		None	None	None	None	None	None	None	None	None	16.3	5.2	8.3	solv	Abbott
+C#CC=O	Propargylaldehyde	12222	624-67-9		None	None	None	None	None	None	None	None	None	16.2	11.9	8.7	solv	Abbott
+CCC=O	Propionaldehyde	527	123-38-6		None	None	None	None	None	None	None	None	None	15.3	11.1	6.9	solv	Abbott
+C1C(O1)C=O	Propionaldehyde - 2,3-Epoxy	13002	765-34-4		None	None	None	None	None	None	None	None	None	17.5	13.4	9.8	solv	Abbott
+CCC(=O)N	Propionamide	6578	79-05-0		None	None	None	None	None	None	None	None	None	16.7	14.6	11.5	solv	Abbott
+CCC(=O)O	Propionic Acid	1032	79-09-4		None	None	None	None	None	None	None	None	None	14.7	5.3	12.4	solv	Abbott
+CCC(=O)OC(=O)CC	Propionic Anhydride	31263	123-62-6		None	None	None	None	None	None	None	None	None	15.8	9	7.7	solv	Abbott
+CCC#N	Propionitrile	7854	107-12-0		None	None	None	None	None	None	None	None	None	15.3	14.3	5.5	solv	Abbott
+CCC(=O)Cl	Propionylchloride	62324	79-03-8		None	None	None	None	None	None	None	None	None	16.1	10.3	5.3	solv	Abbott
+CCCN	Propyl Amine	7852	107-10-8		None	None	None	None	None	None	None	None	None	16	4.9	8.6	solv	Abbott
+CCCCl	Propyl Chloride	10899	540-54-5		None	None	None	None	None	None	None	None	None	16	7.8	2	solv	Abbott
+CCCOC=O	Propyl Formate	8073	110-74-7		None	None	None	None	None	None	None	None	None	15.5	7.1	8.6	solv	Abbott
+CCCOC(=O)C(=C)C	Propyl Methacrylate	16638	2210-28-8		None	None	None	None	None	None	None	None	None	15.5	6.6	7	solv	Abbott
+CC=C	Propylene	8252	115-07-1		None	None	None	None	None	None	None	None	None	13.3	1.6	1.5	solv	Abbott
+CC1COC(=O)O1	Propylene Carbonate	7924	108-32-7		None	None	None	None	None	None	None	None	None	20	18	4.1	solv	Abbott
+CC(CCl)O	Propylene Chlorohydrin	31370	127-00-4		None	None	None	None	None	None	None	None	None	16.8	9.8	15.3	solv	Abbott
+CC(CO)O	Propylene Glycol	1030	57-55-6		None	None	None	None	None	None	None	None	None	16.8	10.4	21.3	solv	Abbott
+CC(COC(C)(C)C)O	Propylene Glycol Mono-t-Butyl Ether	92629	57018-52-7		None	None	None	None	None	None	None	None	None	15.3	6.1	10.8	solv	Abbott
+CCCCOCC(C)O	Propylene Glycol Monobutyl Ether	21210	5131-66-8		None	None	None	None	None	None	None	None	None	15.3	4.5	9.2	solv	Abbott
+CCOCC(C)O	Propylene Glycol Monoethyl Ether	15287	1569-02-4		None	None	None	None	None	None	None	None	None	15.7	6.5	10.5	solv	Abbott
+CCOCC(C)OC(=O)C	Propylene Glycol Monoethyl Ether Acetate	171378	54839-24-6		None	None	None	None	None	None	None	None	None	15.6	6.3	7.7	solv	Abbott
+CC(C)COCC(C)O	Propylene Glycol Monoisobutyl Ether	31904	23436-19-3		None	None	None	None	None	None	None	None	None	15.1	4.7	9.8	solv	Abbott
+CC(C)OCC(C)O	Propylene Glycol Monoisopropyl Ether	19846	3944-36-3		None	None	None	None	None	None	None	None	None	15.5	6.1	11	solv	Abbott
+CC(COC)O	Propylene Glycol Monomethyl Ether	7900	107-98-2		None	None	None	None	None	None	None	None	None	15.6	6.3	11.6	solv	Abbott
+CC(COC)OC(=O)C	Propylene Glycol Monomethyl Ether Acetate	7946	108-65-6		None	None	None	None	None	None	None	None	None	15.6	5.6	9.8	solv	Abbott
+CC(COC1=CC=CC=C1)O	Propylene Glycol Monophenyl Ether	92839	770-35-4		None	None	None	None	None	None	None	None	None	17.4	5.3	11.5	solv	Abbott
+CCCOCC(C)O	Propylene Glycol Monopropyl Ether	15286	1569-01-3		None	None	None	None	None	None	None	None	None	15.8	7	9.2	solv	Abbott
+CC1CN1	Propylene Imine (2-Methyl Aziridine)	6377	75-55-8		None	None	None	None	None	None	None	None	None	17.8	8.4	6.5	solv	Abbott
+CC1CO1	Propylene Oxide	6378	75-56-9		None	None	None	None	None	None	None	None	None	15.2	8.6	6.7	solv	Abbott
+C#CC#N	Propynonitrile	14055	1070-71-9		None	None	None	None	None	None	None	None	None	15.5	17	6.3	solv	Abbott
+CC1CCC(=C(C)C)C(=O)C1	Pulegone	638012	89-82-7		None	None	None	None	None	None	None	None	None	17.5	8.9	5.5	solv	Abbott
+C1=C2C(=NC=N1)N=CN2	Purine	1044	120-73-0		None	None	None	None	None	None	None	None	None	20.5	11.7	14.2	solv	Abbott
+C1=CNN=C1	Pyrazole	1048	288-13-1		None	None	None	None	None	None	None	None	None	20.2	10.4	12.4	solv	Abbott
+C1=CC=NN=C1	Pyridazine	9259	289-80-5		None	None	None	None	None	None	None	None	None	20.2	17.4	11.7	solv	Abbott
+C1=CC=NC=C1	Pyridine	1049	110-86-1		None	None	None	None	None	None	None	None	None	19	8.8	5.9	solv	Abbott
+C1=CN=CN=C1	Pyrimidine	9260	289-95-2		None	None	None	None	None	None	None	None	None	20.5	9.4	11.3	solv	Abbott
+C1=CC(=C(C(=C1)O)O)O	Pyrogallol (1,2,3-Trihydroxybenzene)	1057	87-66-1		None	None	None	None	None	None	None	None	None	20.7	10.7	21.1	solv	Abbott
+C1=CNC=C1	Pyrrole	8027	109-97-7		None	None	None	None	None	None	None	None	None	19.2	11	10	solv	Abbott
+C1CCNC1	Pyrrolidine	31268	123-75-1		None	None	None	None	None	None	None	None	None	17.9	6.5	7.4	solv	Abbott
+CC(=O)C#N	Pyruvonitrile	69430	631-57-2		None	None	None	None	None	None	None	None	None	15.9	18.9	8	solv	Abbott
+COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O	Quinine	91927769	130-95-0		None	None	None	None	None	None	None	None	None	19	6.6	11	solv	Abbott
+C1=CC=C2C(=C1)C=CC=N2	Quinoline	7047	91-22-5		None	None	None	None	None	None	None	None	None	20.5	5.6	5.7	solv	Abbott
+C1=CC=C2C(=C1)C(=O)NS2(=O)=O	Saccharin	5143	81-07-2		None	None	None	None	None	None	None	None	None	21.1	12.5	9.8	solv	Abbott
+C1=CC=C(C(=C1)C=O)O	Salicylaldehyde	6998	90-02-8		None	None	None	None	None	None	None	None	None	19	10.5	12	solv	Abbott
+C1=CC=C(C(=C1)C(=O)O)O	Salicylic Acid	338	69-72-7		None	None	None	None	None	None	None	None	None	19	9	13.7	solv	Abbott
+C(CCCCC(=O)O)CCCC(=O)O	Sebacic Acid	5192	111-20-6		None	None	None	None	None	None	None	None	None	17.1	7.1	11.7	solv	Abbott
+CCC(C)OC(=O)C	sec-Butyl Acetate	7758	105-46-4		None	None	None	None	None	None	None	None	None	15	3.7	7.6	solv	Abbott
+C1=CC2=C(C=C1O)C(=CN2)CCN	Serotonin	5202	50-67-9		None	None	None	None	None	None	None	None	None	18	8.2	14.4	solv	Abbott
+COC1=CC(=CC(=C1O)OC)C=CCO	Sinapyl Alcohol	5280507	537-33-7		None	None	None	None	None	None	None	None	None	19.2	7.3	16.1	solv	Abbott
+CC1=CNC2=CC=CC=C12	Skatole	6736	83-34-1		None	None	None	None	None	None	None	None	None	20	7.1	6.2	solv	Abbott
+C(CCNCCCN)CN	Spermidin	1102	124-20-9		None	None	None	None	None	None	None	None	None	16.7	11.2	12	solv	Abbott
+CCCCCCCCCCCCCCCCCC(=O)O	Stearic Acid	5281	57-11-4		None	None	None	None	None	None	None	None	None	16.3	3.3	5.5	solv	Abbott
+C=CC1=CC=CC=C1	Styrene	7501	100-42-5		None	None	None	None	None	None	None	None	None	18.6	1	4.1	solv	Abbott
+C1C(O1)C2=CC=CC=C2	Styrene Oxide (Phenyl Oxirane)	7276	96-09-3		None	None	None	None	None	None	None	None	None	19.4	5.8	6.6	solv	Abbott
+C(CC=O)C=O	Succinaldehyde (Butanedial)	12524	638-37-9		None	None	None	None	None	None	None	None	None	16.8	9.8	10.5	solv	Abbott
+C1CC(=O)OC1=O	Succinic Anhydride	7922	108-30-5		None	None	None	None	None	None	None	None	None	18.6	17.5	16	solv	Abbott
+C(CC#N)C#N	Succinonitrile	8062	110-61-2		None	None	None	None	None	None	None	None	None	18.2	17	7.9	solv	Abbott
+C1=CC(=CC=C1N)S(=O)(=O)N	Sulfanilamide	5333	63-74-1		None	None	None	None	None	None	None	None	None	20	19.5	10.7	solv	Abbott
+C1CCS(=O)(=O)C1	Sulfolane (Tetramethylene Sulfone)	31347	126-33-0		None	None	None	None	None	None	None	None	None	17.8	17.4	8.7	solv	Abbott
+C(#N)SC#N	Sulfur Dicyanide	136447	627-52-1		None	None	None	None	None	None	None	None	None	18.1	13.5	0	solv	Abbott
+0	Sulfur Dioxide	0	2025884		None	None	None	None	None	None	None	None	None	15.8	8.4	10	solv	Abbott
+O=S(=O)(Cl)Cl	Sulfuryl Chloride	24648	7791-25-5		None	None	None	None	None	None	None	None	None	17.6	7.2	0	solv	Abbott
+CC(=O)OC(C)(C)C	t-Butyl Acetate	10908	540-88-5		None	None	None	None	None	None	None	None	None	15	3.7	6	solv	Abbott
+CC(C)(C)O	t-Butyl Alcohol	6386	75-65-0		None	None	None	None	None	None	None	None	None	15.2	5.1	14.7	solv	Abbott
+C1=CC(=CC=C1C(=O)O)C(=O)O	Terephthalic Acid	7489	100-21-0		None	None	None	None	None	None	None	None	None	20	7.4	12.8	solv	Abbott
+CC(C)(C1=CC(=C(C(=C1)Br)O)Br)C2=CC(=C(C(=C2)Br)O)Br	Tetrabromobisphenol A	6618	79-94-7		None	None	None	None	None	None	None	None	None	20.2	9.1	13.8	solv	Abbott
+C(=C(Cl)Cl)(Cl)Cl	Tetrachloroethylene	31373	127-18-4		None	None	None	None	None	None	None	None	None	18.3	5.7	0	solv	Abbott
+CCO[Si](OCC)(OCC)OCC	Tetraethylorthosilicate	6517	78-10-4		None	None	None	None	None	None	None	None	None	13.9	4.3	0.6	solv	Abbott
+C1CCOC1	Tetrahydrofuran (THF)	8028	109-99-9		None	None	None	None	None	None	None	None	None	16.8	5.7	8	solv	Abbott
+C1CC(OC1)CO	Tetrahydrofurfuryl Alcohol	7360	97-99-4		None	None	None	None	None	None	None	None	None	17.8	8.2	12.9	solv	Abbott
+C1CCC2=CC=CC=C2C1	Tetrahydronaphthalene	8404	119-64-2		None	None	None	None	None	None	None	None	None	19.6	2	2.9	solv	Abbott
+C1CCOCC1	Tetrahydropyran	8894	142-68-7		None	None	None	None	None	None	None	None	None	16.4	6.3	6	solv	Abbott
+C1CCSCC1	Tetrahydrothiapyran	15367	1613-51-0		None	None	None	None	None	None	None	None	None	18.5	6.3	8.9	solv	Abbott
+C1CCSC1	Tetramethylene Sulfide	1127	110-01-0		None	None	None	None	None	None	None	None	None	18.6	6.7	6	solv	Abbott
+C1CCS(=O)C1	Tetramethylene Sulfoxide	1128	1600-44-8		None	None	None	None	None	None	None	None	None	18.2	11	9.1	solv	Abbott
+CN(C)C(=O)N(C)C	Tetramethylurea	12437	632-22-4		None	None	None	None	None	None	None	None	None	16.7	8.2	11	solv	Abbott
+C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]	Tetranitromethane	10509	509-14-8		None	None	None	None	None	None	None	None	None	15.5	8.5	7	solv	Abbott
+C1=CSC=N1	Thiazole	9256	288-47-1		None	None	None	None	None	None	None	None	None	20.5	18.8	10.8	solv	Abbott
+CC(=S)N	Thioacetamide	2723949	62-55-5		None	None	None	None	None	None	None	None	None	17.5	20.6	20.2	solv	Abbott
+CC(=O)S	Thioacetic Acid	10484	507-09-5		None	None	None	None	None	None	None	None	None	17	6.7	8.9	solv	Abbott
+C(#N)S	Thiocyanic Acid	781	463-56-9		None	None	None	None	None	None	None	None	None	16.8	8.9	10.9	solv	Abbott
+C(CSCCO)O	Thiodiethylenglycol	5447	111-48-8		None	None	None	None	None	None	None	None	None	17.3	8.8	19.8	solv	Abbott
+C(C(=O)O)S	Thioglycolic Acid (Mercapto Acetic Acid)	1133	68-11-1		None	None	None	None	None	None	None	None	None	16	13.5	20	solv	Abbott
+0	Thionyl Chloride	0	2125597		None	None	None	None	None	None	None	None	None	16.9	6.4	6.1	solv	Abbott
+C1=CSC=C1	Thiophene	8030	110-02-1		None	None	None	None	None	None	None	None	None	18.9	2.4	7.8	solv	Abbott
+C1=CC=C(C=C1)S	Thiophenol	7969	108-98-5		None	None	None	None	None	None	None	None	None	20	4.5	10.3	solv	Abbott
+C(=S)(N)N	Thiourea	2723790	62-56-6		None	None	None	None	None	None	None	None	None	20	19.4	14.8	solv	Abbott
+C(=S)(N)N	Thiourea From Urea Min Sphere	2723790	62-56-6		None	None	None	None	None	None	None	None	None	18	15	12	solv	Abbott
+CC1=CNC(=O)NC1=O	Thymine	1135	65-71-4		None	None	None	None	None	None	None	None	None	19	20.5	13	solv	Abbott
+CC1=CC(=C(C=C1)C(C)C)O	Thymol	6989	89-83-8		None	None	None	None	None	None	None	None	None	19	4.5	10.8	solv	Abbott
+CC=C(C)C=O	Tigaldehyde	5321950	497-03-0		None	None	None	None	None	None	None	None	None	16.2	12.9	6.8	solv	Abbott
+CC1=CC=CC=C1	Toluene	1140	108-88-3		None	None	None	None	None	None	None	None	None	18	1.4	2	solv	Abbott
+0	Tolylene Diisocyanate	0	86-91-9		None	None	None	None	None	None	None	None	None	19.3	7.9	6.1	solv	Abbott
+C1=CC=C(C=C1)C=CC=O	Trans-Cinnamaldehyde	637511	14371-10-9		None	None	None	None	None	None	None	None	None	19.4	12.4	6.2	solv	Abbott
+CC=CC#N	Trans-Crotononitrile	637921	627-26-9		None	None	None	None	None	None	None	None	None	16.4	18.8	5.5	solv	Abbott
+C1CCC2CCCCC2C1	Trans-Decahydronaphthalene	7044	493-02-7		None	None	None	None	None	None	None	None	None	18	0	0	solv	Abbott
+CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C	Tri-n-Butyl Acetyl Citrate	6505	77-90-7		None	None	None	None	None	None	None	None	None	16.7	2.5	7.4	solv	Abbott
+B(OCCCC)(OCCCC)OCCCC	Tri-n-Butyl Borate	12712	688-74-4		None	None	None	None	None	None	None	None	None	16.7	1.8	4.6	solv	Abbott
+CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)O	Tri-n-Butyl Citrate	6507	77-94-1		None	None	None	None	None	None	None	None	None	16.6	3.8	10.1	solv	Abbott
+CCCCOP(=O)(OCCCC)OCCCC	Tri-n-Butyl Phosphate	31357	126-73-8		None	None	None	None	None	None	None	None	None	16.3	6.3	4.3	solv	Abbott
+C(=O)(C(Cl)(Cl)Cl)O	Trichloroacetic Acid	6421	76-03-9		None	None	None	None	None	None	None	None	None	18.3	7	13	solv	Abbott
+C(#N)C(Cl)(Cl)Cl	Trichloroacetonitrile	11011	545-06-2		None	None	None	None	None	None	None	None	None	16.4	7.4	6.1	solv	Abbott
+C1=CC=C(C=C1)C2=C(C(=C(C=C2)Cl)Cl)Cl	Trichlorobiphenyl	41541	55702-46-0		None	None	None	None	None	None	None	None	None	19.2	5.3	4.1	solv	Abbott
+C(=C(Cl)Cl)Cl	Trichloroethylene	6575	79-01-6		None	None	None	None	None	None	None	None	None	18	3.1	5.3	solv	Abbott
+C(F)(Cl)(Cl)Cl	Trichlorofluoromethane (Freon 11)	6389	75-69-4		None	None	None	None	None	None	None	None	None	15.3	2	0	solv	Abbott
+C[Si](Cl)(Cl)Cl	Trichloromethylsilane	6399	75-79-6		None	None	None	None	None	None	None	None	None	16.5	6.6	3.5	solv	Abbott
+[Si](Cl)(Cl)Cl	Trichlorosilane	140487	10025-78-2		None	None	None	None	None	None	None	None	None	14.2	3.6	3.8	solv	Abbott
+C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl	Triclosan	5564	3380-34-5		None	None	None	None	None	None	None	None	None	20	7.7	10	solv	Abbott
+0	Tricresyl Phosphate	0	1330-78-5		None	None	None	None	None	None	None	None	None	19	12.3	4.5	solv	Abbott
+CC1(C2CC3C1(C3C2)C)C	Tricyclene	79035	508-32-7		None	None	None	None	None	None	None	None	None	16.9	0	0	solv	Abbott
+CCCCCCCCCCCCCO	Tridecyl Alcohol	8207	112-70-9		None	None	None	None	None	None	None	None	None	16.2	3.1	9	solv	Abbott
+C(CO)N(CCO)CCO	Triethanolamine	7618	102-71-6		None	None	None	None	None	None	None	None	None	17.3	7.6	21	solv	Abbott
+CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O	Triethyl Citrate	6506	77-93-0		None	None	None	None	None	None	None	None	None	16.5	4.9	12	solv	Abbott
+CCN(CC)CC	Triethylamine	8471	121-44-8		None	None	None	None	None	None	None	None	None	15.5	0.4	1	solv	Abbott
+C(COCCOCCO)O	Triethylene Glycol	8172	112-27-6		None	None	None	None	None	None	None	None	None	16	12.5	18.6	solv	Abbott
+COCCOCCOCCO	Triethylene Glycol Monomethyl Ether	8178	112-35-6		None	None	None	None	None	None	None	None	None	16.2	7.6	12.5	solv	Abbott
+CCCCCCCCC=CCCCCCCCCOCCOCCOCCO	Triethylene Glycol Monooleyl Ether	87099724	5274-66-8		None	None	None	None	None	None	None	None	None	16	3.1	8.4	solv	Abbott
+CCOP(=O)(OCC)OCC	Triethylphosphate	6535	78-40-0		None	None	None	None	None	None	None	None	None	16.7	11.4	9.2	solv	Abbott
+C(=O)(C(F)(F)F)O	Trifluoroacetic Acid	6422	76-05-1		None	None	None	None	None	None	None	None	None	15.6	9.7	11.4	solv	Abbott
+C(F)(F)F	Trifluoromethane (Freon 23)	6373	75-46-7		None	None	None	None	None	None	None	None	None	14.4	8.7	6.3	solv	Abbott
+CC(C)CCCCCCOC(=O)C1=CC(=C(C=C1)C(=O)OCCCCCCC(C)C)C(=O)OCCCCCCC(C)C	Triisononyl Trimellilate	104635	53894-23-8		None	None	None	None	None	None	None	None	None	16.6	5.7	2.2	solv	Abbott
+CC(C)CCCCCOC(=O)C1=CC(=C(C=C1)C(=O)OCCCCCC(C)C)C(=O)OCCCCCC(C)C	Triisooctyl Trimellitate	21871905	27251-75-8		None	None	None	None	None	None	None	None	None	16.6	6	2.5	solv	Abbott
+CN(C)C	Trimethyl Amine	1146	75-50-3		None	None	None	None	None	None	None	None	None	14.6	3.4	1.8	solv	Abbott
+CC1=CC(=C(C=C1)C)C	Trimethylbenzene	7247	95-63-6		None	None	None	None	None	None	None	None	None	18	1	1	solv	Abbott
+C1CSC1	Trimethylene Sulfide	9251	287-27-4		None	None	None	None	None	None	None	None	None	18.8	7.8	9.4	solv	Abbott
+COP(=O)(OC)OC	Trimethylphosphate	10541	512-56-1		None	None	None	None	None	None	None	None	None	15.7	10.5	10.2	solv	Abbott
+C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]	Trinitromethane	10602	517-25-9		None	None	None	None	None	None	None	None	None	15.5	10.3	7.3	solv	Abbott
+CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]	Trinitrotoluene (TNT) (DM)	8376	118-96-7		None	None	None	None	None	None	None	None	None	19.5	3.5	4.4	solv	Abbott
+CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]	Trinitrotoluene (TNT) (G.C.)	8376	118-96-7		None	None	None	None	None	None	None	None	None	19.5	10	4.5	solv	Abbott
+CCCCCCCCOP(=O)(OCCCCCCCC)OCCCCCCCC	Trioctyl Phosphate	15733	1806-54-8		None	None	None	None	None	None	None	None	None	16.2	5.9	4.2	solv	Abbott
+0	Triphenyl Phosphate	0	115-86-6		None	None	None	None	None	None	None	None	None	20.1	6.4	6.8	solv	Abbott
+0	Tripropylene Glycol Monomethyl Ether	0	30373-82-1		None	None	None	None	None	None	None	None	None	15.3	5.5	10.4	solv	Abbott
+CCCCCCCCCCC	Undecane	14257	1120-21-4		None	None	None	None	None	None	None	None	None	16	0	0	solv	Abbott
+C(=O)(N)N	Urea For Ro Equal 19.4	1176	57-13-6		None	None	None	None	None	None	None	None	None	20.9	18.7	26.4	solv	Abbott
+C(=O)(N)N	Urea Min Sphere	1176	57-13-6		None	None	None	None	None	None	None	None	None	17.6	17.3	16	solv	Abbott
+CCCCC#N	Valeronitrile	8061	110-59-8		None	None	None	None	None	None	None	None	None	15.3	11	4.8	solv	Abbott
+COC1=C(C=CC(=C1)C=O)O	Vanillin (4-Hydroxy-3-Methoxy Benzaldehy	1183	121-33-5		None	None	None	None	None	None	None	None	None	19.4	9.8	11.2	solv	Abbott
+C=COCCCl	Vinyl 2-Chloro Ethyl Ether	8074	110-75-8		None	None	None	None	None	None	None	None	None	16.3	6.7	5.8	solv	Abbott
+CCCCC(CC)COC=C	Vinyl 2-Ethylhexyl Ether	61004	103-44-6		None	None	None	None	None	None	None	None	None	15.6	3.4	4.2	solv	Abbott
+COCCOC=C	Vinyl 2-Methoxy Ethyl Ether	15457	1663-35-0		None	None	None	None	None	None	None	None	None	15.9	6.7	6.8	solv	Abbott
+CC(=O)OC=C	Vinyl Acetate	7904	108-05-4		None	None	None	None	None	None	None	None	None	16	7.2	5.9	solv	Abbott
+C=CC#C	Vinyl Acetylene	12720	689-97-4		None	None	None	None	None	None	None	None	None	16	1.7	8	solv	Abbott
+C=CCOC=C	Vinyl Allyl Ether	221523	3917-15-5		None	None	None	None	None	None	None	None	None	14.9	6.5	5.3	solv	Abbott
+C=CN	Vinyl Amine	11642	593-67-9		None	None	None	None	None	None	None	None	None	15.7	7.2	11.8	solv	Abbott
+0	Vinyl Butyl Carbitol	0	0		None	None	None	None	None	None	None	None	None	16	5	6	solv	Abbott
+CCCCOC=C	Vinyl Butyl Ether	8108	111-34-2		None	None	None	None	None	None	None	None	None	15.2	4.1	5.1	solv	Abbott
+CCCCSC=C	Vinyl Butyl Sulfide	138353	4789-70-2		None	None	None	None	None	None	None	None	None	16	5	5.4	solv	Abbott
+CCCC(=O)OC=C	Vinyl Butyrate	31247	123-20-6		None	None	None	None	None	None	None	None	None	15.6	3.9	6.9	solv	Abbott
+C=COCCOCCO	Vinyl Carbitol	13581	929-37-3		None	None	None	None	None	None	None	None	None	16.3	7.5	13.8	solv	Abbott
+C=CCl	Vinyl Chloride	6338	75-01-4		None	None	None	None	None	None	None	None	None	16	6.5	2.4	solv	Abbott
+CC=CC(=O)OC=C	Vinyl Crotonate	5365800	14861-06-4		None	None	None	None	None	None	None	None	None	15.9	5	9	solv	Abbott
+C=COC=C	Vinyl Ether	8024	109-93-3		None	None	None	None	None	None	None	None	None	14.8	4.2	5.8	solv	Abbott
+CCOCCOCCOC=C	Vinyl Ethyl Carbitol	25008	10143-53-0		None	None	None	None	None	None	None	None	None	15.9	6	6.6	solv	Abbott
+CCSC=C	Vinyl Ethyl Sulfide	12320	627-50-9		None	None	None	None	None	None	None	None	None	16.4	5.8	6.3	solv	Abbott
+C=COC=O	Vinyl Formate	222465	692-45-5		None	None	None	None	None	None	None	None	None	15.3	6.5	9.7	solv	Abbott
+C=CI	Vinyl Iodide (Iodoethene)	68976	593-66-8		None	None	None	None	None	None	None	None	None	18	5.5	7.3	solv	Abbott
+CC(C)COC=C	Vinyl Isobutyl Ether	7992	109-53-5		None	None	None	None	None	None	None	None	None	15.1	4.1	5.1	solv	Abbott
+CC(C)OC=C	Vinyl Isopropyl Ether	13557	926-65-8		None	None	None	None	None	None	None	None	None	14.7	3.5	5.2	solv	Abbott
+CCC(=O)OC=C	Vinyl Propionate	7750	105-38-4		None	None	None	None	None	None	None	None	None	15.6	8	4.7	solv	Abbott
+CCCOC=C	Vinyl Propyl Ether	69815	764-47-6		None	None	None	None	None	None	None	None	None	14.9	3.5	5.2	solv	Abbott
+C=CN1CCCC1=O	Vinyl Pyrrolidone	6917	88-12-0		None	None	None	None	None	None	None	None	None	16.4	9.3	5.9	solv	Abbott
+0	Vinyl S-Butyl Mercapto Ethyl Ether	0	0		None	None	None	None	None	None	None	None	None	16.5	5	5.8	solv	Abbott
+0	Vinyl S-Ethyl Mercapto Ethyl Ether	0	0		None	None	None	None	None	None	None	None	None	16.4	7	6	solv	Abbott
+0	Vinyl Silane	0	7291-09-0		None	None	None	None	None	None	None	None	None	15.5	2.6	4	solv	Abbott
+C=COC(=O)C(F)(F)F	Vinyl Trifluoro Acetate	79011	433-28-3		None	None	None	None	None	None	None	None	None	13.9	4.3	7.6	solv	Abbott
+C[Si](C)(C)C=C	Vinyl Trimethyl Silane	79102	754-05-2		None	None	None	None	None	None	None	None	None	14.5	1	2.5	solv	Abbott
+CCCCC(CC)C(=O)OC=C	Vinyl-2-Ethyl Hexanoate	62343	94-04-2		None	None	None	None	None	None	None	None	None	15.6	2.7	5.8	solv	Abbott
+C1=COC(=O)O1	Vinylenecarbonate	13385	872-36-6		None	None	None	None	None	None	None	None	None	17.3	18.1	9.6	solv	Abbott
+O	Water	962	7732-18-5		None	None	None	None	None	None	None	None	None	15.5	16	42.3	solv	Abbott
+O	Water 1% Soluble In - Ro=18.1	962	7732-18-5		None	None	None	None	None	None	None	None	None	15.1	20.4	16.5	solv	Abbott
+O	Water Complete Misc. (R=13.0)	962	7732-18-5		None	None	None	None	None	None	None	None	None	18.1	17.1	16.9	solv	Abbott
+CC1=CC=C(C=C1)C	Xylene	7809	106-42-3		None	None	None	None	None	None	None	None	None	17.8	1	3.1	solv	Abbott
+C1COC1=O	b-Propiolactone	2365	57-57-8		None	None	None	None	None	None	None	None	None	17	18.2	9	solv	Abbott
+C1=CC=C(C=C1)C(=O)CCl	a-Chloro Acetophenone	10757	532-27-4		None	None	None	None	None	None	None	None	None	20	9.6	5.7	solv	Abbott
+COC(=O)C(=C)Cl	a-Chloro Methyl Acrylate	6659	80-63-7		None	None	None	None	None	None	None	None	None	15.9	7.3	8.5	solv	Abbott
+C1CC(=O)OC1	g-Butyrolactone (GBL)	7302	96-48-0		None	None	None	None	None	None	None	None	None	18	16.6	7.4	solv	Abbott
+0	g-Thiobutyrolactone	0	1003-10-7		None	None	None	None	None	None	None	None	None	19	6.9	6.2	solv	Abbott
